@@ -1,0 +1,1501 @@
+id,company,role,location,industry,required_skills,duration_months,stipend
+INT000,Aditya Birla,Marketing Associate,City_116,Education,"['SQL', 'Merchandising', 'Express', 'Data Engineering', 'Microfinance']",12,21544
+INT001,Mahindra,Technical Support,City_168,Metals,"['Postman', 'Problem Solving']",6,23105
+INT002,Tata Steel,Full Stack Developer,City_269,Finance,"['Powershell', 'ISO 27001']",3,5963
+INT003,Bajaj,ML Engineer,City_172,Industry_014,"['Power BI', 'AutoCAD', 'STATA', 'PCB Design', 'Basic Computer Skills']",3,13008
+INT004,Tata Steel,Content Writer,City_171,Roads & Highways,"['Documentation', 'Store Management', 'Digital Marketing', 'PCB Design', 'R']",12,18615
+INT005,Cognizant,Software Developer,City_318,Industry_002,"['Logistics', 'Financial Modeling', 'Embedded Systems']",6,9388
+INT006,Cognizant,Data Analyst,Vijayawada,CleanTech,"['Node.js', 'SPSS', 'Basic Computer Skills', 'Solar Installation', 'CSR Implementation', 'PLC']",6,8566
+INT007,L&T,Business Analyst,City_116,Public Sector,"['MS Word', 'ISO 9001', 'HubSpot', 'Go', 'Electrical Wiring']",3,18345
+INT008,HCL,Cloud Engineer,Davanagere,KPO,"['Raspberry Pi', 'Critical Thinking', 'GCP', 'Node.js', 'Product Management', 'Automation Testing']",6,15983
+INT009,ICICI Bank,Copywriter,Vijayawada,Agriculture,"['NoSQL', 'Medical Coding', 'AML', 'Insurance Underwriting']",6,9261
+INT010,L&T,Recruiter,City_209,Industry_010,"['Investment Research', 'Masonry']",3,16058
+INT011,HCL,Financial Analyst,City_203,Handloom,"['ServiceNow', 'AML', 'CSS', 'Creativity', 'Nursing Assistance']",3,8817
+INT012,Tata Steel,DevOps Engineer,City_219,Industry_014,"['HTML', 'Cybersecurity']",3,22047
+INT013,Cognizant,UI/UX Designer,City_185,Metals,"['IoT', 'Machine Learning', 'Social Work', 'Go', 'Operations']",3,19930
+INT014,Infosys,Marketing Associate,Kaithal,Automotive,"['NGO Program Support', 'Figma', 'Jira']",6,16658
+INT015,TCS,Content Strategist,City_221,Public Health,"['Bash', 'Labor Laws', '3D Printing', 'Excel', 'Presentation', 'Plumbing']",6,18909
+INT016,Maruti Suzuki,Recruiter,City_330,Tourism,"['ISO 27001', 'Basic Computer Skills', 'Documentation', 'SEM', 'Risk Assessment', 'HTML']",3,12933
+INT017,HDFC Bank,Mobile App Developer,City_284,Technology,"['Manual Testing', 'PowerApps', 'Cybersecurity', 'HubSpot', 'Copywriting', 'Accessibility']",6,23031
+INT018,Tata Steel,Mobile App Developer,City_271,Hospitality,"['CSS', 'UI/UX', 'Design Systems', 'GIS', 'Tally']",12,9067
+INT019,TCS,ML Engineer,City_342,Oil & Gas,"['Phlebotomy', 'Nursing Assistance', 'JavaScript', 'IoT', 'React']",12,17066
+INT020,Bajaj,Operations Associate,Allahabad,AgriTech,"['3D Printing', 'Bash', 'JavaScript', 'Retail Operations']",6,13363
+INT021,Bajaj,Customer Support,Bokaro,Poultry,"['Telemedicine Support', '3D Printing', 'Carpentry', 'Plumbing', 'Talent Acquisition', 'NGO Program Support']",12,23766
+INT022,Maruti Suzuki,Content Writer,City_337,AgriTech,"['Wind Turbine Basics', 'Raspberry Pi', 'Field Survey', 'Arduino', 'AML', 'Store Management']",12,19948
+INT023,Infosys,Mobile App Developer,City_268,AgriTech,"['MS PowerPoint', 'Power Automate', 'Investment Research']",12,17586
+INT024,Aditya Birla,Growth Marketer,City_292,Banking,"['Lead Generation', 'CAM', 'Statistics']",6,5697
+INT025,Maruti Suzuki,HR Assistant,City_159,CSR,"['ServiceNow', 'Cybersecurity', 'GitHub', 'Networking', 'Excel', 'Powershell']",3,14647
+INT026,Maruti Suzuki,DevOps Engineer,City_221,Poultry,"['CAD', 'Vue', 'Cold Chain', 'Carpentry', 'EHR Systems', 'TypeScript']",12,20498
+INT027,Wipro,Content Writer,City_328,Aerospace,"['Social Work', 'Recruitment', 'Rust', 'Wind Turbine Basics', 'Quality Assurance']",3,12074
+INT028,HDFC Bank,Recruiter,City_117,Social Welfare,"['Adobe XD', 'Field Sales', 'HACCP', 'UAV Operation', 'Raspberry Pi', 'Taxation']",12,12994
+INT029,Cognizant,Growth Marketer,City_267,Hospitality,"['Rural Outreach', 'JavaScript', 'Digital Marketing', 'Python', 'Customer Relationship', 'Cold Chain']",12,8860
+INT030,Wipro,Mobile App Developer,City_290,Advertising,"['HubSpot', 'Rust', 'AutoCAD', 'Power Automate', 'GCP']",6,24349
+INT031,Maruti Suzuki,Digital Marketer,City_279,Industry_001,"['Labor Laws', 'UAV Operation', 'Technical Writing']",3,23042
+INT032,Reliance,Operations Associate,City_194,Renewable Energy,"['Masonry', 'Node.js', 'Figma', 'C', 'CAD']",6,18957
+INT033,Infosys,Automation Tester,Malegaon,Industry_013,"['MS Word', 'Google Analytics', '3D Printing']",6,8938
+INT034,HDFC Bank,Content Strategist,Bhiwani,Industry_014,"['Inventory Management', 'Typing', 'DevOps', 'Product Management']",12,15182
+INT035,Tech Mahindra,HR Assistant,City_140,Research,"['Rust', 'Linux']",6,12331
+INT036,TCS,Software Developer,City_342,Public Health,"['Arduino', 'Logistics', 'Supply Chain', 'Flask', 'Vue']",3,17687
+INT037,L&T,UI/UX Designer,Gwalior,Transportation,"['Embedded Systems', 'CRM', 'Go']",3,7169
+INT038,Reliance,HR Assistant,Srinagar,Advertising,"['Data Analysis', 'Content Writing', 'Masonry', 'IoT']",3,15531
+INT039,TCS,Finance Intern,City_209,Industry_014,"['Masonry', 'Customer Service', 'Penetration Testing']",12,19526
+INT040,Aditya Birla,Copywriter,City_322,Tourism,"['Store Management', 'Financial Modeling']",3,14168
+INT041,HDFC Bank,Software Developer,City_254,Textiles,"['Arduino', 'Digital Marketing', 'Logistics', 'Kubernetes', 'Vue']",12,19713
+INT042,Cognizant,DevOps Engineer,City_207,Industry_012,"['HACCP', 'MATLAB', 'PCB Design', 'AWS', 'Customer Relationship']",3,23201
+INT043,Maruti Suzuki,Data Scientist,City_252,Industry_007,"['Operations', 'React', 'Kubernetes', 'CAM', 'EHR Systems']",12,7188
+INT044,Maruti Suzuki,Technical Support,City_135,Healthcare,"['Basic Computer Skills', 'FSSAI Compliance', 'MS Excel', 'Documentation', 'Spring']",3,11502
+INT045,HCL,Finance Intern,City_119,Agriculture,"['Google Analytics', 'Auditing', 'Cashier']",3,11639
+INT046,ICICI Bank,Data Engineer,City_206,Pharmaceuticals,"['Data Entry', 'Data Analysis', 'Postman', 'C++', 'Vulnerability Assessment']",3,8331
+INT047,Infosys,Supply Chain Analyst,Kurnool,Technology,"['Power BI', 'Adobe XD', 'Microfinance', 'Payroll', 'Accessibility']",12,15412
+INT048,Wipro,Finance Intern,City_254,Panchayati Raj,"['Customer Relationship', 'GST', 'SPSS', 'Networking', 'Figma', 'Manual Testing']",3,22864
+INT049,HDFC Bank,Business Analyst,City_136,Entertainment,"['Merchandising', 'Git']",12,15584
+INT050,TCS,DevOps Engineer,City_203,AgriTech,"['CSS', 'NLP', 'Compliance', 'Requirements Gathering', 'Digital Marketing', 'Angular']",3,19802
+INT051,HCL,Automation Tester,City_129,Pharmaceuticals,"['Lean', 'MS Excel', 'Excel', 'Azure', 'Postman']",12,21372
+INT052,Aditya Birla,HR Assistant,South Dumdum,Warehousing,"['C', 'Kubernetes']",12,8023
+INT053,Cognizant,Financial Analyst,City_302,Rural Development,"['Statistics', 'Plumbing', 'Cybersecurity']",6,22020
+INT054,Cognizant,Copywriter,South Dumdum,Food & Beverage,"['HubSpot', 'Claims Processing', 'Public Speaking', 'Power Automate', 'Insurance Underwriting', 'Pharmacy Assistance']",12,19350
+INT055,HCL,Technical Support,City_219,Public Sector,"['Project Management', 'Tableau', 'Adaptability', 'GitLab', 'Data Entry', 'Packaging']",6,18383
+INT056,TCS,Marketing Associate,City_118,Food & Beverage,"['KYC', 'TypeScript', 'Teamwork', 'SharePoint', 'EHR Systems']",12,22845
+INT057,Tata Steel,QA Engineer,City_220,Poultry,"['Selenium', 'ISO 9001']",12,7001
+INT058,Reliance,Full Stack Developer,City_255,Non-Profit,"['Creativity', 'PowerApps', 'GCP', 'ServiceNow', 'C']",6,5073
+INT059,Reliance,Recruiter,Tirunelveli,Transportation,"['Bash', 'Canva', 'Masonry']",6,15744
+INT060,Aditya Birla,Cloud Engineer,Guwahati,Dairy,"['C', 'Community Mobilization', 'CRM', 'Typing']",6,8437
+INT061,Aditya Birla,Project Manager,City_208,CSR,"['Insurance Underwriting', 'Node.js', 'Customer Service']",12,10708
+INT062,Infosys,Operations Associate,Mangalore,Water & Sanitation,"['Procurement', 'Selenium', 'Rural Outreach', 'PCB Design', 'HTML', 'CATIA']",12,22506
+INT063,Maruti Suzuki,Automation Tester,City_138,Non-Profit,"['Carpentry', 'IoT', 'Typing', 'SEO', 'Power Automate']",12,5529
+INT064,Wipro,DevOps Engineer,Ludhiana,Environmental Services,"['Raspberry Pi', 'Nursing Assistance']",12,12530
+INT065,Aditya Birla,Content Strategist,City_278,Handicrafts,"['Cashier', 'Nursing Assistance', 'Scrum', 'Critical Thinking', 'SEM', 'GIS']",3,14769
+INT066,Cognizant,Supply Chain Analyst,City_173,Industry_009,"['Adaptability', 'SolidWorks', 'Masonry', 'Flask', 'GIS', 'Data Engineering']",6,16363
+INT067,Mahindra,QA Engineer,City_280,Aviation,"['Microfinance', 'NoSQL', 'Nursing Assistance', 'Surveying', 'Employee Engagement']",3,16696
+INT068,Cognizant,Cloud Engineer,City_121,Panchayati Raj,"['Manual Testing', 'Supply Chain', 'ISO 9001', 'Penetration Testing', 'Typing']",12,11119
+INT069,TCS,Data Engineer,City_316,Leather,"['Bookkeeping', 'PowerApps', 'Express', 'VLSI Basics']",3,20119
+INT070,Mahindra,Supply Chain Analyst,City_273,Ports & Shipping,"['Typing', 'DevOps', 'Carpentry', 'PLC', 'Labor Laws']",12,21293
+INT071,Tata Steel,Full Stack Developer,Maheshtala,Defense,"['Creativity', 'PLC', 'Penetration Testing', 'Teamwork']",12,6251
+INT072,Maruti Suzuki,QA Engineer,City_273,Waste Management,"['Python', 'Inventory Management', 'Wind Turbine Basics', 'Powershell', 'Packaging', 'Plumbing']",3,17080
+INT073,TCS,Cybersecurity Analyst,City_138,Manufacturing,"['Rural Outreach', 'Supply Chain', 'Bookkeeping', 'Store Management']",12,15874
+INT074,Aditya Birla,Finance Intern,City_292,Retail,"['FSSAI Compliance', 'SPSS']",3,14161
+INT075,Cognizant,Recruiter,Nadiad,Industry_014,"['Tally', 'Technical Writing', 'Scrum', 'Bash']",12,17883
+INT076,Mahindra,Operations Associate,City_202,Courier,"['Accounting', 'Embedded Systems', 'Content Writing']",3,13081
+INT077,Aditya Birla,Growth Marketer,Nellore,Industry_002,"['KYC', 'PLC', 'Technical Writing', 'ServiceNow', 'Logistics', 'Adobe XD']",3,22897
+INT078,Cognizant,Data Engineer,City_294,Pharmaceuticals,"['Warehouse Operations', 'Linux', 'Confluence', 'Data Analysis']",12,15743
+INT079,Wipro,Recruiter,City_173,Industry_007,"['GitLab', 'HubSpot', 'Supply Chain', 'Linux', 'PLC']",3,18226
+INT080,Bajaj,Product Manager,City_114,Climate & Sustainability,"['IoT', 'Power Automate', 'Pharmacy Assistance', 'Financial Modeling', 'Statistics', 'Canva']",12,8480
+INT081,L&T,Cybersecurity Analyst,City_201,Oil & Gas,"['Go', 'GIS', 'Public Speaking', 'Creativity']",6,17657
+INT082,Tech Mahindra,Recruiter,City_167,Healthcare,"['Inside Sales', 'Rural Outreach', 'Presentation', 'CSR Implementation', 'Packaging', 'SEO']",6,12346
+INT083,TCS,UI/UX Designer,City_157,Research,"['R', 'FSSAI Compliance', 'Adaptability', 'PLC', 'Express', 'Power BI']",6,24628
+INT084,Mahindra,Cloud Engineer,Rajkot,Courier,"['Telemedicine Support', 'CRM', 'SCADA', 'Accessibility', 'Technical Writing', 'Zoho']",3,7818
+INT085,Tech Mahindra,Digital Marketer,Palwal,Dairy,"['Machine Learning', 'Field Sales', 'Content Writing', 'Selenium']",3,15707
+INT086,Tech Mahindra,Marketing Associate,Hisar,Pharmaceuticals,"['Store Management', 'GitHub', 'Investment Research']",12,12027
+INT087,Tech Mahindra,Copywriter,City_244,Industry_008,"['NLP', 'Accessibility', 'L&D', 'Manual Testing', 'Sales', 'CSS']",3,13708
+INT088,Tech Mahindra,DevOps Engineer,City_330,Pharmaceuticals,"['CSR Implementation', 'ServiceNow', 'Machine Learning', 'NoSQL']",6,10810
+INT089,Mahindra,Content Writer,City_316,Disaster Management,"['Medical Coding', 'Electronics Repair']",12,20495
+INT090,L&T,Data Analyst,City_310,Industry_008,"['Rural Outreach', 'ISO 9001', 'Java']",6,16828
+INT091,Wipro,Product Manager,City_264,Disaster Management,"['NGO Program Support', 'Finance', 'Inventory Management', 'Kubernetes', 'AWS', 'Lead Generation']",12,19029
+INT092,Reliance,Data Analyst,City_167,Industry_013,"['Critical Thinking', 'Recruitment', 'ServiceNow', 'Rural Outreach', 'Automation Testing', 'MS PowerPoint']",6,14159
+INT093,HDFC Bank,Full Stack Developer,Bellary,Hospitality,"['Telemedicine Support', 'Salesforce', 'Time Management', 'KYC', 'HACCP']",6,22738
+INT094,Aditya Birla,Marketing Associate,City_302,Handloom,"['Zoho', 'Sales', 'SharePoint', 'Retail Operations']",12,14438
+INT095,Wipro,HR Assistant,Noida,Food Processing,"['R', 'Data Engineering', 'Nursing Assistance', 'L&D', 'CRM', 'Go']",3,5205
+INT096,Cognizant,Data Analyst,Nashik,Real Estate,"['Tally', 'Solar Installation', 'Graphic Design', 'Electrical Wiring']",12,12605
+INT097,Infosys,Growth Marketer,City_122,Defense,"['Field Sales', 'Sales']",3,11827
+INT098,TCS,Marketing Associate,City_175,Railways,"['Customer Service', 'Vulnerability Assessment']",12,18948
+INT099,L&T,Network Engineer,Shimoga,Industry_002,"['Digital Marketing', 'Social Media']",6,22033
+INT100,L&T,Supply Chain Analyst,City_197,Metals,"['Welding', 'Cashier', 'Public Speaking', 'Azure', 'Leadership', 'Phlebotomy']",3,18863
+INT101,Mahindra,Mobile App Developer,City_327,Textiles,"['Wind Turbine Basics', 'HR', 'DevOps', 'Risk Assessment']",3,9251
+INT102,ICICI Bank,Full Stack Developer,City_264,Industry_009,"['Financial Modeling', 'SEO', 'ISO 27001']",3,22230
+INT103,HCL,Customer Support,Aizawl,Industry_005,"['Excel', 'Claims Processing', 'Cloud', 'Networking', 'Flask', 'STATA']",3,24876
+INT104,Wipro,Mobile App Developer,City_331,Technology,"['Carpentry', 'Deep Learning', 'Django', 'GST']",12,5265
+INT105,Cognizant,Data Scientist,City_267,Banking,"['Documentation', 'Public Speaking', 'Docker', 'Vulnerability Assessment', 'Cashier']",12,20177
+INT106,ICICI Bank,Software Developer,City_273,E-commerce,"['Warehouse Operations', 'Creativity', 'Telemedicine Support', 'Machine Learning', 'Food Safety']",6,10798
+INT107,Maruti Suzuki,Cloud Engineer,City_180,Railways,"['Inside Sales', 'Confluence', 'Risk Assessment', 'Taxation', 'CAD']",12,13704
+INT108,Mahindra,DevOps Engineer,City_195,Real Estate,"['SQL', 'Field Sales', 'Azure', 'Welding', 'Deep Learning', 'Time Management']",12,19862
+INT109,Reliance,Mobile App Developer,City_337,MSME,"['Store Management', 'Statistics', 'Logistics']",3,23001
+INT110,Tech Mahindra,Cloud Engineer,City_226,Aerospace,"['GitHub', 'Flask', 'JMeter', 'Pharmacy Assistance', 'Figma']",3,19512
+INT111,Maruti Suzuki,Cybersecurity Analyst,Jhajjar,CSR,"['Powershell', 'Rust', 'Field Sales', 'Bash', 'GitHub', 'CI/CD']",12,23575
+INT112,Cognizant,Supply Chain Analyst,Sirsa,Industry_009,"['Git', 'Computer Vision', 'Insurance Underwriting', 'L&D', 'Field Sales']",12,24175
+INT113,Infosys,QA Engineer,City_156,Non-Profit,"['AutoCAD', 'Azure', 'Accessibility', 'Linux', 'Field Sales', 'Surveying']",6,13012
+INT114,Maruti Suzuki,Operations Associate,City_277,BPO/ITES,"['CATIA', 'Branding', 'Technical Writing', 'Recruitment']",3,21026
+INT115,Tata Steel,QA Engineer,City_238,Industry_009,"['Adobe XD', 'Kubernetes', 'Logistics', 'SEM', 'Agile']",3,23711
+INT116,ICICI Bank,Project Manager,City_130,Food & Beverage,"['Embedded Systems', 'Cashier', 'Merchandising', 'Tableau', 'Bash']",6,24779
+INT117,Tech Mahindra,Full Stack Developer,City_299,Textiles,"['Powershell', '3D Printing']",3,19422
+INT118,Infosys,Cloud Engineer,Srinagar,Environmental Services,"['Food Safety', 'PCB Design', 'Six Sigma']",12,21308
+INT119,Tata Steel,ML Engineer,Sirsa,Metro Rail,"['AWS', 'SCADA', 'CATIA', 'Creativity']",3,9281
+INT120,Wipro,Software Developer,City_346,Industry_011,"['Cloud', 'Zoho']",6,18013
+INT121,Tata Steel,Customer Support,Varanasi,MSME,"['GitHub', 'NoSQL', 'CSS']",6,23160
+INT122,Mahindra,Supply Chain Analyst,City_239,Social Welfare,"['Critical Thinking', 'CNC', 'Employee Engagement', 'Finance', 'Pharmacy Assistance', 'ISO 27001']",12,17196
+INT123,Aditya Birla,HR Assistant,City_183,Warehousing,"['Solar Installation', 'MS Excel', 'Logistics']",3,6325
+INT124,HCL,Software Developer,City_143,Food Processing,"['Supply Chain', 'GIS', 'Data Analysis']",12,23803
+INT125,ICICI Bank,ML Engineer,City_236,Telecommunications,"['Kubernetes', 'ISO 27001', 'Store Management', '3D Printing']",3,5748
+INT126,Maruti Suzuki,DevOps Engineer,City_330,Food & Beverage,"['PowerApps', 'Store Management', 'Electrical Wiring']",12,16411
+INT127,Aditya Birla,Software Developer,Hubli–Dharwad,Food Processing,"['ISO 9001', 'Requirements Gathering', 'Surveying']",12,21756
+INT128,HCL,Data Analyst,City_314,Courier,"['PLC', 'Recruitment']",6,7708
+INT129,HCL,Automation Tester,City_304,Ports & Shipping,"['IoT', 'Tableau']",3,18035
+INT130,TCS,QA Engineer,Udaipur,Industry_008,"['Tableau', 'ISO 27001', 'Docker']",3,20084
+INT131,Reliance,Finance Intern,City_339,Hospitality,"['Tableau', 'IoT']",12,7924
+INT132,Infosys,ML Engineer,City_196,Poultry,"['MATLAB', 'Bash']",3,8963
+INT133,Bajaj,Network Engineer,Visakhapatnam,Leather,"['Merchandising', 'HubSpot', 'UAV Operation']",12,22339
+INT134,Maruti Suzuki,Finance Intern,City_128,Courier,"['Risk Assessment', 'Store Management', 'UI/UX', 'NoSQL', 'Content Writing', '3D Printing']",3,19137
+INT135,Reliance,Marketing Associate,Kurukshetra,Rural Development,"['UAV Operation', 'GitLab']",6,14878
+INT136,Maruti Suzuki,HR Assistant,Jalandhar,Real Estate,"['GitLab', 'Computer Vision', 'Deep Learning', 'Digital Marketing']",3,23297
+INT137,Aditya Birla,Content Writer,City_321,Disaster Management,"['Salesforce', 'C++', 'PLC']",12,15703
+INT138,Wipro,DevOps Engineer,City_306,GovTech,"['STATA', 'JavaScript', 'Electronics Repair', 'Cybersecurity', 'EHR Systems']",6,16467
+INT139,Tata Steel,Content Writer,Allahabad,Industry_009,"['UI/UX', 'Cashier']",12,23640
+INT140,Bajaj,Digital Marketer,Noida,Industry_014,"['Leadership', 'JavaScript', 'Community Mobilization', 'NLP', 'Graphic Design', 'Selenium']",3,9649
+INT141,HDFC Bank,UI/UX Designer,City_218,Solar,"['Field Sales', 'Typing', 'Investment Research', 'Supply Chain', 'Branding', 'Social Work']",3,11947
+INT142,Tech Mahindra,Software Developer,City_133,Energy,"['Go', 'Azure', 'Communication']",3,18843
+INT143,Infosys,Digital Marketer,City_315,Construction,"['Design Systems', 'CATIA', 'Teamwork', 'Marketing', 'Django']",3,24630
+INT144,Bajaj,Data Analyst,City_227,Industry_007,"['Compliance', 'L&D']",12,5733
+INT145,Reliance,Product Manager,Jamshedpur,Defense,"['MS Word', 'Remote Sensing', 'Excel', 'HubSpot']",6,13554
+INT146,Tech Mahindra,Cloud Engineer,City_324,Cybersecurity,"['Adobe XD', 'EHR Systems']",12,14353
+INT147,TCS,Product Manager,Dhanbad,Aerospace,"['VLSI Basics', 'Taxation']",6,21265
+INT148,Bajaj,Data Engineer,City_328,Leather,"['Payroll', 'SharePoint', 'Branding', 'Carpentry']",3,17153
+INT149,Mahindra,Operations Associate,City_347,Industry_014,"['Tally', 'Digital Marketing', 'Payroll', 'GitHub']",3,13233
+INT150,Mahindra,Content Strategist,Tiruchirappalli,Hospitality,"['Postman', 'Labor Laws', 'Python', 'Power BI']",3,23184
+INT151,TCS,Technical Support,Bhiwandi,Public Health,"['NoSQL', 'ISO 27001']",3,18519
+INT152,L&T,Product Manager,Gurgaon,Leather,"['Requirements Gathering', 'Social Work', 'Deep Learning', 'Public Speaking', 'Kubernetes']",6,21917
+INT153,TCS,Recruiter,Pune,Social Welfare,"['Store Management', 'HACCP']",6,19672
+INT154,Infosys,DevOps Engineer,City_304,Manufacturing,"['HubSpot', 'Telemedicine Support']",3,20186
+INT155,Infosys,UI/UX Designer,City_261,Education,"['Automation Testing', 'Statistics', 'Agile', 'Angular', 'Postman']",12,12510
+INT156,ICICI Bank,Data Scientist,Rajkot,GovTech,"['MS Word', 'Requirements Gathering', 'Public Speaking', 'Copywriting']",3,18127
+INT157,Wipro,ML Engineer,Sonipat,Manufacturing,"['CAM', 'Labor Laws']",3,16433
+INT158,L&T,Full Stack Developer,City_271,Industry_001,"['Manual Testing', 'L&D', 'Telemedicine Support', 'PCB Design']",6,21258
+INT159,TCS,UI/UX Designer,Saharanpur,Startups & Incubation,"['CRM', 'Penetration Testing']",12,11565
+INT160,Bajaj,Content Writer,Davanagere,Textiles,"['Labor Laws', 'Logistics', 'DevOps', 'Data Analysis']",6,24174
+INT161,Infosys,HR Assistant,City_124,Hospitality,"['JavaScript', 'SQL', 'Vue', 'Technical Writing', 'Warehouse Operations']",6,18944
+INT162,Infosys,Business Analyst,City_170,Research,"['Go', 'Rural Outreach', 'Spring', 'Zoho', 'Tableau', 'React']",6,24284
+INT163,Mahindra,Automation Tester,City_240,Aerospace,"['NoSQL', 'TypeScript', 'Risk Assessment', 'Surveying']",6,24187
+INT164,HCL,Recruiter,City_283,Telecommunications,"['Rural Outreach', 'EHR Systems', 'Laboratory Technician', 'Masonry', 'Medical Coding', 'Business Analysis']",12,5099
+INT165,ICICI Bank,Product Manager,City_342,Industry_005,"['Sales', 'Power Automate']",3,6385
+INT166,HDFC Bank,Supply Chain Analyst,City_312,Aviation,"['Electrical Wiring', 'Copywriting']",12,24593
+INT167,Tech Mahindra,Financial Analyst,City_203,Legal,"['Teamwork', 'Solar Installation', 'Canva', 'GIS', 'Flask', 'Penetration Testing']",6,24343
+INT168,Mahindra,Automation Tester,Saharanpur,Horticulture,"['Raspberry Pi', 'CATIA', 'Risk Assessment', 'SEM', 'Statistics']",6,17517
+INT169,Infosys,DevOps Engineer,Fatehabad,Metro Rail,"['React', 'Presentation', 'ISO 9001', '3D Printing']",6,13134
+INT170,HCL,Content Strategist,Sambalpur,Industry_012,"['Labor Laws', 'Bash', 'ISO 27001', 'Claims Processing']",12,21888
+INT171,Aditya Birla,Operations Associate,City_305,AgriTech,"['CNC', 'Tableau', 'Embedded Systems', 'Manual Testing', 'C', 'Spring']",12,13654
+INT172,Wipro,Mobile App Developer,City_221,Beauty & Wellness,"['Go', 'UI/UX', 'Six Sigma']",3,21894
+INT173,Mahindra,Content Strategist,City_277,E-commerce,"['Machine Learning', 'HR']",3,10189
+INT174,Aditya Birla,Automation Tester,City_338,Manufacturing,"['NLP', 'Data Entry', 'Data Engineering', 'Accessibility']",6,23728
+INT175,L&T,Supply Chain Analyst,City_259,Industry_014,"['Manual Testing', 'GCP', 'Power BI', 'Data Engineering', 'Quality Assurance', 'TypeScript']",12,22612
+INT176,L&T,QA Engineer,City_301,AgriTech,"['Rust', 'Node.js', 'Data Entry', 'Inventory Management', 'Confluence', 'Social Media']",12,9529
+INT177,Wipro,Technical Support,Saharanpur,Leather,"['Customer Service', 'Adaptability', 'Claims Processing', 'Design Systems']",12,19429
+INT178,L&T,Digital Marketer,City_225,Finance,"['GitHub', 'Django', 'Go', 'Confluence', 'Typing', 'CSS']",6,20542
+INT179,ICICI Bank,Financial Analyst,City_342,Agriculture,"['Networking', 'Bookkeeping', 'CAM']",3,14815
+INT180,Bajaj,Content Writer,Solapur,Industry_012,"['Docker', 'Time Management']",6,24347
+INT181,HDFC Bank,Customer Support,Bokaro,Gaming,"['CAD', 'Critical Thinking', 'DevOps', 'Postman', 'Merchandising']",6,23959
+INT182,Aditya Birla,Data Engineer,City_245,Event Management,"['Technical Writing', 'CSS']",12,16620
+INT183,HCL,Cybersecurity Analyst,Bhiwandi,FinTech,"['ServiceNow', 'SCADA']",6,8686
+INT184,ICICI Bank,Copywriter,Faridabad,Ports & Shipping,"['Wind Turbine Basics', 'Agile', 'GitLab', 'Presentation', 'Digital Marketing', 'FSSAI Compliance']",12,23127
+INT185,L&T,Product Manager,City_171,Industry_007,"['Accounting', 'Excel', 'PowerApps', 'JMeter', 'SCADA']",12,18046
+INT186,Wipro,Business Analyst,City_328,Education,"['Talent Acquisition', 'EHR Systems', 'Solar Installation', 'Digital Marketing', 'Embedded Systems', 'GST']",6,22917
+INT187,HCL,Network Engineer,City_136,Advertising,"['Go', 'Technical Writing', 'Automation Testing', 'Time Management', 'Email Marketing']",3,7122
+INT188,Mahindra,Software Developer,Maheshtala,Startups & Incubation,"['Statistics', 'Operations', 'Azure', 'Docker']",6,24005
+INT189,Maruti Suzuki,Product Manager,City_323,Fisheries,"['Typing', 'Data Entry', 'STATA', 'Python']",12,23804
+INT190,Maruti Suzuki,Technical Support,City_114,EdTech,"['Inventory Management', 'MS Excel', 'Medical Coding', 'Problem Solving', 'Graphic Design', 'VLSI Basics']",3,19283
+INT191,Wipro,Project Manager,City_203,Railways,"['Microfinance', 'Basic Computer Skills', 'Quality Assurance']",12,23866
+INT192,Infosys,Copywriter,Kanpur,Marketing Services,"['Machine Learning', 'Copywriting']",3,12027
+INT193,Tech Mahindra,ML Engineer,City_301,Industry_011,"['Auditing', 'UAV Operation', 'Rural Outreach']",12,10349
+INT194,Tech Mahindra,Full Stack Developer,Karnal,Industry_006,"['Excel', 'Design Systems', 'UI/UX', '5S', 'POS Systems']",6,5013
+INT195,ICICI Bank,Cloud Engineer,City_128,Education,"['Inside Sales', 'CATIA', 'Time Management', 'NLP']",6,15893
+INT196,Maruti Suzuki,Content Strategist,Kanpur,E-commerce,"['Marketing', 'Microfinance', 'Social Media', 'Teamwork']",3,13591
+INT197,Infosys,Supply Chain Analyst,Moradabad,Handloom,"['Remote Sensing', 'SQL', 'Cybersecurity', 'Medical Coding']",6,13965
+INT198,TCS,Customer Support,City_291,Horticulture,"['Flask', 'Lean', 'Rural Outreach', 'KYC', 'Communication']",12,7140
+INT199,Maruti Suzuki,HR Assistant,Bikaner,Industry_004,"['PCB Design', 'MS PowerPoint', '3D Printing', 'Microfinance']",12,6370
+INT200,L&T,Recruiter,Delhi,Poultry,"['SolidWorks', 'GCP', 'NLP', 'Business Analysis', 'Data Analysis']",6,13875
+INT201,Reliance,HR Assistant,Jalandhar,Shared Services,"['Carpentry', 'Powershell', 'Logistics', 'Plumbing']",6,13684
+INT202,L&T,Copywriter,City_316,Beauty & Wellness,"['Welding', 'Agile', 'Medical Coding', 'SCADA', 'Procurement', 'AutoCAD']",6,15211
+INT203,Cognizant,HR Assistant,City_196,CSR,"['Phlebotomy', 'Deep Learning', 'Field Sales', 'HubSpot']",12,13559
+INT204,ICICI Bank,Customer Support,City_338,Media,"['SPSS', 'VLSI Basics']",3,24631
+INT205,Aditya Birla,Cloud Engineer,Aurangabad,Industry_002,"['Taxation', 'Agile', 'Medical Coding', 'Bookkeeping', 'Nursing Assistance']",3,16510
+INT206,Infosys,Data Scientist,City_243,Transportation,"['Packaging', 'Store Management', 'Django', 'Graphic Design', 'PCB Design']",12,23194
+INT207,Maruti Suzuki,Content Writer,Kurukshetra,Horticulture,"['Agile', 'HR', 'Laboratory Technician', 'GIS']",3,8277
+INT208,L&T,Operations Associate,City_134,Water & Sanitation,"['Arduino', 'Vue', 'Bookkeeping', 'Presentation']",3,6610
+INT209,TCS,Supply Chain Analyst,City_336,Cloud Services,"['Social Media', 'Cloud', 'Copywriting', 'MS Word', 'SCADA', 'Scrum']",3,6538
+INT210,HDFC Bank,Data Engineer,City_193,Mining,"['SharePoint', 'KYC', 'CATIA', 'VLSI Basics']",6,19134
+INT211,Mahindra,Copywriter,Kalyan,Water & Sanitation,"['Documentation', 'Kubernetes', 'C', 'ServiceNow', 'Email Marketing']",6,18880
+INT212,Tech Mahindra,Digital Marketer,City_251,Industry_011,"['HubSpot', 'MS PowerPoint', 'Rust', '3D Printing', 'Automation Testing']",6,15450
+INT213,HCL,UI/UX Designer,City_260,Legal,"['Payroll', 'MATLAB']",3,17108
+INT214,HDFC Bank,Customer Support,City_208,Mining,"['Painting', 'Powershell', 'CSR Implementation']",6,16026
+INT215,Tata Steel,Business Analyst,Varanasi,Pharmaceuticals,"['Masonry', 'CRM', 'Raspberry Pi', 'IoT', 'Customer Relationship']",3,6759
+INT216,TCS,Cybersecurity Analyst,City_346,Handloom,"['Powershell', 'R', 'GitHub']",3,14637
+INT217,Wipro,Growth Marketer,City_232,Handloom,"['Nursing Assistance', 'Drones', '5S', 'Email Marketing', 'Inventory Management']",3,15354
+INT218,Bajaj,Data Scientist,City_200,Manufacturing,"['Data Analysis', 'GitLab']",6,8274
+INT219,Infosys,Digital Marketer,City_258,Insurance,"['Creativity', 'Solar Installation', 'Supply Chain', 'Django', 'Java', 'Field Survey']",12,5491
+INT220,Infosys,Financial Analyst,City_302,Social Welfare,"['Communication', 'Retail Operations', 'Teamwork', 'CAD', 'STATA']",3,7593
+INT221,Wipro,Operations Associate,City_305,Solar,"['SharePoint', 'C', 'Business Analysis', 'Manual Testing', 'Cloud']",12,18387
+INT222,Maruti Suzuki,Project Manager,Bokaro,Analytics,"['Express', 'GCP', 'Store Management', 'Power BI', 'Linux']",3,11681
+INT223,L&T,Project Manager,City_118,Industry_009,"['HubSpot', 'Graphic Design', 'Compliance', 'Customer Relationship', 'Medical Coding']",12,17644
+INT224,Tech Mahindra,Technical Support,City_273,Media,"['SolidWorks', 'Finance', 'Painting', 'Git', 'Financial Modeling']",6,21844
+INT225,Wipro,Business Analyst,Noida,Aerospace,"['Nursing Assistance', 'Microfinance', 'Design Systems', 'Problem Solving', 'Field Sales', 'Scrum']",6,13793
+INT226,TCS,Data Analyst,City_347,Handloom,"['Branding', 'Surveying', 'Financial Modeling', 'SEO']",12,20309
+INT227,ICICI Bank,Network Engineer,Malegaon,Courier,"['Power BI', 'AWS']",3,10051
+INT228,Cognizant,Cybersecurity Analyst,City_230,GovTech,"['VLSI Basics', 'Social Work', 'Claims Processing', 'Insurance Underwriting', 'Public Speaking', 'Packaging']",12,7780
+INT229,Mahindra,Finance Intern,City_204,Industry_012,"['Project Management', 'Food Safety', 'Content Writing']",12,10451
+INT230,Mahindra,Cloud Engineer,Bhopal,Cold Chain,"['MS PowerPoint', 'Bookkeeping', 'Pharmacy Assistance', 'Git', 'Node.js', '5S']",6,5413
+INT231,Aditya Birla,Recruiter,Amritsar,Telecommunications,"['Power Automate', 'Supply Chain', 'Agile', 'HTML', 'Jira', 'Lead Generation']",12,11368
+INT232,TCS,Content Writer,City_312,Public Sector,"['POS Systems', 'Data Entry', 'Problem Solving', 'GCP']",6,12518
+INT233,ICICI Bank,Full Stack Developer,City_118,CleanTech,"['NoSQL', 'EHR Systems']",12,8402
+INT234,L&T,Data Scientist,City_203,Textiles,"['Critical Thinking', 'SEO', 'Adaptability', 'Spring', 'Payroll']",6,10644
+INT235,HDFC Bank,Project Manager,City_131,Event Management,"['Confluence', 'Documentation', 'L&D', 'Angular']",12,11889
+INT236,Tech Mahindra,Recruiter,City_186,Industry_003,"['5S', 'Raspberry Pi']",12,12125
+INT237,Mahindra,Cybersecurity Analyst,City_283,Pharmaceuticals,"['Wind Turbine Basics', 'Pharmacy Assistance']",12,15502
+INT238,HCL,QA Engineer,City_306,Aerospace,"['MS PowerPoint', 'Selenium', 'Problem Solving']",12,13370
+INT239,Tech Mahindra,Recruiter,City_198,Marketing Services,"['SCADA', 'Payroll', 'Electrical Wiring', 'MS Word', 'Adaptability', 'Community Mobilization']",3,24623
+INT240,TCS,Business Analyst,City_162,Railways,"['EHR Systems', 'Cloud', 'ISO 9001', 'Statistics', 'Requirements Gathering', 'Automation Testing']",12,9506
+INT241,HDFC Bank,Content Writer,City_120,Retail,"['Store Management', 'Arduino']",12,17495
+INT242,Tata Steel,Project Manager,Sambalpur,EdTech,"['Vulnerability Assessment', 'CATIA', 'Remote Sensing']",3,24411
+INT243,Mahindra,Cloud Engineer,City_267,Non-Profit,"['CNC', 'ServiceNow', 'Statistics']",3,8693
+INT244,Aditya Birla,Automation Tester,City_282,Ports & Shipping,"['Logistics', 'Docker']",12,11884
+INT245,Wipro,HR Assistant,City_264,Media,"['CATIA', 'UI/UX', 'Linux', 'GCP', 'SPSS', 'CSS']",3,5488
+INT246,Wipro,Product Manager,Sambalpur,Technology,"['Flask', 'Nursing Assistance']",12,17646
+INT247,Mahindra,Copywriter,City_195,Biotechnology,"['Rust', 'Time Management']",12,24558
+INT248,Aditya Birla,Full Stack Developer,City_286,Industry_001,"['Cashier', 'Operations', 'SPSS', 'C++', 'AutoCAD']",3,14682
+INT249,HCL,Digital Marketer,City_197,Agriculture,"['Django', 'Merchandising', 'Accessibility', 'SolidWorks']",6,15463
+INT250,Aditya Birla,Product Manager,City_329,Transportation,"['Time Management', 'Rural Outreach', 'React', 'SharePoint', 'Communication', 'Requirements Gathering']",6,23033
+INT251,Aditya Birla,DevOps Engineer,Rohtak,Waste Management,"['Cold Chain', 'Electrical Wiring', 'Google Analytics', 'Food Processing']",3,6142
+INT252,TCS,UI/UX Designer,Jaipur,Smart Cities,"['Bash', 'Python', 'Financial Modeling', 'Marketing', 'Lead Generation']",12,24278
+INT253,Reliance,Finance Intern,Gwalior,Environmental Services,"['Phlebotomy', 'CSS']",6,19183
+INT254,Cognizant,Automation Tester,City_200,Handloom,"['Deep Learning', 'Node.js', 'C', 'GIS']",6,17155
+INT255,HDFC Bank,Full Stack Developer,Guwahati,Industry_005,"['Telemedicine Support', 'Canva']",6,5051
+INT256,Maruti Suzuki,Finance Intern,City_278,Water & Sanitation,"['Inventory Management', 'VLSI Basics']",12,13810
+INT257,Maruti Suzuki,Supply Chain Analyst,City_241,Education,"['VLSI Basics', 'C', 'Financial Modeling', 'CSR Implementation', 'CAD', 'Field Survey']",3,19086
+INT258,Reliance,Recruiter,Hisar,AgriTech,"['Azure', 'GST', 'MS Excel', 'Merchandising', 'CNC', 'CAM']",12,18279
+INT259,Wipro,Content Writer,City_311,Smart Cities,"['MS Word', 'Design Systems']",12,19203
+INT260,L&T,Recruiter,City_267,Analytics,"['R', 'Lean', 'MS Word', 'Packaging', 'UAV Operation', 'Wind Turbine Basics']",6,7380
+INT261,ICICI Bank,Software Developer,City_190,Entertainment,"['Bash', 'Taxation', 'Selenium', 'Express', 'CNC']",6,17355
+INT262,TCS,Cybersecurity Analyst,City_305,Non-Profit,"['TypeScript', 'Machine Learning', 'MATLAB']",6,16747
+INT263,Mahindra,Full Stack Developer,City_324,Social Welfare,"['CAD', 'Powershell', 'Bookkeeping', 'C', 'Social Media', 'Data Analysis']",12,5191
+INT264,Maruti Suzuki,Growth Marketer,City_293,Oil & Gas,"['Node.js', 'Power Automate', 'Postman']",6,15997
+INT265,L&T,Marketing Associate,Bhiwandi,Smart Cities,"['Selenium', 'SEM', 'Telemedicine Support', 'Deep Learning', 'HACCP']",12,9520
+INT266,Mahindra,Business Analyst,City_198,Legal,"['Power Automate', 'Express', 'NLP']",12,23069
+INT267,Wipro,Project Manager,Hubli–Dharwad,Legal,"['Warehouse Operations', 'AWS', 'Labor Laws', 'Technical Writing', 'GitLab', 'Kubernetes']",3,24764
+INT268,Mahindra,Marketing Associate,City_263,Entertainment,"['Automation Testing', 'Angular']",12,13661
+INT269,Tata Steel,Network Engineer,City_188,EdTech,"['Statistics', 'SolidWorks', 'Customer Relationship']",12,14622
+INT270,ICICI Bank,Financial Analyst,Meerut,Waste Management,"['PowerApps', 'Critical Thinking', 'STATA', 'Python', 'PLC']",3,9139
+INT271,Tech Mahindra,Full Stack Developer,City_188,Ports & Shipping,"['Laboratory Technician', 'PLC']",3,6631
+INT272,Infosys,QA Engineer,City_205,Shared Services,"['Cold Chain', 'Requirements Gathering', 'Angular', 'JMeter']",3,11922
+INT273,Tech Mahindra,DevOps Engineer,City_143,Roads & Highways,"['Problem Solving', 'Kubernetes', 'CAD']",12,15751
+INT274,Cognizant,Network Engineer,City_144,Technology,"['Machine Learning', 'Presentation']",12,21931
+INT275,Wipro,Cloud Engineer,City_135,Industry_006,"['Product Management', 'Deep Learning', 'Cloud', 'Talent Acquisition', 'Node.js']",6,22768
+INT276,Cognizant,Data Engineer,City_192,Technology,"['Flask', 'Django', 'SharePoint', 'Finance', 'CAD']",12,6933
+INT277,Infosys,ML Engineer,City_295,Oil & Gas,"['Embedded Systems', 'GitLab']",6,8578
+INT278,Tech Mahindra,Automation Tester,Guwahati,Waste Management,"['L&D', 'Data Analysis', 'Risk Assessment']",3,16885
+INT279,HCL,Growth Marketer,City_226,Media,"['Cloud', 'SIEM', 'CSS', 'SQL', 'Postman', 'Node.js']",6,24452
+INT280,ICICI Bank,Automation Tester,Ahmedabad,Technology,"['Jira', 'EHR Systems', 'Surveying', 'Machine Learning', 'Critical Thinking']",12,15232
+INT281,L&T,Cybersecurity Analyst,City_168,Industry_004,"['Graphic Design', 'GIS', 'Azure', 'CNC']",12,20346
+INT282,Reliance,Operations Associate,City_285,Food & Beverage,"['HR', 'Customer Relationship', 'MATLAB']",12,13424
+INT283,HDFC Bank,Growth Marketer,City_242,Industry_013,"['HR', 'Insurance Underwriting']",3,21864
+INT284,Cognizant,DevOps Engineer,City_243,Courier,"['MS PowerPoint', 'Data Engineering', 'UI/UX', 'CSR Implementation']",12,7317
+INT285,TCS,Project Manager,City_171,Education,"['Accounting', 'Community Mobilization', 'CAD']",12,18214
+INT286,HCL,Automation Tester,Shimoga,Telecommunications,"['Content Writing', 'UI/UX', 'Power Automate', 'ServiceNow', 'Store Management']",6,19347
+INT287,HDFC Bank,HR Assistant,City_124,Climate & Sustainability,"['Talent Acquisition', 'MS Word', 'Django']",6,13945
+INT288,L&T,Copywriter,Ludhiana,Industry_010,"['Manual Testing', 'Cybersecurity', 'Electrical Wiring', 'AutoCAD', 'Adobe XD']",12,13236
+INT289,Cognizant,Business Analyst,City_278,Aviation,"['AutoCAD', 'Social Media', 'GitLab']",6,12466
+INT290,Reliance,Data Engineer,City_323,Food Processing,"['AWS', 'Typing', 'React', 'Lead Generation', 'CRM']",3,19598
+INT291,Tech Mahindra,Finance Intern,City_142,Industry_005,"['Logistics', 'Taxation']",6,15995
+INT292,ICICI Bank,Data Scientist,City_187,Dairy,"['Vulnerability Assessment', 'CAM', 'Bash']",12,5318
+INT293,Bajaj,Data Analyst,City_277,Environmental Services,"['Excel', 'HTML', 'Teamwork', 'Masonry']",12,15140
+INT294,Tata Steel,Software Developer,City_342,Gaming,"['Design Systems', 'Computer Vision']",3,8280
+INT295,Mahindra,Technical Support,City_260,Metals,"['Arduino', 'Pharmacy Assistance']",3,9663
+INT296,ICICI Bank,Customer Support,City_152,Industry_005,"['Packaging', 'Supply Chain', 'Angular', 'Pharmacy Assistance', 'EHR Systems']",3,10511
+INT297,Aditya Birla,Software Developer,City_208,Industry_006,"['Financial Modeling', 'Design Systems', 'Google Analytics', 'Technical Writing', 'Medical Coding', 'Data Engineering']",12,10804
+INT298,TCS,Mobile App Developer,Raipur,Event Management,"['Bash', 'Employee Engagement', 'Google Analytics']",12,16709
+INT299,Tech Mahindra,Growth Marketer,Dhanbad,Finance,"['Recruitment', 'Field Survey', 'EHR Systems']",3,7586
+INT300,ICICI Bank,ML Engineer,City_173,KPO,"['Customer Relationship', 'Surveying', 'Pharmacy Assistance']",12,24274
+INT301,HDFC Bank,Finance Intern,City_325,Marketing Services,"['SQL', 'Employee Engagement', 'Digital Marketing', 'CSS']",6,8273
+INT302,Maruti Suzuki,Finance Intern,Panipat,Defense,"['PCB Design', 'AutoCAD', 'React', 'Accounting', 'Laboratory Technician']",12,24329
+INT303,Aditya Birla,Digital Marketer,City_330,Manufacturing,"['Food Safety', 'Microfinance', 'Flask']",3,5318
+INT304,Reliance,Business Analyst,City_347,Marketing Services,"['Social Media', 'CSR Implementation', 'POS Systems']",3,11660
+INT305,Tata Steel,Mobile App Developer,City_297,Aerospace,"['Marketing', 'Finance']",3,6029
+INT306,Cognizant,UI/UX Designer,City_220,Education,"['Embedded Systems', 'Medical Coding', 'Field Survey', 'Digital Marketing', 'Flask', 'Node.js']",12,14826
+INT307,Aditya Birla,Supply Chain Analyst,Bareilly,Shared Services,"['VLSI Basics', 'GitHub', 'Data Entry', 'Auditing']",6,12983
+INT308,Cognizant,Digital Marketer,City_291,Climate & Sustainability,"['CSS', 'Taxation', 'Supply Chain']",3,6089
+INT309,TCS,Copywriter,City_250,CSR,"['C', 'Wind Turbine Basics', 'JavaScript', 'Procurement', '3D Printing', 'L&D']",12,6926
+INT310,Infosys,Recruiter,City_199,Industry_006,"['ISO 9001', 'Documentation', 'CSS', 'PowerApps', 'Medical Coding']",3,20695
+INT311,L&T,Project Manager,City_349,Defense,"['UAV Operation', 'Cybersecurity', 'CNC']",6,15051
+INT312,Bajaj,Cybersecurity Analyst,City_192,Shared Services,"['Python', 'Logistics']",6,20023
+INT313,Reliance,Technical Support,Davanagere,Environmental Services,"['C++', 'Figma', 'Kubernetes', 'Painting']",6,5362
+INT314,Infosys,Financial Analyst,Kaithal,Mining,"['Jira', 'MATLAB', 'Logistics', 'Powershell']",6,8465
+INT315,Mahindra,Recruiter,City_131,Warehousing,"['Django', 'Plumbing', 'Powershell', 'UAV Operation', '3D Printing', 'EHR Systems']",3,12170
+INT316,Maruti Suzuki,Product Manager,City_158,Environmental Services,"['Spring', 'C']",12,6046
+INT317,Bajaj,Data Analyst,City_330,Horticulture,"['Auditing', 'Project Management']",3,22727
+INT318,L&T,Data Engineer,City_212,Public Health,"['Project Management', 'C', 'DevOps', 'Tableau']",3,17583
+INT319,Reliance,Finance Intern,Panvel,Hospitality,"['Java', 'Digital Marketing', 'Food Processing', 'CRM', 'Selenium', 'Rural Outreach']",12,23234
+INT320,Maruti Suzuki,Recruiter,City_231,Water & Sanitation,"['Powershell', 'Machine Learning', 'Git', 'Electronics Repair', 'Claims Processing', 'CSR Implementation']",6,15213
+INT321,Wipro,Content Writer,Meerut,Public Sector,"['Talent Acquisition', 'HACCP', 'GitLab']",3,9635
+INT322,Mahindra,Digital Marketer,City_182,Social Welfare,"['Express', 'Jira', 'Postman']",6,5808
+INT323,Tata Steel,Supply Chain Analyst,Bikaner,Technology,"['Tableau', 'Deep Learning', 'Customer Relationship', 'Kubernetes', 'Canva']",12,23046
+INT324,TCS,Cloud Engineer,Durgapur,Handicrafts,"['Computer Vision', 'GIS', 'Zoho']",12,10600
+INT325,Infosys,Digital Marketer,City_269,Aerospace,"['3D Printing', 'Public Speaking', 'Merchandising', 'Java', 'Pharmacy Assistance', 'Investment Research']",12,8095
+INT326,Reliance,ML Engineer,Warangal,Aviation,"['UI/UX', 'MS PowerPoint', 'Tally', 'CRM', 'AutoCAD']",12,7672
+INT327,Tata Steel,Operations Associate,City_161,CSR,"['Phlebotomy', 'Lean', 'Linux', 'Telemedicine Support', 'NLP']",6,23219
+INT328,L&T,Data Analyst,Kalyan,Industry_011,"['Accessibility', 'ISO 9001', 'MS Excel', 'Social Work']",12,24787
+INT329,Tech Mahindra,UI/UX Designer,Ranchi,MSME,"['IoT', 'CI/CD', 'Time Management', 'SCADA', 'ISO 9001']",3,21681
+INT330,HDFC Bank,Marketing Associate,City_160,Media,"['Adaptability', 'AWS']",3,20622
+INT331,Wipro,Software Developer,Varanasi,Logistics,"['UI/UX', 'VLSI Basics', 'Content Writing', 'MS PowerPoint', 'STATA', 'Plumbing']",3,9432
+INT332,Aditya Birla,Growth Marketer,Tirupati,Consulting,"['Machine Learning', 'Marketing', 'Presentation', 'Surveying']",3,9314
+INT333,Cognizant,Network Engineer,City_269,Industry_010,"['Flask', 'Talent Acquisition']",6,23916
+INT334,Bajaj,Cybersecurity Analyst,Sonipat,Industry_004,"['FSSAI Compliance', 'STATA']",12,5427
+INT335,Wipro,Data Analyst,City_325,BPO/ITES,"['Requirements Gathering', 'Retail Operations']",12,9891
+INT336,HCL,Full Stack Developer,Ujjain,Defense,"['Leadership', 'Auditing', 'STATA', 'Medical Coding', 'Statistics']",3,17220
+INT337,Tata Steel,UI/UX Designer,Nashik,Industry_014,"['Problem Solving', 'Deep Learning', 'Recruitment']",6,6541
+INT338,Reliance,Project Manager,City_203,Courier,"['Packaging', 'Vue']",6,24492
+INT339,HCL,Data Engineer,City_226,Smart Cities,"['Auditing', 'Procurement', 'Industrial Safety', 'NLP', 'Embedded Systems']",12,12348
+INT340,Wipro,Technical Support,Coimbatore,Industry_002,"['Remote Sensing', 'Kubernetes']",12,7937
+INT341,Reliance,Automation Tester,Jabalpur,Roads & Highways,"['GST', 'IoT', 'HTML', 'Docker']",12,22396
+INT342,HCL,ML Engineer,Thane,FinTech,"['KYC', 'Typing', 'Requirements Gathering']",3,17684
+INT343,Reliance,Cloud Engineer,Udaipur,CSR,"['SIEM', 'R']",6,20953
+INT344,TCS,HR Assistant,Srinagar,Wind,"['CATIA', 'Financial Modeling', 'Recruitment', 'Logistics', 'JMeter']",3,17555
+INT345,HCL,Cybersecurity Analyst,City_202,Real Estate,"['3D Printing', 'Adaptability']",6,16863
+INT346,ICICI Bank,Data Analyst,City_156,Sports,"['PowerApps', 'Social Work', 'Power Automate', 'Jira']",6,6185
+INT347,Mahindra,Growth Marketer,City_221,Dairy,"['Pharmacy Assistance', 'Branding', 'Raspberry Pi']",3,12363
+INT348,Bajaj,Copywriter,City_177,Finance,"['GIS', 'Raspberry Pi', 'GST', 'Linux']",6,11218
+INT349,Wipro,Full Stack Developer,Patiala,Metals,"['Labor Laws', 'R', 'Machine Learning']",6,9812
+INT350,HDFC Bank,UI/UX Designer,City_211,Event Management,"['KYC', 'HubSpot', 'Surveying']",12,15504
+INT351,HDFC Bank,Automation Tester,Udaipur,Automotive,"['Adaptability', 'Painting', 'HTML', 'MS Excel', 'Claims Processing', 'Teamwork']",12,8214
+INT352,Tata Steel,Supply Chain Analyst,City_209,Tourism,"['Merchandising', 'Email Marketing', 'Retail Operations']",3,24686
+INT353,Bajaj,Automation Tester,City_195,FinTech,"['SIEM', 'CAD', 'Salesforce']",3,9390
+INT354,Tata Steel,Growth Marketer,City_145,Smart Cities,"['Investment Research', 'Food Safety', 'Vue']",6,22420
+INT355,HCL,Product Manager,City_126,FinTech,"['SQL', 'Phlebotomy', 'Product Management']",3,7578
+INT356,Tata Steel,Content Strategist,City_188,Event Management,"['Leadership', 'Warehouse Operations', 'Rust', 'Tally', 'POS Systems', 'Technical Writing']",6,20299
+INT357,Maruti Suzuki,Network Engineer,City_200,Industry_003,"['FSSAI Compliance', 'Technical Writing', 'Leadership', 'Lead Generation', 'Zoho', 'Selenium']",6,24229
+INT358,Tata Steel,Mobile App Developer,City_138,Industry_007,"['SIEM', 'Taxation', 'Product Management', 'Labor Laws']",6,23491
+INT359,Mahindra,Full Stack Developer,City_139,Dairy,"['Store Management', 'PCB Design', 'Community Mobilization', 'Problem Solving', 'Bookkeeping']",3,19119
+INT360,HCL,Mobile App Developer,City_144,Defense,"['GitLab', 'HubSpot']",6,17122
+INT361,TCS,Recruiter,Kolkata,Food & Beverage,"['Welding', 'Branding', 'Time Management', 'Machine Learning']",6,11074
+INT362,Maruti Suzuki,Content Writer,City_306,Tourism,"['SharePoint', 'Tally', 'PLC', 'Bookkeeping']",6,14898
+INT363,Tech Mahindra,Finance Intern,Shimoga,Biotechnology,"['C', 'Selenium', 'Requirements Gathering']",3,12851
+INT364,ICICI Bank,Technical Support,City_302,Aerospace,"['Bash', 'Operations', 'SPSS', 'SEO']",3,13676
+INT365,Aditya Birla,Recruiter,City_299,Courier,"['ServiceNow', 'Docker', 'Recruitment']",3,14863
+INT366,Maruti Suzuki,Marketing Associate,City_159,KPO,"['Automation Testing', 'CNC']",6,12209
+INT367,Aditya Birla,Technical Support,City_235,Shared Services,"['Packaging', 'JavaScript']",3,22503
+INT368,Aditya Birla,Automation Tester,Guntur,Ports & Shipping,"['Auditing', 'Linux', 'Azure', 'R', 'Data Analysis', 'Financial Modeling']",12,22989
+INT369,Mahindra,Data Scientist,City_286,HealthTech,"['Docker', 'ISO 27001', 'Taxation', 'Drones']",6,10774
+INT370,Reliance,Mobile App Developer,City_259,Smart Cities,"['Technical Writing', 'Packaging', 'Remote Sensing', 'Food Processing']",6,6592
+INT371,Infosys,Financial Analyst,Rohtak,Cybersecurity,"['GIS', 'Food Processing', 'Go']",12,22335
+INT372,Reliance,Customer Support,City_175,Industry_009,"['Adobe XD', 'Quality Assurance', 'Postman']",6,9327
+INT373,Bajaj,Copywriter,City_205,Industry_002,"['Cold Chain', 'Networking', 'Cybersecurity', 'Six Sigma']",3,8652
+INT374,HDFC Bank,Data Engineer,Amritsar,Cybersecurity,"['Social Work', 'Masonry']",12,16701
+INT375,Tech Mahindra,DevOps Engineer,City_225,Rural Development,"['Go', 'Financial Modeling']",6,22011
+INT376,Aditya Birla,Data Analyst,Firozabad,Manufacturing,"['Communication', 'Packaging', 'GitLab']",12,9195
+INT377,Infosys,Business Analyst,Siliguri,Waste Management,"['UAV Operation', 'Cybersecurity', 'R', 'Payroll', 'Go']",12,14867
+INT378,HCL,Growth Marketer,City_294,Industry_003,"['NGO Program Support', 'Figma']",6,22337
+INT379,Maruti Suzuki,QA Engineer,Guwahati,Ports & Shipping,"['SQL', 'Penetration Testing', 'SPSS']",3,17389
+INT380,Bajaj,Digital Marketer,City_180,Industry_005,"['Creativity', 'Community Mobilization', 'Logistics']",3,5877
+INT381,Bajaj,QA Engineer,Siliguri,Food & Beverage,"['Power Automate', 'Agile', 'Customer Relationship', 'STATA', 'POS Systems']",6,16542
+INT382,Tech Mahindra,Mobile App Developer,City_338,Industry_002,"['Accessibility', 'GCP', 'Git']",3,19506
+INT383,HCL,Cybersecurity Analyst,City_316,Cold Chain,"['Raspberry Pi', 'IoT', 'GitHub', 'Python', 'SEO', 'Investment Research']",6,12276
+INT384,Maruti Suzuki,Digital Marketer,City_116,Defense,"['Payroll', 'L&D', 'Machine Learning']",12,16469
+INT385,TCS,Financial Analyst,City_204,Agriculture,"['SolidWorks', 'JMeter']",3,21759
+INT386,Wipro,Content Writer,City_311,Ports & Shipping,"['Social Work', 'Critical Thinking']",3,11550
+INT387,Reliance,Data Analyst,Mysore,Finance,"['SPSS', 'CI/CD', 'Procurement', 'Computer Vision', 'Accounting']",12,23141
+INT388,HCL,Mobile App Developer,City_286,Industry_001,"['Masonry', 'Bash', 'Telemedicine Support', 'Machine Learning', 'Teamwork', 'Food Safety']",12,19245
+INT389,Cognizant,Cybersecurity Analyst,City_135,Rural Development,"['PowerApps', 'Warehouse Operations', 'ISO 9001', 'SIEM']",6,19503
+INT390,Maruti Suzuki,Project Manager,Ujjain,Tourism,"['Figma', 'Phlebotomy', 'CI/CD']",3,10288
+INT391,Cognizant,Cybersecurity Analyst,City_261,Healthcare,"['Rural Outreach', 'IoT']",6,13315
+INT392,Wipro,Digital Marketer,City_287,Event Management,"['CI/CD', 'Cashier', 'Food Safety', 'Pharmacy Assistance', 'Masonry', 'Powershell']",3,16591
+INT393,Reliance,Data Analyst,City_194,Warehousing,"['Salesforce', 'UI/UX', 'Tally', 'Surveying', 'React', 'Supply Chain']",3,20688
+INT394,Tech Mahindra,Customer Support,City_126,Telecommunications,"['MS Excel', 'Vue']",6,18002
+INT395,Aditya Birla,Customer Support,City_252,HealthTech,"['Accessibility', 'Java']",6,15330
+INT396,HCL,Full Stack Developer,City_287,CleanTech,"['Surveying', 'CAD']",6,9865
+INT397,TCS,Mobile App Developer,City_338,Energy,"['Community Mobilization', 'Operations', 'GitHub']",6,6878
+INT398,L&T,Customer Support,City_147,Beauty & Wellness,"['Graphic Design', '3D Printing', 'POS Systems', '5S', 'Drones']",6,17652
+INT399,Infosys,Marketing Associate,City_142,Roads & Highways,"['Taxation', 'Sales']",6,23634
+INT400,Infosys,Customer Support,Sambalpur,Research,"['Financial Modeling', 'Machine Learning']",6,13770
+INT401,Infosys,Data Scientist,City_290,Industry_013,"['Lead Generation', 'L&D', 'Business Analysis', 'JavaScript']",12,7992
+INT402,Bajaj,Network Engineer,City_193,Entertainment,"['Electronics Repair', 'Inside Sales', 'Automation Testing']",12,21274
+INT403,ICICI Bank,Customer Support,Mysuru,Consulting,"['Python', 'AWS', 'JavaScript', 'Scrum', 'Git']",6,10187
+INT404,Aditya Birla,Software Developer,Coimbatore,Marketing Services,"['NLP', 'Cloud', 'Store Management', 'UAV Operation', 'Machine Learning']",3,15075
+INT405,Infosys,Growth Marketer,Hisar,Food & Beverage,"['Microfinance', 'Cashier', 'Compliance']",12,18222
+INT406,Mahindra,Recruiter,City_291,Cybersecurity,"['Warehouse Operations', 'NoSQL', 'CAM', 'Customer Service', '5S']",3,7431
+INT407,Wipro,Copywriter,City_252,Railways,"['Data Analysis', 'Raspberry Pi', 'CSR Implementation']",3,9320
+INT408,Mahindra,QA Engineer,City_200,Industry_001,"['JMeter', 'Salesforce']",12,23899
+INT409,L&T,Recruiter,City_319,Roads & Highways,"['Talent Acquisition', 'Accounting', 'Accessibility', 'Solar Installation', 'ISO 27001', 'Masonry']",12,23732
+INT410,Cognizant,Data Engineer,City_159,Courier,"['Raspberry Pi', 'Deep Learning']",12,17524
+INT411,ICICI Bank,Business Analyst,Durgapur,Manufacturing,"['FSSAI Compliance', 'Merchandising', 'SharePoint', 'SCADA', 'Solar Installation', 'CRM']",3,12640
+INT412,Infosys,DevOps Engineer,Meerut,Construction,"['Electrical Wiring', 'Spring']",6,5770
+INT413,Maruti Suzuki,Digital Marketer,City_249,Mining,"['Digital Marketing', 'CAM', 'Solar Installation', 'Selenium']",6,20726
+INT414,TCS,Cybersecurity Analyst,Kalyan,Technology,"['Talent Acquisition', 'CAD', 'Postman']",6,15032
+INT415,HDFC Bank,Recruiter,City_341,Industry_012,"['Leadership', 'Inventory Management', 'Copywriting', '3D Printing', 'Manual Testing']",12,19750
+INT416,Cognizant,Business Analyst,Chandigarh,Horticulture,"['Operations', 'Customer Relationship', 'L&D']",12,6106
+INT417,HDFC Bank,Full Stack Developer,City_170,Retail,"['Cold Chain', 'Project Management']",6,15313
+INT418,Tata Steel,Product Manager,City_241,Courier,"['Electrical Wiring', 'KYC']",6,13925
+INT419,Bajaj,Copywriter,City_316,Warehousing,"['Employee Engagement', 'Data Analysis', 'Power BI', 'Painting', 'CAM']",12,16734
+INT420,Wipro,Operations Associate,City_195,Shared Services,"['Vulnerability Assessment', 'React', 'Nursing Assistance', 'Financial Modeling']",12,20268
+INT421,Tata Steel,Software Developer,Kakinada,Oil & Gas,"['Power BI', 'Kubernetes', 'MS Word', 'Postman']",6,11762
+INT422,Reliance,Business Analyst,City_121,Transportation,"['VLSI Basics', 'SEM', 'Basic Computer Skills', 'Welding']",12,23675
+INT423,Maruti Suzuki,Marketing Associate,City_314,Dairy,"['Digital Marketing', 'HR', 'Drones', 'Labor Laws']",3,14782
+INT424,ICICI Bank,Technical Support,City_135,AgriTech,"['Branding', 'Laboratory Technician', 'Jira']",3,15005
+INT425,Bajaj,ML Engineer,City_203,CSR,"['Electrical Wiring', 'Project Management', 'Microfinance', 'IoT', 'Telemedicine Support', 'Confluence']",6,23950
+INT426,Mahindra,Business Analyst,City_116,Food & Beverage,"['Cold Chain', 'Documentation', 'JavaScript', 'Basic Computer Skills']",12,23394
+INT427,Wipro,DevOps Engineer,City_115,Media,"['Lead Generation', 'Problem Solving', 'Talent Acquisition', 'STATA', 'Raspberry Pi', 'Merchandising']",6,12160
+INT428,Bajaj,Automation Tester,City_273,Cybersecurity,"['Industrial Safety', 'Business Analysis', 'Computer Vision', 'Agile', 'Docker', 'Statistics']",3,23710
+INT429,Mahindra,DevOps Engineer,Amritsar,Industry_003,"['Tableau', 'ISO 9001', 'Field Survey']",3,20693
+INT430,ICICI Bank,Business Analyst,City_266,Renewable Energy,"['SEO', 'Masonry', 'Laboratory Technician']",6,17141
+INT431,ICICI Bank,Financial Analyst,City_300,Defense,"['NoSQL', 'Project Management', 'C++']",3,14888
+INT432,HDFC Bank,Operations Associate,City_222,Food Processing,"['Flask', 'GCP', 'Merchandising', 'Embedded Systems', 'Canva']",12,6789
+INT433,Tech Mahindra,Software Developer,Ambattur,Industry_009,"['Excel', 'Cloud', 'PowerApps', 'Tableau']",3,20121
+INT434,ICICI Bank,Full Stack Developer,City_202,Solar,"['Telemedicine Support', 'PCB Design', 'Logistics', 'Networking', 'Lead Generation', 'Industrial Safety']",6,20445
+INT435,TCS,Recruiter,City_221,Transportation,"['Embedded Systems', 'Figma', 'Spring', 'Confluence', 'Telemedicine Support', 'Taxation']",12,14776
+INT436,HCL,Project Manager,City_168,Dairy,"['Adobe XD', 'Data Engineering', 'Node.js', 'Canva', 'Typing']",12,17156
+INT437,TCS,Mobile App Developer,Karnal,AgriTech,"['Networking', 'Cold Chain', 'Docker']",12,9447
+INT438,TCS,Full Stack Developer,City_128,Cold Chain,"['JMeter', 'SEM', 'Bash', 'Documentation']",6,11812
+INT439,Aditya Birla,ML Engineer,Surat,Food Processing,"['UAV Operation', 'Automation Testing', 'Retail Operations']",12,18621
+INT440,L&T,Network Engineer,City_346,Beauty & Wellness,"['Power Automate', 'Typing', 'Rust', 'SQL', 'SolidWorks']",12,15282
+INT441,Tata Steel,Cybersecurity Analyst,Ambattur,CSR,"['Bookkeeping', 'Microfinance', 'Industrial Safety', 'React']",3,7938
+INT442,Aditya Birla,Automation Tester,City_250,Textiles,"['Flask', 'Six Sigma', 'Documentation', 'Networking']",3,14899
+INT443,HCL,Content Strategist,City_164,Consulting,"['Graphic Design', 'MS PowerPoint', 'Zoho']",6,6537
+INT444,Wipro,Cloud Engineer,City_287,Advertising,"['Payroll', 'Logistics', 'Salesforce', 'Bash']",6,16035
+INT445,Tata Steel,Full Stack Developer,Kozhikode,Courier,"['Cloud', 'Customer Service', 'CI/CD']",12,12660
+INT446,TCS,DevOps Engineer,Jaipur,Hospitality,"['Inventory Management', '3D Printing', 'Excel', 'Figma']",3,5326
+INT447,HCL,Software Developer,Panvel,Courier,"['Cold Chain', 'Six Sigma', 'Employee Engagement', 'Spring']",12,9025
+INT448,Aditya Birla,Mobile App Developer,City_220,Smart Cities,"['C++', 'Employee Engagement', 'L&D', 'Azure']",6,24977
+INT449,Bajaj,Digital Marketer,City_162,Banking,"['GitHub', 'Marketing']",12,17130
+INT450,HCL,Data Analyst,Jodhpur,Logistics,"['Claims Processing', 'SCADA', 'CATIA']",6,20978
+INT451,Wipro,Product Manager,Thane,KPO,"['Cashier', 'ServiceNow', 'MATLAB', 'CSS']",3,22700
+INT452,HDFC Bank,Finance Intern,Ranchi,Sports,"['Deep Learning', 'Selenium']",12,10342
+INT453,Wipro,Automation Tester,Ujjain,AgriTech,"['Tally', 'Vue']",6,18552
+INT454,Cognizant,Content Strategist,City_133,Beauty & Wellness,"['Postman', 'Store Management', 'Community Mobilization', 'Statistics', '5S', 'Wind Turbine Basics']",12,21226
+INT455,ICICI Bank,Content Strategist,City_134,Fisheries,"['Carpentry', 'SharePoint']",12,10992
+INT456,Cognizant,Project Manager,Kalyan,Metals,"['Solar Installation', 'Typing', 'Graphic Design', 'MS PowerPoint']",6,10049
+INT457,Maruti Suzuki,Automation Tester,City_241,Research,"['Salesforce', 'Critical Thinking', 'Flask']",3,10097
+INT458,ICICI Bank,Supply Chain Analyst,Agra,Sports,"['Operations', 'Logistics', 'Field Survey', 'MS Excel']",6,13346
+INT459,Cognizant,HR Assistant,Gaya,Banking,"['Agile', 'Plumbing', 'Networking', 'Automation Testing', '3D Printing']",3,11104
+INT460,Infosys,DevOps Engineer,Kota,Agriculture,"['R', 'MS Word']",6,21826
+INT461,TCS,Product Manager,City_178,Industry_003,"['Recruitment', 'AML', 'VLSI Basics', 'React', 'HACCP', 'Node.js']",6,6621
+INT462,Tech Mahindra,Content Strategist,City_249,AgriTech,"['Masonry', 'Canva']",12,9949
+INT463,ICICI Bank,ML Engineer,City_301,Marketing Services,"['Scrum', 'Nursing Assistance', 'Accounting', 'GitLab', 'Arduino', 'Sales']",12,8584
+INT464,Mahindra,ML Engineer,Aizawl,Logistics,"['Teamwork', 'Supply Chain', 'Risk Assessment']",6,13184
+INT465,HCL,Recruiter,City_233,Warehousing,"['TypeScript', 'Taxation', 'SEM']",3,9729
+INT466,Infosys,Content Writer,Nadiad,Mining,"['Pharmacy Assistance', 'Confluence', 'Electronics Repair', 'GIS']",6,11303
+INT467,Cognizant,UI/UX Designer,Mumbai,Industry_003,"['Penetration Testing', 'SIEM', 'SEM', 'Content Writing', 'Social Media', 'Quality Assurance']",3,14985
+INT468,L&T,Content Strategist,City_266,Ports & Shipping,"['Arduino', 'SCADA', 'Lead Generation', 'C', 'Business Analysis', 'Postman']",3,10446
+INT469,TCS,Full Stack Developer,City_192,Advertising,"['NGO Program Support', 'Critical Thinking', 'Pharmacy Assistance', 'Finance', 'Node.js']",12,15263
+INT470,HCL,Customer Support,City_350,Leather,"['Jira', 'Carpentry', 'EHR Systems', 'Bash', 'Procurement']",6,11855
+INT471,Wipro,Growth Marketer,City_307,Industry_009,"['Recruitment', 'Design Systems', 'Technical Writing', 'Powershell']",6,21318
+INT472,Mahindra,Marketing Associate,South Dumdum,Construction,"['CNC', 'CI/CD', 'JavaScript', 'Talent Acquisition']",3,18086
+INT473,ICICI Bank,Recruiter,Raipur,Tourism,"['Cloud', 'Rust', 'Surveying', 'Financial Modeling', '3D Printing', 'Merchandising']",3,9944
+INT474,Bajaj,Business Analyst,Thiruvananthapuram,Energy,"['NGO Program Support', 'HR', 'Figma', 'HTML']",3,24379
+INT475,ICICI Bank,Marketing Associate,City_341,Industry_004,"['Inventory Management', 'Design Systems', 'Labor Laws', 'Project Management', 'Postman', 'HACCP']",12,10051
+INT476,Aditya Birla,Copywriter,Aizawl,Marketing Services,"['Food Safety', 'Social Work', 'Bash', 'HTML']",6,17352
+INT477,Infosys,Marketing Associate,City_340,FinTech,"['Adaptability', 'Go', 'GIS', 'HACCP', 'SolidWorks', 'Salesforce']",3,11374
+INT478,HCL,Network Engineer,Tiruchirappalli,Shared Services,"['Field Survey', 'HTML', 'CSS', 'Business Analysis', '3D Printing', 'MS Excel']",3,10145
+INT479,Infosys,Content Strategist,City_329,Transportation,"['DevOps', 'NLP', 'GitHub']",3,17193
+INT480,Tata Steel,Business Analyst,City_262,Beauty & Wellness,"['Retail Operations', 'Tally']",12,10034
+INT481,Tech Mahindra,Copywriter,City_279,Horticulture,"['Leadership', 'Inventory Management', 'Copywriting', 'C++', 'Statistics', 'Social Work']",12,8595
+INT482,L&T,Marketing Associate,City_135,Startups & Incubation,"['Vue', 'Supply Chain', 'Email Marketing', 'Branding', 'Microfinance', 'Cloud']",12,5031
+INT483,TCS,Customer Support,City_199,Logistics,"['Problem Solving', 'Leadership', 'Quality Assurance', 'Solar Installation', 'Basic Computer Skills', 'ISO 9001']",3,15278
+INT484,L&T,Marketing Associate,City_199,Analytics,"['Digital Marketing', 'Inventory Management', 'Risk Assessment', 'Email Marketing', 'Community Mobilization']",12,8891
+INT485,Bajaj,Copywriter,Jamshedpur,KPO,"['Drones', 'Bash', 'Power BI', 'Embedded Systems']",3,19290
+INT486,Maruti Suzuki,DevOps Engineer,Kakinada,Energy,"['Bash', 'JavaScript', 'Branding']",12,7095
+INT487,TCS,Business Analyst,Kurnool,Advertising,"['MS Excel', 'Figma', 'Zoho', 'Power BI']",6,20912
+INT488,L&T,Data Engineer,City_291,Industry_013,"['Deep Learning', 'Lean']",12,19631
+INT489,Wipro,Content Strategist,City_209,Entertainment,"['PCB Design', 'Embedded Systems', 'Marketing', 'PLC', 'Phlebotomy', 'Basic Computer Skills']",3,10271
+INT490,L&T,Cybersecurity Analyst,Yamunanagar,Biotechnology,"['TypeScript', 'Vue', 'Adobe XD', 'Compliance', 'Payroll', 'Cold Chain']",3,10508
+INT491,Tata Steel,Software Developer,Amritsar,Technology,"['Penetration Testing', 'Risk Assessment', 'Kubernetes', 'Typing']",6,11337
+INT492,L&T,Content Writer,Durgapur,Automotive,"['Inside Sales', 'Masonry']",3,15703
+INT493,Maruti Suzuki,Cloud Engineer,City_139,Banking,"['Accessibility', 'AutoCAD', 'Laboratory Technician', 'Python', 'Accounting', 'SolidWorks']",12,10303
+INT494,Cognizant,Copywriter,City_316,E-commerce,"['NGO Program Support', 'Embedded Systems', 'Django', 'Automation Testing', 'Procurement', 'MS Excel']",12,19162
+INT495,Wipro,Content Strategist,City_235,Industry_011,"['Project Management', 'Graphic Design', 'GitLab', 'CATIA', 'Vulnerability Assessment']",12,24969
+INT496,Cognizant,Content Writer,City_345,BPO/ITES,"['Communication', 'Cold Chain', 'Risk Assessment']",3,21569
+INT497,ICICI Bank,QA Engineer,Mira-Bhayandar,Research,"['Microfinance', 'NGO Program Support', 'Warehouse Operations', 'GitLab', 'Procurement', 'Selenium']",3,13120
+INT498,Reliance,Recruiter,City_157,Industry_014,"['Python', 'Express']",3,10080
+INT499,Aditya Birla,HR Assistant,Davanagere,Courier,"['Cashier', 'IoT', 'CI/CD']",3,22713
+INT500,Tech Mahindra,HR Assistant,City_115,Renewable Energy,"['Postman', 'Claims Processing', 'Arduino']",12,7074
+INT501,L&T,Financial Analyst,City_167,Industry_005,"['Warehouse Operations', 'Communication']",6,17636
+INT502,Infosys,QA Engineer,Faridabad,Handloom,"['SCADA', 'Linux', 'Java', 'Painting']",12,22126
+INT503,Infosys,Full Stack Developer,City_335,EdTech,"['CSR Implementation', 'Express', 'Carpentry']",3,20305
+INT504,Bajaj,Finance Intern,City_210,Biotechnology,"['Problem Solving', 'Nursing Assistance', 'Power BI', 'Accounting', 'Electronics Repair']",6,23990
+INT505,Tech Mahindra,Recruiter,City_330,Banking,"['Nursing Assistance', 'Copywriting', 'Finance', 'UAV Operation', 'Leadership', 'GitLab']",12,5545
+INT506,Tata Steel,Content Strategist,Udaipur,Industry_004,"['GST', 'Financial Modeling', 'Medical Coding', 'Inventory Management', 'MS Excel']",6,10597
+INT507,Bajaj,Full Stack Developer,City_182,Food & Beverage,"['AWS', 'Inside Sales']",6,11689
+INT508,HDFC Bank,Supply Chain Analyst,City_260,Entertainment,"['Kubernetes', 'HubSpot', 'Field Sales', 'Canva', 'Raspberry Pi', 'Business Analysis']",12,19259
+INT509,Aditya Birla,QA Engineer,Kolkata,Industry_012,"['Claims Processing', 'Copywriting', 'Cloud', 'SCADA', 'IoT']",3,19583
+INT510,HDFC Bank,QA Engineer,City_244,Tourism,"['HR', 'Payroll', 'Electronics Repair', 'Social Media', 'Flask', 'Social Work']",6,23811
+INT511,Bajaj,Content Writer,City_249,Healthcare,"['Python', 'SolidWorks', 'Power Automate', 'PCB Design', 'JMeter', 'Branding']",12,21319
+INT512,HDFC Bank,Recruiter,City_181,Industry_002,"['3D Printing', 'Digital Marketing', 'Warehouse Operations', 'Requirements Gathering', 'Express', 'Time Management']",3,24931
+INT513,Maruti Suzuki,HR Assistant,City_155,Biotechnology,"['Postman', 'Project Management', 'SEO', 'JMeter', 'Creativity']",12,16251
+INT514,HCL,Content Writer,City_298,Rural Development,"['Excel', 'Bookkeeping', 'SEM', 'Community Mobilization', 'Industrial Safety', 'MS Excel']",3,13690
+INT515,HDFC Bank,Marketing Associate,Hyderabad,Legal,"['UAV Operation', 'Solar Installation', 'Adaptability']",6,5324
+INT516,ICICI Bank,Growth Marketer,South Dumdum,Aerospace,"['Kubernetes', 'Inventory Management']",3,20030
+INT517,TCS,Content Writer,City_205,AgriTech,"['Raspberry Pi', 'Django', 'JavaScript', 'Data Entry', 'GitLab', 'Business Analysis']",12,13279
+INT518,ICICI Bank,HR Assistant,Jalandhar,Industry_013,"['Python', 'CATIA', 'Typing']",12,23204
+INT519,HCL,Full Stack Developer,City_341,Education,"['Communication', 'Branding', 'Food Safety', 'Typing']",12,12764
+INT520,Bajaj,Supply Chain Analyst,City_243,FinTech,"['SolidWorks', 'Customer Relationship']",6,12751
+INT521,TCS,DevOps Engineer,City_229,Oil & Gas,"['React', 'Python']",3,6504
+INT522,Aditya Birla,Digital Marketer,City_200,Industry_012,"['Statistics', 'Electronics Repair', 'PowerApps', 'PCB Design', 'Auditing']",12,11661
+INT523,TCS,Data Engineer,City_184,Metals,"['NLP', 'CATIA', 'Confluence', 'NGO Program Support']",12,11277
+INT524,Tech Mahindra,Finance Intern,City_278,Event Management,"['Compliance', 'Manual Testing', 'CNC', 'Angular']",12,20723
+INT525,Cognizant,Network Engineer,Surat,Cloud Services,"['MS Word', 'Lean']",3,18580
+INT526,Cognizant,QA Engineer,Vadodara,Manufacturing,"['Masonry', 'Microfinance']",3,19015
+INT527,ICICI Bank,Mobile App Developer,Guntur,Media,"['Business Analysis', 'Content Writing', 'Social Media']",6,9309
+INT528,Bajaj,Supply Chain Analyst,Faridabad,Dairy,"['Requirements Gathering', 'Food Safety', 'HubSpot', 'Payroll', 'CAD']",6,17262
+INT529,Wipro,Business Analyst,Ludhiana,Mining,"['SharePoint', 'PowerApps', 'STATA']",3,15603
+INT530,Cognizant,Digital Marketer,City_313,Gaming,"['ISO 9001', 'AWS', 'Google Analytics', 'Payroll', 'NGO Program Support']",3,11037
+INT531,Tech Mahindra,Cloud Engineer,Amravati,Legal,"['Lead Generation', 'Accessibility']",3,14663
+INT532,Mahindra,Customer Support,Bhopal,FinTech,"['Branding', 'ISO 9001', 'Supply Chain', 'Social Media', 'Typing']",6,15671
+INT533,ICICI Bank,Supply Chain Analyst,City_115,Gaming,"['Field Sales', 'Git', 'NLP', 'Design Systems', 'MS Excel']",3,15241
+INT534,TCS,Financial Analyst,Madurai,Hospitality,"['CRM', 'Store Management', 'Finance', 'Figma']",3,10446
+INT535,Tata Steel,Content Strategist,City_306,Consulting,"['KYC', 'Agile']",6,9185
+INT536,Aditya Birla,Cloud Engineer,Solapur,Telecommunications,"['Accessibility', 'PowerApps', 'Solar Installation', 'Azure', 'Painting']",6,21208
+INT537,Wipro,Copywriter,City_139,Rural Development,"['Insurance Underwriting', 'Agile', 'Welding', 'Customer Relationship', 'CATIA', 'Inside Sales']",12,15526
+INT538,L&T,Marketing Associate,South Dumdum,Warehousing,"['HACCP', 'Branding', 'Git', 'Packaging', 'Customer Relationship', 'AWS']",12,15244
+INT539,Infosys,Content Writer,Thiruvananthapuram,Aviation,"['Public Speaking', 'Financial Modeling', 'VLSI Basics', 'Data Engineering']",6,7181
+INT540,TCS,Marketing Associate,Vasai-Virar,Disaster Management,"['Taxation', 'Branding']",12,8039
+INT541,HDFC Bank,Finance Intern,City_233,CleanTech,"['Lean', 'Graphic Design', 'Social Work', 'Investment Research']",12,12039
+INT542,ICICI Bank,Technical Support,Ambattur,Food Processing,"['MS Word', 'Insurance Underwriting', 'AML', 'Content Writing', 'Power BI']",6,8902
+INT543,ICICI Bank,Operations Associate,City_154,Industry_004,"['JMeter', 'SIEM', 'Confluence', 'SEM', 'Raspberry Pi', 'Vulnerability Assessment']",3,15923
+INT544,HCL,Financial Analyst,City_262,Rural Development,"['Adobe XD', 'Cybersecurity']",3,22362
+INT545,HCL,Copywriter,Raipur,Telecommunications,"['Product Management', 'Wind Turbine Basics', 'Customer Service']",12,10970
+INT546,Reliance,Data Engineer,Ludhiana,Public Health,"['Critical Thinking', 'MS Excel', 'GitHub', 'CATIA', 'Spring']",6,10704
+INT547,Mahindra,Recruiter,City_244,Courier,"['SEO', 'CATIA']",6,11027
+INT548,ICICI Bank,Automation Tester,Navi Mumbai,Waste Management,"['SPSS', 'Quality Assurance', 'Nursing Assistance']",6,18388
+INT549,ICICI Bank,Content Strategist,City_339,KPO,"['Store Management', 'Canva', 'Communication', 'Power Automate']",12,6638
+INT550,Infosys,HR Assistant,City_290,Pharmaceuticals,"['Payroll', 'Pharmacy Assistance', 'ISO 9001', 'Networking']",6,14149
+INT551,Tech Mahindra,Content Writer,City_255,Agriculture,"['Quality Assurance', 'AML', 'GST', 'Kubernetes', 'Electronics Repair']",6,24295
+INT552,Cognizant,Data Scientist,City_159,Shared Services,"['Procurement', 'Cloud', 'Electrical Wiring']",12,23860
+INT553,HDFC Bank,Mobile App Developer,City_193,Research,"['Documentation', 'HubSpot', 'Angular', 'Embedded Systems', 'Electrical Wiring']",12,24196
+INT554,Maruti Suzuki,Software Developer,Firozabad,Biotechnology,"['MS Excel', 'PCB Design']",12,16150
+INT555,Mahindra,Product Manager,City_296,Healthcare,"['Design Systems', 'Pharmacy Assistance', 'Laboratory Technician', 'HubSpot', 'Kubernetes', 'NLP']",12,7784
+INT556,L&T,Supply Chain Analyst,City_210,Beauty & Wellness,"['SEM', 'SEO', 'Git', 'Remote Sensing', 'Content Writing', 'Supply Chain']",6,21862
+INT557,Maruti Suzuki,HR Assistant,City_153,Marketing Services,"['Merchandising', 'JMeter', 'Industrial Safety', 'Financial Modeling', 'Employee Engagement', 'Git']",12,17154
+INT558,Tech Mahindra,Technical Support,City_252,Environmental Services,"['Finance', 'Rural Outreach', 'Customer Service', 'STATA', 'Creativity', 'KYC']",3,24409
+INT559,TCS,Cloud Engineer,Tirunelveli,Energy,"['AML', 'Industrial Safety', 'Postman', 'Insurance Underwriting', 'MS PowerPoint']",12,7424
+INT560,Tech Mahindra,DevOps Engineer,City_154,Disaster Management,"['Networking', 'Solar Installation', 'IoT', 'Automation Testing', 'Data Analysis', 'Postman']",3,15753
+INT561,Maruti Suzuki,Operations Associate,City_271,Food Processing,"['Lead Generation', 'Computer Vision', 'ServiceNow', 'Technical Writing']",3,18941
+INT562,Mahindra,Technical Support,Kozhikode,Social Welfare,"['Customer Service', 'Statistics', 'Data Engineering', 'Bash', 'Merchandising']",3,5972
+INT563,HCL,HR Assistant,City_258,Climate & Sustainability,"['MS PowerPoint', 'Tableau', 'Community Mobilization', 'Data Analysis', 'PLC']",3,24980
+INT564,Mahindra,Content Strategist,City_276,Transportation,"['Salesforce', 'PLC', 'C++', 'TypeScript']",12,23771
+INT565,Aditya Birla,Full Stack Developer,Bellary,Pharmaceuticals,"['Six Sigma', 'PLC', 'React', 'Financial Modeling', 'Google Analytics']",3,23359
+INT566,Tech Mahindra,Copywriter,City_217,Sports,"['Adobe XD', 'ServiceNow', 'Tally']",3,15259
+INT567,Tata Steel,HR Assistant,City_276,Industry_011,"['Rural Outreach', 'POS Systems']",6,5389
+INT568,Maruti Suzuki,Content Strategist,City_343,Waste Management,"['STATA', 'FSSAI Compliance', 'Procurement']",3,8982
+INT569,Infosys,Operations Associate,City_124,Sports,"['C++', 'Agile']",12,9117
+INT570,Tech Mahindra,Operations Associate,City_243,CleanTech,"['GIS', 'Google Analytics', 'Finance']",3,12974
+INT571,Tata Steel,Copywriter,Nashik,Food & Beverage,"['Phlebotomy', 'MS Word']",6,22531
+INT572,Maruti Suzuki,ML Engineer,City_258,Industry_006,"['HTML', 'Digital Marketing']",6,6998
+INT573,Cognizant,DevOps Engineer,City_154,KPO,"['Vulnerability Assessment', 'Inventory Management', 'Spring', 'HubSpot', 'Medical Coding']",12,21259
+INT574,HCL,Content Writer,City_206,Hospitality,"['Data Analysis', 'Figma', 'Phlebotomy', 'Finance', 'Time Management']",12,24647
+INT575,Reliance,Operations Associate,City_126,BPO/ITES,"['Product Management', 'Welding', 'Django', 'Telemedicine Support']",3,15940
+INT576,L&T,Marketing Associate,City_221,Agriculture,"['Painting', 'SEM', 'Automation Testing', 'Food Safety']",3,7816
+INT577,Aditya Birla,Marketing Associate,City_198,Mining,"['Industrial Safety', 'Presentation', 'CNC']",3,16700
+INT578,ICICI Bank,Customer Support,Thiruvananthapuram,Automotive,"['SEM', 'Agile', 'Logistics', 'Food Processing', 'VLSI Basics']",3,9391
+INT579,Tech Mahindra,HR Assistant,City_123,Roads & Highways,"['Bash', 'Selenium', 'Rust', 'Docker', 'Data Entry']",12,18822
+INT580,Maruti Suzuki,QA Engineer,City_194,Fisheries,"['HubSpot', 'Agile']",6,10802
+INT581,L&T,Data Scientist,City_194,Insurance,"['Spring', 'Telemedicine Support', 'Packaging', 'HR']",3,6145
+INT582,Cognizant,ML Engineer,City_320,Industry_004,"['Inside Sales', 'Painting', 'Vulnerability Assessment', 'CRM', 'MS PowerPoint']",12,14817
+INT583,Reliance,Content Strategist,City_136,Education,"['SPSS', 'NoSQL', 'Networking', 'HACCP']",12,22919
+INT584,TCS,DevOps Engineer,City_252,KPO,"['Documentation', 'Azure']",6,18752
+INT585,HCL,Copywriter,Nellore,Public Health,"['Documentation', 'Painting']",6,13866
+INT586,Mahindra,ML Engineer,City_271,Industry_011,"['Graphic Design', 'Electronics Repair', 'Sales', 'Zoho', 'UI/UX', 'TypeScript']",12,18492
+INT587,Bajaj,Customer Support,Faridabad,Horticulture,"['Inventory Management', 'Confluence', 'Nursing Assistance', 'Rural Outreach', 'Drones']",12,5117
+INT588,Bajaj,Cloud Engineer,Aizawl,Aviation,"['Social Work', 'Marketing', 'VLSI Basics', 'Time Management', 'Selenium', 'Business Analysis']",6,16488
+INT589,Infosys,Full Stack Developer,City_122,Industry_013,"['MS PowerPoint', 'Risk Assessment', 'Selenium', 'Cloud']",6,9039
+INT590,Mahindra,Project Manager,Sonipat,Healthcare,"['SolidWorks', 'CAD', 'R', 'SharePoint', 'Excel']",6,13879
+INT591,Maruti Suzuki,Network Engineer,Vadodara,Courier,"['ISO 27001', 'Electronics Repair', 'Problem Solving', 'Field Survey']",12,7130
+INT592,L&T,Financial Analyst,Rewari,MSME,"['Quality Assurance', 'Remote Sensing', 'Risk Assessment', 'Auditing', 'Adaptability']",3,12668
+INT593,HCL,Content Writer,City_146,Industry_012,"['Automation Testing', 'C', 'Scrum', 'NLP', 'Design Systems']",12,5276
+INT594,Bajaj,Software Developer,City_319,Biotechnology,"['Cybersecurity', 'Adaptability', 'Solar Installation', 'Talent Acquisition']",3,11104
+INT595,L&T,DevOps Engineer,City_203,Hospitality,"['Documentation', 'SharePoint', 'Linux', 'HTML']",6,7222
+INT596,Aditya Birla,Full Stack Developer,South Dumdum,Public Sector,"['Embedded Systems', 'SQL']",12,16668
+INT597,Mahindra,Finance Intern,Nellore,Technology,"['Field Survey', 'Marketing', 'Flask', 'TypeScript']",3,21211
+INT598,Tata Steel,Operations Associate,City_140,Automotive,"['Figma', 'Docker', 'Business Analysis', 'Tally', 'PowerApps', 'Product Management']",12,7466
+INT599,TCS,Supply Chain Analyst,City_248,Industry_006,"['Email Marketing', 'Computer Vision', 'Painting', 'Azure', 'Microfinance', 'Requirements Gathering']",12,20257
+INT600,TCS,Operations Associate,City_286,Roads & Highways,"['AML', 'Supply Chain', 'Jira']",12,18332
+INT601,HCL,Cloud Engineer,Nadiad,Oil & Gas,"['Teamwork', 'Copywriting']",3,11079
+INT602,HDFC Bank,Software Developer,City_136,Industry_003,"['GitHub', 'Talent Acquisition', 'Computer Vision']",3,22484
+INT603,Tech Mahindra,Supply Chain Analyst,Vasai-Virar,Retail,"['Branding', 'Bookkeeping', 'Basic Computer Skills']",6,8251
+INT604,Tata Steel,Content Writer,Fatehabad,Media,"['C', 'DevOps', 'Data Entry', 'Inventory Management', 'Manual Testing']",12,10565
+INT605,TCS,Data Engineer,Udaipur,Industry_014,"['SQL', 'PCB Design']",6,12747
+INT606,Reliance,Mobile App Developer,City_213,Industry_007,"['Spring', '3D Printing', 'Taxation']",3,18410
+INT607,L&T,Operations Associate,Bhopal,Finance,"['Six Sigma', '5S', 'Raspberry Pi', 'Google Analytics']",3,6963
+INT608,Infosys,Financial Analyst,City_125,Hospitality,"['CAM', 'C', 'Go', 'Postman']",3,20121
+INT609,Infosys,UI/UX Designer,Vadodara,Cloud Services,"['Git', 'Kubernetes', 'Deep Learning', 'Excel', 'Vulnerability Assessment']",12,17473
+INT610,Bajaj,Data Analyst,City_261,Roads & Highways,"['Surveying', 'Supply Chain']",6,9670
+INT611,Wipro,ML Engineer,Nagpur,Insurance,"['Laboratory Technician', 'Community Mobilization', 'Marketing', 'AML']",6,8665
+INT612,Mahindra,ML Engineer,City_292,E-commerce,"['Spring', '5S', 'Java', 'Selenium', 'Jira', 'Branding']",3,18338
+INT613,TCS,DevOps Engineer,City_116,Industry_012,"['Content Writing', 'SharePoint', 'MATLAB', 'Powershell']",6,9725
+INT614,Infosys,QA Engineer,City_204,Finance,"['HubSpot', 'Bash', 'UI/UX']",12,13843
+INT615,Maruti Suzuki,Data Scientist,Ambattur,Industry_008,"['Industrial Safety', 'Business Analysis']",6,19617
+INT616,Maruti Suzuki,Content Strategist,City_243,Warehousing,"['VLSI Basics', 'TypeScript', 'ISO 27001', 'FSSAI Compliance', 'Bash']",6,16571
+INT617,ICICI Bank,ML Engineer,City_116,Defense,"['Cold Chain', 'Data Analysis', 'Remote Sensing', 'Six Sigma', 'Raspberry Pi']",6,23258
+INT618,TCS,Automation Tester,Nellore,EdTech,"['Nursing Assistance', 'Auditing', 'Industrial Safety', 'Typing']",6,8668
+INT619,Reliance,Data Analyst,Ujjain,Pharmaceuticals,"['PLC', 'Food Safety']",3,15474
+INT620,Cognizant,Recruiter,City_298,Agriculture,"['Compliance', 'Typing', 'Warehouse Operations']",12,14356
+INT621,Tata Steel,Supply Chain Analyst,City_275,Fisheries,"['ISO 9001', 'CATIA', 'L&D', 'ServiceNow']",12,18805
+INT622,Wipro,UI/UX Designer,City_238,Mining,"['C++', 'Problem Solving']",12,13822
+INT623,HDFC Bank,Finance Intern,City_133,Manufacturing,"['Risk Assessment', 'Design Systems', 'Employee Engagement', 'Drones', 'CATIA', 'Machine Learning']",12,8589
+INT624,Bajaj,Data Analyst,City_252,AgriTech,"['CNC', 'MATLAB', 'Data Engineering', 'Labor Laws', 'Copywriting', 'CSS']",3,18227
+INT625,Bajaj,Network Engineer,City_271,Industry_013,"['Logistics', 'IoT', 'Store Management']",12,9189
+INT626,Tech Mahindra,UI/UX Designer,City_167,Public Sector,"['Typing', 'Technical Writing', 'Time Management', 'Labor Laws']",6,19714
+INT627,TCS,HR Assistant,Davanagere,Aerospace,"['3D Printing', 'MS Word', 'HR']",6,13988
+INT628,Reliance,Cloud Engineer,Gaya,Industry_006,"['Git', 'Flask']",3,11530
+INT629,Tata Steel,Network Engineer,City_252,Industry_002,"['C', 'Auditing', 'Lead Generation']",3,11820
+INT630,Maruti Suzuki,UI/UX Designer,Delhi,Consulting,"['JavaScript', 'AutoCAD']",12,17350
+INT631,HCL,Customer Support,City_150,Industry_010,"['Selenium', 'Product Management', 'Electronics Repair', 'Power BI', 'Embedded Systems']",3,5110
+INT632,L&T,HR Assistant,City_293,Industry_013,"['Deep Learning', 'SPSS', 'Scrum', 'R', 'Warehouse Operations', 'Python']",3,23993
+INT633,Tech Mahindra,Full Stack Developer,Hubli–Dharwad,Metals,"['Microfinance', 'KYC', 'Plumbing', 'DevOps', 'Accessibility', 'AWS']",12,21202
+INT634,HCL,Data Engineer,City_234,Industry_009,"['FSSAI Compliance', 'MS Excel', 'CSR Implementation', 'PLC', 'Store Management', 'JMeter']",12,6465
+INT635,Reliance,Software Developer,City_278,Industry_008,"['Copywriting', 'Data Entry', 'Data Engineering', 'AutoCAD']",6,20729
+INT636,HDFC Bank,Content Writer,City_126,Education,"['TypeScript', 'PCB Design']",12,21877
+INT637,HDFC Bank,Automation Tester,Panvel,Banking,"['R', 'NLP', 'Merchandising', 'Project Management', 'Manual Testing']",3,8149
+INT638,L&T,Mobile App Developer,Kota,Waste Management,"['UAV Operation', 'Raspberry Pi']",12,17103
+INT639,Tata Steel,Project Manager,City_169,Aviation,"['Field Survey', '3D Printing', 'Email Marketing']",3,5595
+INT640,HCL,QA Engineer,City_134,Event Management,"['Spring', 'Taxation']",3,15614
+INT641,Maruti Suzuki,Product Manager,City_143,Fisheries,"['Rust', 'Manual Testing', 'Inside Sales', 'GST', 'PLC']",12,24570
+INT642,HDFC Bank,Business Analyst,City_298,Industry_005,"['Warehouse Operations', 'Compliance', 'Quality Assurance', 'GCP']",12,6758
+INT643,Infosys,Data Analyst,City_282,Hospitality,"['Wind Turbine Basics', 'POS Systems', 'JavaScript', 'AWS']",12,22664
+INT644,Cognizant,Data Scientist,City_260,Real Estate,"['Surveying', 'Adobe XD', 'Adaptability']",6,24544
+INT645,Cognizant,Technical Support,City_148,Technology,"['Logistics', 'Azure', 'SQL']",12,16359
+INT646,L&T,Mobile App Developer,Haora,Ports & Shipping,"['Phlebotomy', 'Field Sales', 'Cloud', 'Six Sigma']",3,16747
+INT647,Aditya Birla,UI/UX Designer,City_211,CleanTech,"['Adobe XD', 'Customer Relationship', 'Selenium']",3,5275
+INT648,HDFC Bank,Data Scientist,Kozhikode,Marketing Services,"['CSR Implementation', 'CAD']",3,23076
+INT649,Tata Steel,Marketing Associate,Tiruchirappalli,MSME,"['Pharmacy Assistance', 'Talent Acquisition']",3,10789
+INT650,Maruti Suzuki,QA Engineer,City_168,Renewable Energy,"['JavaScript', 'SEO', 'Food Safety', 'Procurement', 'Tableau', 'SQL']",3,20225
+INT651,Bajaj,Cloud Engineer,Panvel,Consulting,"['L&D', 'Cold Chain', 'Go', 'Angular']",3,9187
+INT652,L&T,Product Manager,City_268,Tourism,"['Machine Learning', 'Rust', 'Merchandising', 'AML', 'GitHub']",3,9166
+INT653,Bajaj,Network Engineer,City_322,Handloom,"['Finance', 'Machine Learning']",3,5962
+INT654,Aditya Birla,Mobile App Developer,City_136,Rural Development,"['C++', 'Leadership', 'Claims Processing', 'L&D']",6,15652
+INT655,HCL,Growth Marketer,City_133,CleanTech,"['Merchandising', 'CSS', 'Branding', 'Surveying', 'GitLab']",3,19411
+INT656,Reliance,Product Manager,City_325,Food Processing,"['Go', 'Excel', 'Carpentry', 'Machine Learning', 'CRM']",3,5224
+INT657,ICICI Bank,Financial Analyst,City_321,BPO/ITES,"['Public Speaking', 'DevOps', 'Confluence', 'Accessibility']",6,23295
+INT658,Reliance,Data Scientist,City_252,Fisheries,"['Git', 'Kubernetes', 'Sales', 'Rural Outreach', 'Computer Vision', 'Risk Assessment']",12,9135
+INT659,Tech Mahindra,Finance Intern,City_343,Warehousing,"['Automation Testing', 'Python', 'Time Management', 'Logistics', 'Talent Acquisition']",12,17695
+INT660,Cognizant,Digital Marketer,City_205,Real Estate,"['Requirements Gathering', 'Express', 'Carpentry']",6,18394
+INT661,Tech Mahindra,Recruiter,City_227,Public Health,"['ServiceNow', 'Carpentry', 'Content Writing', '5S']",6,7638
+INT662,Aditya Birla,Cloud Engineer,City_297,Consulting,"['Taxation', 'C', 'NoSQL']",6,8566
+INT663,Maruti Suzuki,HR Assistant,City_156,Aviation,"['Communication', 'Social Media', 'GCP', 'STATA', 'Accessibility', 'Google Analytics']",6,11864
+INT664,HDFC Bank,Data Analyst,City_158,Industry_007,"['KYC', 'Microfinance', 'GST', 'AutoCAD', 'CI/CD']",3,9941
+INT665,Infosys,Marketing Associate,City_327,Handicrafts,"['Raspberry Pi', 'Claims Processing', 'Microfinance', 'Auditing']",3,16695
+INT666,HDFC Bank,Operations Associate,Aizawl,Healthcare,"['Drones', 'Phlebotomy', 'Requirements Gathering', 'Digital Marketing', 'Wind Turbine Basics']",3,9054
+INT667,Infosys,Automation Tester,City_314,Ports & Shipping,"['Data Entry', 'AutoCAD', 'Data Analysis']",12,9808
+INT668,Mahindra,Product Manager,Delhi,Event Management,"['Design Systems', 'Branding', 'Canva', 'Salesforce', 'Food Processing']",12,14420
+INT669,L&T,Full Stack Developer,City_258,Logistics,"['MS Word', 'Creativity']",6,24224
+INT670,Maruti Suzuki,Copywriter,City_275,Healthcare,"['Warehouse Operations', 'Confluence', 'Community Mobilization', 'JavaScript', 'Customer Relationship']",3,8301
+INT671,TCS,Cloud Engineer,Solapur,Construction,"['Email Marketing', 'Penetration Testing', 'Drones', 'Risk Assessment']",6,7695
+INT672,Maruti Suzuki,Network Engineer,Siliguri,Banking,"['R', 'Laboratory Technician']",6,6669
+INT673,HDFC Bank,Supply Chain Analyst,City_271,Handloom,"['Product Management', 'Leadership']",3,8292
+INT674,Tata Steel,Network Engineer,City_329,Aviation,"['Angular', 'Vue', 'SIEM', 'Kubernetes', 'Django']",12,11607
+INT675,Infosys,Supply Chain Analyst,City_229,MSME,"['Carpentry', 'Raspberry Pi', 'React', 'Data Analysis', 'Machine Learning', 'Requirements Gathering']",3,5432
+INT676,HCL,Business Analyst,City_244,Biotechnology,"['Excel', 'Microfinance', 'Phlebotomy']",6,8240
+INT677,Bajaj,Content Strategist,City_239,Industry_012,"['Recruitment', 'CSS', 'PowerApps', 'Risk Assessment', 'Statistics', 'Masonry']",6,10098
+INT678,Maruti Suzuki,Growth Marketer,City_182,Industry_002,"['Microfinance', 'Angular', 'POS Systems', 'Critical Thinking', 'Confluence', 'Computer Vision']",12,14335
+INT679,Tech Mahindra,QA Engineer,City_239,Disaster Management,"['Investment Research', 'C++', 'Plumbing', 'R']",3,11751
+INT680,Mahindra,Marketing Associate,City_115,Climate & Sustainability,"['Linux', 'Telemedicine Support', 'R', 'TypeScript', 'Lean', 'CATIA']",12,19537
+INT681,L&T,Network Engineer,Delhi,Roads & Highways,"['PowerApps', 'Six Sigma', 'Arduino']",3,12428
+INT682,Mahindra,ML Engineer,City_213,Pharmaceuticals,"['Rust', 'SolidWorks', 'Phlebotomy', 'Adaptability', 'Power BI']",12,20400
+INT683,Tech Mahindra,DevOps Engineer,Jamshedpur,Courier,"['Field Survey', 'Electrical Wiring', 'Painting', 'Operations', 'Scrum', 'Communication']",6,8952
+INT684,L&T,UI/UX Designer,City_249,Climate & Sustainability,"['HTML', 'Manual Testing', 'Talent Acquisition']",12,8474
+INT685,Cognizant,Mobile App Developer,Chennai,Warehousing,"['AutoCAD', 'C', 'FSSAI Compliance', 'Merchandising']",12,22990
+INT686,ICICI Bank,Customer Support,City_181,Urban Development,"['SQL', 'C', 'Git', 'Remote Sensing', 'Jira', 'HACCP']",6,11362
+INT687,Maruti Suzuki,Technical Support,Jamnagar,KPO,"['Powershell', 'Kubernetes', 'SPSS', 'Logistics', 'Industrial Safety']",3,17597
+INT688,Bajaj,Automation Tester,City_196,MSME,"['Selenium', 'Confluence', 'Procurement', 'Food Safety']",6,5652
+INT689,Reliance,Customer Support,City_227,Industry_002,"['Flask', 'Labor Laws', 'Welding', 'Phlebotomy']",3,13057
+INT690,Bajaj,Full Stack Developer,City_187,Industry_004,"['Machine Learning', 'Inside Sales', 'Vue']",12,8782
+INT691,Tech Mahindra,Copywriter,City_153,Tourism,"['Node.js', 'Java', 'ISO 9001', 'C++', 'Figma']",3,16926
+INT692,TCS,Growth Marketer,City_333,Social Welfare,"['Power Automate', 'Docker', 'Digital Marketing', 'UI/UX']",12,8686
+INT693,Bajaj,Recruiter,City_114,Food & Beverage,"['SEO', 'Typing', 'SEM']",12,7161
+INT694,HCL,Software Developer,Hyderabad,Food Processing,"['KYC', 'Payroll']",12,7444
+INT695,Tech Mahindra,Software Developer,City_162,Public Sector,"['GCP', 'Computer Vision']",6,7335
+INT696,Reliance,Financial Analyst,City_187,Industry_012,"['Supply Chain', 'Medical Coding', 'SEM', 'Warehouse Operations', 'Retail Operations', 'Zoho']",3,12572
+INT697,Aditya Birla,Full Stack Developer,City_315,Environmental Services,"['Email Marketing', 'AutoCAD', 'Deep Learning']",3,5102
+INT698,ICICI Bank,Software Developer,Bhiwandi,Industry_012,"['Leadership', 'Talent Acquisition', 'Confluence', 'NGO Program Support']",3,21075
+INT699,L&T,Content Strategist,City_300,Handloom,"['Sales', 'Lean']",3,23081
+INT700,ICICI Bank,Marketing Associate,Salem,Hospitality,"['CSR Implementation', 'Express', 'Manual Testing', 'Teamwork', 'Lead Generation', 'Computer Vision']",3,12674
+INT701,Bajaj,Digital Marketer,City_289,Ports & Shipping,"['Computer Vision', 'HubSpot', 'Taxation', 'Confluence', 'CI/CD', 'GST']",12,6494
+INT702,Maruti Suzuki,Automation Tester,City_307,Urban Development,"['Graphic Design', 'Insurance Underwriting', 'Operations']",3,10030
+INT703,HDFC Bank,Customer Support,City_150,Handicrafts,"['CSR Implementation', 'Marketing', 'Payroll', 'Postman']",6,9631
+INT704,TCS,Digital Marketer,Allahabad,Textiles,"['Go', 'JMeter']",3,7003
+INT705,Tech Mahindra,HR Assistant,City_238,Aerospace,"['Operations', 'Documentation', 'Rural Outreach', 'Remote Sensing']",6,22418
+INT706,Aditya Birla,Technical Support,City_118,Railways,"['Figma', 'Computer Vision']",6,15421
+INT707,HDFC Bank,Product Manager,City_272,Healthcare,"['Quality Assurance', 'Content Writing', 'Node.js']",6,21490
+INT708,Tech Mahindra,Marketing Associate,City_236,Event Management,"['Operations', 'React', 'Kubernetes']",12,10660
+INT709,ICICI Bank,Project Manager,City_202,Industry_002,"['Warehouse Operations', 'GCP', 'Automation Testing', 'Powershell', 'CATIA', 'Creativity']",6,6497
+INT710,Mahindra,Copywriter,City_220,Insurance,"['C++', 'Manual Testing', 'Surveying']",6,11778
+INT711,Wipro,Financial Analyst,Ranchi,Industry_005,"['Salesforce', 'ISO 27001', 'Store Management']",12,18136
+INT712,Mahindra,Copywriter,Belgaum,Solar,"['STATA', 'Figma', 'MS Word', 'Compliance', 'POS Systems', 'Critical Thinking']",6,24902
+INT713,TCS,Copywriter,City_344,Industry_003,"['Documentation', 'Creativity']",12,17890
+INT714,Bajaj,Automation Tester,City_120,Logistics,"['Nursing Assistance', 'CRM']",6,12710
+INT715,HDFC Bank,Software Developer,City_178,Manufacturing,"['Raspberry Pi', 'CSR Implementation', 'GCP', '5S', 'SIEM', 'PLC']",6,7746
+INT716,Cognizant,Marketing Associate,City_306,Leather,"['Jira', 'Community Mobilization', 'C++', 'Google Analytics', 'Cybersecurity']",12,15540
+INT717,Reliance,Finance Intern,Aurangabad,Industry_009,"['Problem Solving', 'PCB Design', 'Postman', 'Leadership', 'Laboratory Technician']",6,16280
+INT718,HDFC Bank,Cloud Engineer,City_224,Energy,"['Telemedicine Support', 'Rust', 'Product Management', 'Power Automate', 'Basic Computer Skills', 'Confluence']",3,10928
+INT719,Mahindra,UI/UX Designer,City_207,Industry_010,"['Selenium', 'Store Management', 'Vulnerability Assessment']",3,6954
+INT720,Tata Steel,Cloud Engineer,Sambalpur,Cybersecurity,"['Communication', 'Statistics', 'Excel']",3,20230
+INT721,Tech Mahindra,Digital Marketer,City_334,Metro Rail,"['IoT', 'R', 'Public Speaking', 'Excel', 'Payroll']",3,6874
+INT722,Maruti Suzuki,Business Analyst,Davanagere,Advertising,"['Tally', 'Tableau', 'SEO', 'Technical Writing', 'SolidWorks', 'Warehouse Operations']",12,23135
+INT723,HCL,Data Analyst,City_192,Logistics,"['Payroll', 'SCADA']",3,11793
+INT724,Bajaj,Full Stack Developer,Kakinada,Warehousing,"['Bash', 'Risk Assessment']",6,23633
+INT725,Maruti Suzuki,Recruiter,Ahmedabad,Automotive,"['Powershell', 'Food Processing', 'Procurement', 'Technical Writing']",6,7537
+INT726,TCS,Copywriter,City_280,Manufacturing,"['Automation Testing', 'Postman']",3,12079
+INT727,Maruti Suzuki,Data Scientist,City_205,Cold Chain,"['PowerApps', 'HTML', 'HubSpot', 'Pharmacy Assistance', 'C++']",3,14542
+INT728,Bajaj,UI/UX Designer,Kurukshetra,Warehousing,"['JMeter', 'Bash', 'Scrum', 'Marketing', 'GST']",12,12335
+INT729,Tech Mahindra,ML Engineer,City_226,Construction,"['Marketing', 'Power Automate', 'Quality Assurance', 'Compliance', 'Product Management', 'CATIA']",3,22692
+INT730,HCL,Growth Marketer,City_289,Retail,"['Rural Outreach', 'Field Sales', 'Confluence', 'Django', 'Docker']",6,23023
+INT731,ICICI Bank,ML Engineer,City_310,Shared Services,"['Canva', 'STATA', 'Postman', 'EHR Systems', 'Docker', 'Field Survey']",6,10904
+INT732,L&T,Full Stack Developer,Guwahati,Construction,"['R', 'Supply Chain', 'Adobe XD', 'Finance', 'Remote Sensing', 'React']",6,23455
+INT733,Tech Mahindra,Copywriter,Dhanbad,Defense,"['Cashier', 'Talent Acquisition', 'Automation Testing', 'Procurement', 'GIS']",6,10624
+INT734,Mahindra,Full Stack Developer,Bellary,MSME,"['Auditing', 'Vulnerability Assessment', 'Electrical Wiring', 'Public Speaking']",6,24214
+INT735,ICICI Bank,Software Developer,City_232,Industry_007,"['Critical Thinking', 'Data Entry']",6,14874
+INT736,Tech Mahindra,Software Developer,City_215,Industry_010,"['Investment Research', 'Microfinance', 'HR', 'TypeScript', 'Git']",3,22879
+INT737,TCS,Automation Tester,Aligarh,CSR,"['PCB Design', 'CSS', 'Linux']",3,7547
+INT738,Cognizant,Digital Marketer,City_154,Non-Profit,"['SQL', 'Marketing', 'Confluence', 'Typing', '3D Printing', 'Industrial Safety']",3,10680
+INT739,Cognizant,Cloud Engineer,City_179,Cold Chain,"['Vulnerability Assessment', 'GitHub', 'Java']",3,13017
+INT740,ICICI Bank,Data Scientist,Agra,Real Estate,"['Remote Sensing', 'Lead Generation', 'Customer Relationship', 'Django']",3,12413
+INT741,ICICI Bank,Business Analyst,City_169,Industry_006,"['Canva', 'Warehouse Operations']",12,21524
+INT742,Tech Mahindra,Recruiter,City_287,GovTech,"['Carpentry', 'Cybersecurity', 'Rural Outreach']",3,11315
+INT743,Cognizant,Cloud Engineer,City_151,Banking,"['Kubernetes', 'Electronics Repair', 'L&D', 'MATLAB', 'Java']",12,5873
+INT744,ICICI Bank,Operations Associate,City_276,Cybersecurity,"['SPSS', 'STATA', 'SharePoint']",6,13854
+INT745,Infosys,Cloud Engineer,City_297,Consulting,"['PowerApps', 'CRM', 'Microfinance', 'Arduino', 'Logistics']",6,24698
+INT746,Bajaj,DevOps Engineer,Srinagar,Aerospace,"['Project Management', 'Leadership', 'Inventory Management']",3,7465
+INT747,Mahindra,Finance Intern,City_159,Entertainment,"['Marketing', 'Docker', 'Flask', 'C']",6,10972
+INT748,Bajaj,Technical Support,City_138,Cybersecurity,"['CAM', 'Vulnerability Assessment']",6,16203
+INT749,Bajaj,Customer Support,Mysore,Entertainment,"['Bash', 'Procurement', 'Manual Testing']",3,12506
+INT750,Infosys,Financial Analyst,City_191,Public Sector,"['STATA', 'Payroll', 'Requirements Gathering', '5S', 'Sales']",3,21668
+INT751,Aditya Birla,Data Engineer,City_205,Insurance,"['Statistics', 'Azure', 'EHR Systems', 'Go', 'Welding']",6,8947
+INT752,Mahindra,Customer Support,City_118,Manufacturing,"['3D Printing', 'Electronics Repair']",3,22466
+INT753,Cognizant,Project Manager,City_162,Hospitality,"['Django', 'Networking', 'Linux', 'Telemedicine Support']",3,7057
+INT754,ICICI Bank,Cybersecurity Analyst,City_118,Environmental Services,"['C++', 'Sales', 'NLP', 'Business Analysis']",3,9573
+INT755,Infosys,Operations Associate,City_328,Pharmaceuticals,"['Accessibility', 'Food Safety', 'React', 'Creativity']",6,20896
+INT756,Cognizant,Operations Associate,City_237,Analytics,"['Confluence', 'Six Sigma', 'Raspberry Pi']",3,17267
+INT757,Tata Steel,Network Engineer,City_129,Defense,"['Deep Learning', 'Problem Solving', 'Data Entry']",3,13335
+INT758,Aditya Birla,Customer Support,City_346,Water & Sanitation,"['ServiceNow', 'Power BI', 'Electronics Repair', 'Bash', 'Claims Processing', 'Java']",6,22784
+INT759,Mahindra,Financial Analyst,Nashik,Handicrafts,"['Painting', 'Bookkeeping', 'PLC', 'Penetration Testing', 'ISO 27001']",3,10575
+INT760,Bajaj,Operations Associate,City_286,Handicrafts,"['NLP', 'Auditing', 'Welding', 'Vue']",3,16150
+INT761,Mahindra,Cybersecurity Analyst,City_278,Event Management,"['Compliance', 'Requirements Gathering', 'Vue', 'Customer Service']",6,21497
+INT762,Maruti Suzuki,Customer Support,City_184,Industry_009,"['MS Word', 'Cybersecurity', 'KYC', 'Typing', 'Git', 'Community Mobilization']",6,19327
+INT763,Tata Steel,Customer Support,City_245,Hospitality,"['SharePoint', 'GitHub', 'JavaScript', 'KYC', 'Time Management']",6,18038
+INT764,Mahindra,DevOps Engineer,City_338,Sports,"['Taxation', 'Branding', 'Figma']",12,15449
+INT765,Tata Steel,Digital Marketer,Madurai,Sports,"['Git', 'CATIA', 'Docker', 'GitHub', 'Bash']",6,5282
+INT766,Maruti Suzuki,ML Engineer,City_274,Warehousing,"['Store Management', 'Zoho', 'UAV Operation', 'Painting']",6,10505
+INT767,Maruti Suzuki,Mobile App Developer,City_154,Leather,"['SolidWorks', 'HR', 'Networking']",12,13255
+INT768,Cognizant,Cloud Engineer,City_331,Finance,"['Git', 'ServiceNow']",3,13050
+INT769,Cognizant,Project Manager,Guwahati,GovTech,"['3D Printing', 'GitHub', 'PCB Design', 'C++', 'SharePoint', 'C']",12,18680
+INT770,Reliance,Cloud Engineer,City_228,Education,"['Cold Chain', 'Inventory Management', 'Python']",6,16229
+INT771,Tech Mahindra,Content Strategist,Vasai-Virar,Sports,"['Compliance', 'Cybersecurity', 'Powershell', 'Spring']",6,14340
+INT772,Aditya Birla,Data Analyst,Surat,Industry_006,"['VLSI Basics', 'Express', 'React']",12,7765
+INT773,Bajaj,Product Manager,City_126,Oil & Gas,"['MS PowerPoint', 'Welding', 'GitLab']",3,10253
+INT774,HDFC Bank,Content Strategist,City_238,Agriculture,"['Electronics Repair', 'Adobe XD']",6,5189
+INT775,Tata Steel,Data Analyst,City_215,Healthcare,"['Azure', 'Postman', 'Presentation', 'Drones', 'NoSQL', 'Inside Sales']",6,14207
+INT776,Reliance,ML Engineer,City_215,Consulting,"['Labor Laws', 'MATLAB', 'Logistics', 'Digital Marketing', 'Figma']",12,22226
+INT777,Tata Steel,Growth Marketer,City_182,Finance,"['3D Printing', 'Field Sales']",3,20172
+INT778,Wipro,UI/UX Designer,City_139,Handloom,"['Quality Assurance', 'Payroll']",12,9804
+INT779,Tech Mahindra,Product Manager,City_345,Biotechnology,"['Penetration Testing', 'SharePoint', 'HR']",3,5407
+INT780,Aditya Birla,Data Engineer,City_317,FinTech,"['Retail Operations', 'Deep Learning', 'Labor Laws', 'Copywriting']",3,11555
+INT781,Tata Steel,ML Engineer,City_200,Renewable Energy,"['SEO', 'Tableau', 'Risk Assessment', 'Penetration Testing']",6,10854
+INT782,Mahindra,Financial Analyst,City_338,Metals,"['Taxation', 'ISO 9001', 'Talent Acquisition', 'Microfinance', 'SQL', 'Payroll']",12,11829
+INT783,Maruti Suzuki,Project Manager,City_310,AgriTech,"['Carpentry', 'CSS', 'Marketing']",6,7276
+INT784,Mahindra,Marketing Associate,City_175,Automotive,"['AutoCAD', 'Employee Engagement', 'TypeScript', 'Machine Learning', 'Teamwork', 'Welding']",12,23501
+INT785,HCL,Cloud Engineer,City_154,Industry_004,"['HTML', 'Git', 'SEO']",12,12182
+INT786,Mahindra,Business Analyst,City_137,Industry_013,"['Express', 'NGO Program Support', 'Leadership', 'Git']",3,13803
+INT787,ICICI Bank,Copywriter,City_172,Courier,"['Supply Chain', '3D Printing', 'Jira', 'Manual Testing', 'CNC', 'Field Survey']",3,10423
+INT788,ICICI Bank,Full Stack Developer,City_151,Industry_013,"['Financial Modeling', 'AML', 'Canva', 'GST', 'Field Survey', 'AWS']",6,23330
+INT789,Bajaj,Data Analyst,City_144,Industry_003,"['GitHub', 'Penetration Testing', 'Creativity', 'Labor Laws', 'Insurance Underwriting']",12,13723
+INT790,Infosys,QA Engineer,Pune,Technology,"['Salesforce', 'Graphic Design', 'Problem Solving', 'Plumbing', 'Google Analytics', 'Communication']",12,13779
+INT791,Wipro,Data Scientist,City_201,Industry_007,"['Accessibility', 'Inside Sales', 'PowerApps', 'Electronics Repair']",12,5524
+INT792,Tech Mahindra,Customer Support,Visakhapatnam,Sports,"['ISO 9001', 'MS Excel', 'Express']",6,19003
+INT793,TCS,Business Analyst,City_251,Cybersecurity,"['Claims Processing', 'NLP', 'Content Writing', 'Adobe XD', 'Selenium']",12,22122
+INT794,HDFC Bank,Project Manager,Kaithal,Smart Cities,"['Procurement', 'Store Management']",6,7698
+INT795,L&T,Technical Support,City_232,Cloud Services,"['Recruitment', 'Jira', 'Six Sigma', 'MATLAB']",12,17704
+INT796,Maruti Suzuki,Product Manager,City_207,MSME,"['Financial Modeling', 'Drones']",6,7855
+INT797,L&T,Digital Marketer,City_265,Industry_010,"['3D Printing', 'SQL', 'Django', 'DevOps', 'Automation Testing', '5S']",12,10470
+INT798,Bajaj,Content Strategist,Salem,Finance,"['Branding', 'CRM', 'HTML', 'Medical Coding', 'Selenium', 'Remote Sensing']",12,17617
+INT799,TCS,Business Analyst,City_121,Wind,"['Microfinance', 'L&D', 'SQL', 'Salesforce', 'NoSQL']",3,13125
+INT800,Mahindra,Project Manager,City_218,Entertainment,"['Project Management', 'UI/UX', 'Go', 'Procurement', 'Communication', 'GIS']",6,11913
+INT801,TCS,Content Strategist,City_208,Roads & Highways,"['AutoCAD', 'Cloud']",3,11009
+INT802,Reliance,Copywriter,City_244,Food & Beverage,"['Community Mobilization', 'Data Analysis', 'VLSI Basics', 'JavaScript']",12,19815
+INT803,L&T,QA Engineer,City_260,Handicrafts,"['Figma', 'Problem Solving', 'Field Survey', 'Lead Generation']",12,24588
+INT804,Maruti Suzuki,Content Strategist,Meerut,Metals,"['Microfinance', 'Vulnerability Assessment', '3D Printing', 'Recruitment', 'Social Media']",12,10543
+INT805,Tata Steel,HR Assistant,City_317,Aviation,"['Inventory Management', 'Go', 'KYC', 'Google Analytics', 'Solar Installation']",6,5717
+INT806,Tech Mahindra,Automation Tester,City_327,Food Processing,"['AWS', 'R', 'Nursing Assistance', 'Selenium', 'Django', 'Documentation']",12,23383
+INT807,Reliance,Technical Support,Vijayawada,Panchayati Raj,"['Packaging', 'Merchandising', 'Quality Assurance', 'Rust', 'Cold Chain']",6,11748
+INT808,Wipro,Content Strategist,Amritsar,Industry_012,"['Inventory Management', 'Social Work']",3,23935
+INT809,Cognizant,Growth Marketer,City_347,Finance,"['Cybersecurity', 'SCADA', 'GitLab', 'NGO Program Support', 'Time Management']",12,7624
+INT810,Aditya Birla,Operations Associate,City_275,Construction,"['R', 'CAD', 'CI/CD', 'Talent Acquisition', 'EHR Systems']",6,11687
+INT811,Maruti Suzuki,Customer Support,City_120,Urban Development,"['JMeter', 'Claims Processing']",3,22494
+INT812,Reliance,Content Strategist,City_158,Advertising,"['Git', 'Warehouse Operations', 'Electrical Wiring', 'SEM']",3,5989
+INT813,HCL,Cybersecurity Analyst,City_303,Rural Development,"['Machine Learning', 'FSSAI Compliance', 'CSR Implementation']",3,15709
+INT814,HDFC Bank,Automation Tester,City_328,Gaming,"['Power BI', 'Digital Marketing']",6,23532
+INT815,Bajaj,Copywriter,City_231,Manufacturing,"['Arduino', 'GitLab', 'Flask', 'VLSI Basics', 'HubSpot']",12,19391
+INT816,HCL,Software Developer,City_189,FinTech,"['MS Word', 'Kubernetes', 'Business Analysis', 'Design Systems', 'CAD', 'Adaptability']",12,14107
+INT817,Aditya Birla,Customer Support,City_126,Media,"['Power Automate', 'Nursing Assistance', 'Food Processing']",12,7468
+INT818,Mahindra,Network Engineer,City_276,Biotechnology,"['Lean', 'Problem Solving', 'Java', 'Operations', 'Painting']",6,13882
+INT819,Aditya Birla,Product Manager,City_348,Biotechnology,"['GIS', 'MS Word', 'SCADA', 'Rural Outreach']",3,8373
+INT820,Reliance,QA Engineer,City_130,Industry_013,"['Merchandising', 'Drones', 'Azure', 'Surveying', 'Time Management', 'Deep Learning']",6,5048
+INT821,HCL,Growth Marketer,City_230,Industry_014,"['Tableau', '5S']",3,24630
+INT822,Wipro,Copywriter,City_323,Food Processing,"['Manual Testing', 'React']",3,6018
+INT823,L&T,QA Engineer,City_277,Retail,"['Solar Installation', 'Flask', 'Selenium', 'Docker', 'Inventory Management', 'DevOps']",12,10426
+INT824,Bajaj,Growth Marketer,City_213,MSME,"['Remote Sensing', 'CSR Implementation', 'Content Writing']",6,22254
+INT825,ICICI Bank,Technical Support,Bhopal,Beauty & Wellness,"['JMeter', 'GCP']",12,21634
+INT826,Aditya Birla,Operations Associate,City_174,CSR,"['Wind Turbine Basics', 'GIS', 'Six Sigma']",12,14031
+INT827,Infosys,Data Scientist,City_215,Panchayati Raj,"['Payroll', 'Electronics Repair']",12,8680
+INT828,Tata Steel,Supply Chain Analyst,City_198,Biotechnology,"['Lean', 'Warehouse Operations', 'Logistics']",3,5509
+INT829,L&T,Data Analyst,City_272,Hospitality,"['Product Management', 'Carpentry']",3,19951
+INT830,TCS,QA Engineer,Sambalpur,Horticulture,"['FSSAI Compliance', 'Documentation', 'Marketing']",6,12154
+INT831,ICICI Bank,Customer Support,City_305,Mining,"['Wind Turbine Basics', 'Scrum', 'CRM']",12,20877
+INT832,Cognizant,Software Developer,Madurai,Logistics,"['Claims Processing', 'Risk Assessment']",6,9672
+INT833,HDFC Bank,Cloud Engineer,City_337,Oil & Gas,"['Cold Chain', 'PCB Design', 'JavaScript']",12,7949
+INT834,Cognizant,DevOps Engineer,City_115,Smart Cities,"['Agile', 'C++', 'Bash', 'SolidWorks']",6,23673
+INT835,Mahindra,Content Writer,Dhanbad,Banking,"['GST', 'Remote Sensing', 'Field Survey', 'Manual Testing', 'Python', 'MATLAB']",6,12939
+INT836,Reliance,Marketing Associate,Nellore,Industry_012,"['HTML', 'Accounting', 'Adobe XD', 'Medical Coding']",6,13383
+INT837,L&T,Technical Support,Jodhpur,Industry_004,"['Employee Engagement', 'ServiceNow', 'Financial Modeling', 'PowerApps', 'Marketing', 'Food Processing']",3,12964
+INT838,Tech Mahindra,Content Writer,City_140,Public Health,"['GCP', 'R', 'Accounting', 'Cashier', 'CNC', 'Automation Testing']",6,13151
+INT839,L&T,Digital Marketer,City_142,Industry_006,"['HR', 'DevOps', 'Penetration Testing', 'STATA', 'Design Systems']",6,6259
+INT840,Reliance,Content Writer,City_238,Legal,"['MS Word', 'Cold Chain', 'Digital Marketing', 'Industrial Safety', 'Node.js', 'MATLAB']",6,24053
+INT841,HDFC Bank,Operations Associate,City_249,Event Management,"['Cloud', 'Risk Assessment', 'React']",6,11094
+INT842,Bajaj,HR Assistant,City_199,Warehousing,"['HR', 'CAM', 'Welding']",3,5363
+INT843,Reliance,Copywriter,City_204,Energy,"['CNC', 'Industrial Safety', 'Cold Chain', 'GitLab', 'Networking']",6,17352
+INT844,Bajaj,Operations Associate,City_308,Beauty & Wellness,"['Electrical Wiring', 'Claims Processing', 'Raspberry Pi']",12,22962
+INT845,HCL,UI/UX Designer,City_165,Industry_011,"['Claims Processing', 'ISO 9001', 'Inventory Management', 'CATIA', 'Adaptability', 'Postman']",12,21234
+INT846,Mahindra,Supply Chain Analyst,Siliguri,Oil & Gas,"['C', 'Social Media', 'SPSS', 'Agile', 'Jira']",12,10657
+INT847,TCS,HR Assistant,City_129,Legal,"['NLP', 'Field Sales', 'SIEM']",12,22297
+INT848,Tata Steel,UI/UX Designer,City_307,Transportation,"['STATA', 'Warehouse Operations', 'C++']",3,5144
+INT849,Cognizant,Data Scientist,City_149,Food Processing,"['Surveying', 'Drones']",12,20283
+INT850,Cognizant,Content Writer,Gaya,Advertising,"['ServiceNow', 'Branding']",12,12432
+INT851,Tech Mahindra,Data Analyst,City_146,Industry_008,"['Node.js', 'Figma', 'Copywriting', 'R', 'JavaScript', 'Vulnerability Assessment']",12,23838
+INT852,Mahindra,Marketing Associate,Udaipur,Analytics,"['Lean', 'MATLAB', 'SQL', 'Electronics Repair', 'Embedded Systems', 'Typing']",6,15722
+INT853,Tech Mahindra,Automation Tester,City_197,Food Processing,"['AML', 'SharePoint', 'Food Safety']",12,9437
+INT854,HDFC Bank,Data Engineer,Hyderabad,Environmental Services,"['Laboratory Technician', 'Remote Sensing', 'DevOps', 'Vue', 'Creativity', 'Bash']",3,16037
+INT855,Tech Mahindra,Product Manager,Bhopal,CSR,"['L&D', 'IoT', 'Statistics', 'Carpentry', 'Confluence']",12,18129
+INT856,Wipro,Data Engineer,City_292,Industry_014,"['SQL', 'Remote Sensing', 'Financial Modeling', 'Inventory Management', 'MS Excel', 'MATLAB']",3,7791
+INT857,Mahindra,Automation Tester,City_187,Banking,"['Manual Testing', 'VLSI Basics']",6,18403
+INT858,Infosys,Data Engineer,City_270,Handicrafts,"['CRM', 'ISO 9001', 'CI/CD', 'Rural Outreach', 'Social Work', 'Remote Sensing']",12,14515
+INT859,Tech Mahindra,Full Stack Developer,Chennai,CleanTech,"['Zoho', 'Branding', 'Public Speaking']",6,8949
+INT860,Tata Steel,Cloud Engineer,City_163,Shared Services,"['Drones', 'Cybersecurity']",6,15346
+INT861,Tech Mahindra,Content Writer,Moradabad,Finance,"['Leadership', 'Public Speaking']",6,11437
+INT862,Aditya Birla,Cloud Engineer,Jabalpur,Ports & Shipping,"['Django', 'Canva', 'Talent Acquisition', 'Machine Learning']",12,10876
+INT863,TCS,DevOps Engineer,City_171,Marketing Services,"['PCB Design', 'POS Systems', 'Node.js', 'Electronics Repair', 'Penetration Testing', 'Creativity']",6,11336
+INT864,HCL,Finance Intern,Agra,Cold Chain,"['Insurance Underwriting', 'Powershell', 'Content Writing', 'Email Marketing']",6,19698
+INT865,HDFC Bank,Recruiter,City_312,Technology,"['Teamwork', 'Compliance', 'Go', 'Quality Assurance']",12,22515
+INT866,Reliance,Full Stack Developer,Noida,Industry_014,"['Google Analytics', 'Flask', 'Java']",12,20415
+INT867,Reliance,Marketing Associate,Vijayawada,Industry_014,"['Node.js', 'SharePoint', 'Lean', 'Masonry', 'SQL', 'Phlebotomy']",12,16707
+INT868,Infosys,Financial Analyst,City_123,Beauty & Wellness,"['MS PowerPoint', 'Electronics Repair', 'Customer Relationship']",3,13781
+INT869,ICICI Bank,Content Writer,Bhiwani,Insurance,"['Raspberry Pi', 'Node.js']",12,16600
+INT870,L&T,Software Developer,City_177,Renewable Energy,"['KYC', 'Data Analysis', 'Store Management', 'Claims Processing', 'NLP', 'Inside Sales']",6,13538
+INT871,HDFC Bank,Cybersecurity Analyst,City_318,Dairy,"['Agile', 'Raspberry Pi', 'Food Safety', 'Tableau']",6,6536
+INT872,Aditya Birla,Financial Analyst,City_243,Technology,"['Digital Marketing', 'C++']",12,13055
+INT873,Cognizant,Content Strategist,Pune,Industry_006,"['Sales', 'Email Marketing', 'R', 'Typing']",6,5602
+INT874,Maruti Suzuki,Product Manager,City_310,Industry_006,"['DevOps', 'GitLab', 'Data Analysis', 'Typing', 'Go', 'Packaging']",3,24286
+INT875,Reliance,Content Writer,Akola,Industry_013,"['Product Management', 'Adaptability']",6,22825
+INT876,L&T,Content Writer,City_143,Research,"['Drones', 'Quality Assurance']",12,22710
+INT877,TCS,DevOps Engineer,City_201,Water & Sanitation,"['IoT', 'Medical Coding', 'Salesforce']",3,17521
+INT878,HDFC Bank,Cybersecurity Analyst,City_224,Industry_005,"['Vulnerability Assessment', 'POS Systems', 'Accessibility', 'HubSpot', 'Recruitment', 'MATLAB']",3,6818
+INT879,Cognizant,UI/UX Designer,City_310,Urban Development,"['Documentation', 'TypeScript', 'Problem Solving', 'Critical Thinking']",3,19155
+INT880,Mahindra,Data Analyst,City_259,Industry_007,"['CATIA', 'Communication', 'HTML', 'PCB Design', 'Git', 'Food Processing']",12,8849
+INT881,Bajaj,Cybersecurity Analyst,City_315,Agriculture,"['Merchandising', 'Nursing Assistance', 'Masonry', 'Digital Marketing', 'Adobe XD', 'Data Analysis']",3,11543
+INT882,Aditya Birla,Full Stack Developer,Malegaon,Metals,"['Computer Vision', 'NLP', 'CRM', 'MS PowerPoint', 'Requirements Gathering']",12,16092
+INT883,L&T,Data Analyst,City_176,Construction,"['Product Management', 'Powershell', 'Drones', 'R', 'Power BI']",12,18214
+INT884,TCS,Business Analyst,City_233,Industry_002,"['GCP', 'JavaScript', 'Google Analytics']",3,24681
+INT885,Cognizant,Financial Analyst,City_348,Technology,"['ISO 9001', 'Business Analysis', 'Investment Research', 'Retail Operations', 'Marketing']",6,20736
+INT886,Tata Steel,Cybersecurity Analyst,Aurangabad,Rural Development,"['Solar Installation', 'Penetration Testing', 'Data Analysis']",6,7081
+INT887,HDFC Bank,Content Writer,Jabalpur,Marketing Services,"['Salesforce', 'Store Management', 'Project Management', 'PLC', 'Business Analysis', 'Talent Acquisition']",6,17697
+INT888,Reliance,DevOps Engineer,City_209,Warehousing,"['Field Sales', 'EHR Systems', 'Field Survey']",12,17318
+INT889,Cognizant,Software Developer,City_187,Public Sector,"['AWS', 'Risk Assessment']",6,7414
+INT890,Tata Steel,Recruiter,City_155,Healthcare,"['Tally', 'Presentation', 'CATIA']",6,5194
+INT891,HCL,Data Engineer,City_199,Social Welfare,"['React', 'Lead Generation', 'Angular', 'Logistics', 'Accessibility']",3,17983
+INT892,Reliance,Product Manager,City_223,Finance,"['CSS', 'MATLAB', 'Insurance Underwriting', 'MS Word']",12,7874
+INT893,Aditya Birla,QA Engineer,City_220,EdTech,"['Carpentry', 'Data Entry']",12,8954
+INT894,TCS,Full Stack Developer,Fatehabad,Entertainment,"['Electronics Repair', 'R']",3,6923
+INT895,Maruti Suzuki,Network Engineer,City_122,Analytics,"['Azure', 'Investment Research']",3,5763
+INT896,Bajaj,Project Manager,City_174,Construction,"['NGO Program Support', 'JMeter', 'Rural Outreach']",6,23626
+INT897,Mahindra,Cybersecurity Analyst,City_306,Wind,"['Power BI', 'PLC', 'Remote Sensing']",3,17858
+INT898,TCS,Data Analyst,City_320,Industry_006,"['Compliance', 'CSS', 'Cloud', 'Postman', 'Finance', 'Teamwork']",6,15540
+INT899,HDFC Bank,Customer Support,City_140,Research,"['AWS', 'CSS', 'Sales', 'SEO', 'Risk Assessment', 'CATIA']",12,14224
+INT900,Tata Steel,Business Analyst,City_169,Shared Services,"['Deep Learning', 'SPSS', 'CATIA', 'JavaScript', 'Masonry', 'CAD']",3,22957
+INT901,Bajaj,Content Writer,City_179,Research,"['MS Word', 'UI/UX', 'Digital Marketing', 'Social Work']",6,18046
+INT902,Reliance,Cloud Engineer,Bellary,Gaming,"['DevOps', 'SPSS', 'Teamwork', 'VLSI Basics']",6,6714
+INT903,ICICI Bank,Cybersecurity Analyst,City_209,Mining,"['Accessibility', 'Cold Chain']",3,18762
+INT904,Tech Mahindra,DevOps Engineer,City_159,Panchayati Raj,"['Rust', 'Manual Testing', 'C++', 'Content Writing', 'Solar Installation']",3,18814
+INT905,Cognizant,Data Engineer,City_208,Healthcare,"['Penetration Testing', 'Accounting', 'Flask']",6,21514
+INT906,ICICI Bank,Software Developer,Coimbatore,Oil & Gas,"['Packaging', 'Java', 'Spring']",6,12549
+INT907,Aditya Birla,Network Engineer,City_326,Agriculture,"['Leadership', 'NLP', 'Google Analytics', 'Payroll', 'Angular']",6,22254
+INT908,Mahindra,Operations Associate,Amritsar,Oil & Gas,"['GitLab', 'Jira', 'Social Media']",3,11854
+INT909,HCL,Operations Associate,City_168,CleanTech,"['CNC', 'Documentation', 'Vue', 'Laboratory Technician', 'GST']",6,16972
+INT910,HCL,ML Engineer,City_349,Waste Management,"['Industrial Safety', 'Angular', 'Sales', 'Merchandising', 'JMeter']",3,23765
+INT911,Cognizant,Network Engineer,Jodhpur,Industry_012,"['Solar Installation', 'PLC', 'MS Excel', 'Procurement', 'Labor Laws', 'AML']",6,18258
+INT912,Bajaj,UI/UX Designer,City_220,Environmental Services,"['SPSS', 'SolidWorks', 'Accessibility', 'Cybersecurity', 'Inside Sales']",12,24899
+INT913,Mahindra,Project Manager,City_322,Event Management,"['JMeter', 'Procurement', 'AutoCAD', 'Java', 'Tally', 'Pharmacy Assistance']",6,6611
+INT914,Maruti Suzuki,Cloud Engineer,City_125,Industry_010,"['5S', 'Insurance Underwriting', 'Machine Learning', 'Typing', 'Documentation']",3,5195
+INT915,Maruti Suzuki,QA Engineer,Gurgaon,CSR,"['Kubernetes', 'Go', 'Raspberry Pi']",6,19171
+INT916,Mahindra,Product Manager,Jhajjar,Cold Chain,"['Phlebotomy', 'Telemedicine Support', 'Raspberry Pi']",12,20697
+INT917,HCL,Customer Support,City_350,Hospitality,"['CAM', 'Warehouse Operations', 'SEM']",6,6308
+INT918,Wipro,Full Stack Developer,City_288,Hospitality,"['Product Management', 'Social Work', 'Kubernetes', 'Procurement']",6,17322
+INT919,Bajaj,Full Stack Developer,City_304,Cloud Services,"['Confluence', 'Linux', 'Employee Engagement']",6,12758
+INT920,Bajaj,Data Engineer,Kozhikode,Shared Services,"['Salesforce', 'Remote Sensing', 'Azure', 'CSS', 'Cloud', 'Product Management']",12,10975
+INT921,TCS,Operations Associate,Bareilly,Insurance,"['Flask', 'Payroll']",12,11189
+INT922,HCL,Technical Support,Sambalpur,Social Welfare,"['Content Writing', 'AWS', 'UI/UX', 'Copywriting']",6,7313
+INT923,Bajaj,Operations Associate,City_269,Real Estate,"['C++', 'FSSAI Compliance', 'Communication', 'Lead Generation', 'Inside Sales', 'Data Engineering']",6,13805
+INT924,Tata Steel,Marketing Associate,Bikaner,Metals,"['Quality Assurance', 'Inside Sales']",6,23625
+INT925,Tata Steel,Supply Chain Analyst,City_319,Telecommunications,"['SolidWorks', 'Adobe XD', 'SPSS']",3,5123
+INT926,Tata Steel,Content Strategist,City_202,GovTech,"['UI/UX', 'FSSAI Compliance', 'CI/CD']",3,19172
+INT927,Aditya Birla,Network Engineer,Udaipur,Defense,"['Automation Testing', 'Six Sigma', 'Figma', 'Vulnerability Assessment', 'Express']",6,21588
+INT928,Tata Steel,Growth Marketer,Vadodara,Dairy,"['Copywriting', 'Store Management', 'ISO 9001', 'Rust', 'Quality Assurance']",3,11793
+INT929,L&T,Digital Marketer,Vasai-Virar,Non-Profit,"['SQL', 'CRM', 'VLSI Basics', 'Google Analytics', 'Git']",12,21496
+INT930,Maruti Suzuki,Business Analyst,Jamnagar,Research,"['Data Engineering', 'Store Management', 'NoSQL', 'Solar Installation']",6,14748
+INT931,Tata Steel,Data Analyst,Ujjain,Ports & Shipping,"['JavaScript', 'FSSAI Compliance', 'GIS', 'Labor Laws']",6,17020
+INT932,L&T,Cloud Engineer,City_220,Smart Cities,"['AWS', 'Tally', 'CNC', 'Python', 'Compliance']",3,5451
+INT933,Tech Mahindra,Data Analyst,City_126,Industry_005,"['Networking', 'Time Management', 'UAV Operation', 'Auditing', 'Painting']",6,13597
+INT934,Reliance,Network Engineer,Coimbatore,GovTech,"['Manual Testing', 'Technical Writing', 'Google Analytics', 'PCB Design', 'Presentation', 'GIS']",12,11844
+INT935,Infosys,HR Assistant,Jhajjar,Entertainment,"['Food Processing', 'Presentation', 'Risk Assessment', 'PLC', 'Typing', 'Laboratory Technician']",6,24600
+INT936,Maruti Suzuki,Data Scientist,City_132,Gaming,"['L&D', 'SQL', 'Electrical Wiring', 'KYC', 'Welding', 'Google Analytics']",6,5465
+INT937,Tech Mahindra,Business Analyst,City_306,Industry_004,"['Azure', 'Recruitment', 'Community Mobilization']",6,14718
+INT938,HCL,DevOps Engineer,Ujjain,Industry_010,"['Electronics Repair', 'Jira', 'Bookkeeping']",3,9284
+INT939,Infosys,Cloud Engineer,City_281,Sports,"['Remote Sensing', 'Express', 'UAV Operation', 'Statistics', 'Lead Generation', 'VLSI Basics']",6,23428
+INT940,Cognizant,Marketing Associate,City_117,Insurance,"['Java', 'EHR Systems']",3,10978
+INT941,Aditya Birla,Finance Intern,City_224,Industry_009,"['AWS', 'Cybersecurity', 'Electronics Repair']",12,14967
+INT942,Mahindra,Business Analyst,Aizawl,Analytics,"['HubSpot', 'Procurement', 'Cashier']",6,21515
+INT943,Tata Steel,Financial Analyst,Navi Mumbai,Public Health,"['Basic Computer Skills', 'Azure', 'STATA', 'Vulnerability Assessment', 'Automation Testing', 'Wind Turbine Basics']",12,20829
+INT944,TCS,Marketing Associate,City_337,Panchayati Raj,"['Spring', 'Supply Chain', 'Customer Service', 'React']",6,7524
+INT945,Tata Steel,UI/UX Designer,City_131,Food & Beverage,"['Inventory Management', 'Branding', 'Six Sigma', 'Risk Assessment']",12,24643
+INT946,L&T,Full Stack Developer,City_139,Dairy,"['Microfinance', 'Food Processing']",6,21885
+INT947,Reliance,Automation Tester,City_228,Marketing Services,"['CNC', 'Community Mobilization', 'Zoho', 'Supply Chain']",3,22746
+INT948,HCL,Software Developer,City_318,Textiles,"['SIEM', 'Procurement', 'R']",3,22793
+INT949,TCS,Operations Associate,Ambattur,Horticulture,"['Operations', 'Inventory Management']",3,5242
+INT950,Infosys,Copywriter,City_166,Solar,"['Insurance Underwriting', 'Automation Testing', 'Pharmacy Assistance', 'Critical Thinking']",6,14102
+INT951,ICICI Bank,Financial Analyst,City_341,Social Welfare,"['Inside Sales', 'Field Sales', 'Microfinance', 'Field Survey', 'Auditing']",6,16536
+INT952,Infosys,Growth Marketer,Aizawl,Insurance,"['Compliance', 'Requirements Gathering', 'Java', 'Angular', 'Operations']",12,19627
+INT953,ICICI Bank,HR Assistant,City_213,Disaster Management,"['SEM', 'Packaging', 'Vue']",6,7336
+INT954,Reliance,Content Writer,City_181,Insurance,"['Excel', 'CI/CD', 'GitHub', 'Jira']",6,13520
+INT955,Infosys,Technical Support,City_263,Entertainment,"['Lean', 'Content Writing', 'Java', 'Azure', 'SIEM', 'MS Word']",6,22511
+INT956,Reliance,Software Developer,City_263,Industry_014,"['Sales', 'Lean', 'HTML']",12,7081
+INT957,Mahindra,Software Developer,City_126,Fisheries,"['CSS', 'Carpentry', 'Copywriting']",6,10042
+INT958,Cognizant,UI/UX Designer,City_263,Cybersecurity,"['Django', 'GitHub', 'CSS', 'Nursing Assistance', 'CRM']",12,6589
+INT959,L&T,Supply Chain Analyst,City_274,Shared Services,"['IoT', 'Community Mobilization']",6,7266
+INT960,HCL,Project Manager,City_343,Sports,"['Industrial Safety', 'CSR Implementation']",6,7169
+INT961,Tech Mahindra,Supply Chain Analyst,City_244,Gaming,"['PLC', 'Presentation', 'Cloud', 'Business Analysis', 'Salesforce']",3,23194
+INT962,HDFC Bank,ML Engineer,Palwal,Wind,"['Embedded Systems', 'Business Analysis', 'Basic Computer Skills', 'C', 'Copywriting']",6,6384
+INT963,Mahindra,UI/UX Designer,City_182,Industry_011,"['Microfinance', 'Phlebotomy', 'Public Speaking', 'Copywriting', 'Time Management']",3,23777
+INT964,ICICI Bank,Financial Analyst,City_328,Analytics,"['3D Printing', 'Scrum', 'Food Processing']",3,16035
+INT965,Bajaj,Content Strategist,City_322,Industry_012,"['CSS', 'AWS', 'Drones', 'Compliance', 'Python', 'Git']",12,13223
+INT966,HDFC Bank,DevOps Engineer,City_334,Education,"['Deep Learning', 'Accounting', 'MS Word']",12,9584
+INT967,ICICI Bank,HR Assistant,City_144,Advertising,"['Six Sigma', 'Networking']",6,10032
+INT968,TCS,Product Manager,Moradabad,CSR,"['Food Safety', 'JMeter', 'Lean', 'SEO', 'MS Excel']",6,20082
+INT969,ICICI Bank,Supply Chain Analyst,City_188,Biotechnology,"['Spring', 'Adaptability', 'Payroll', 'Claims Processing']",6,22127
+INT970,Tata Steel,Cloud Engineer,Hisar,Technology,"['Customer Service', 'Rural Outreach', 'Merchandising', 'MATLAB', 'IoT', 'Sales']",12,22039
+INT971,Tech Mahindra,Content Writer,City_264,HealthTech,"['3D Printing', 'Talent Acquisition']",3,13018
+INT972,Aditya Birla,Technical Support,Panvel,E-commerce,"['Rust', 'Claims Processing', 'Wind Turbine Basics', 'Taxation', 'POS Systems']",12,17345
+INT973,Tata Steel,Supply Chain Analyst,City_144,E-commerce,"['Talent Acquisition', 'Communication', 'SEM', 'Creativity', 'ISO 27001']",3,19531
+INT974,HCL,Cybersecurity Analyst,Delhi,Metals,"['Bash', 'Electronics Repair', 'UI/UX', 'Drones', 'Wind Turbine Basics']",12,7832
+INT975,ICICI Bank,Data Scientist,City_272,Industry_012,"['Six Sigma', 'Typing']",12,9901
+INT976,HDFC Bank,Technical Support,Gaya,Mining,"['HubSpot', 'CAM', 'Email Marketing', 'Recruitment']",12,22981
+INT977,Bajaj,Content Strategist,Kanpur,Horticulture,"['Accessibility', 'Cloud', 'JMeter']",12,9732
+INT978,HCL,QA Engineer,City_243,Aerospace,"['Carpentry', 'Problem Solving', 'SCADA', 'Go', 'DevOps']",3,12471
+INT979,Mahindra,Automation Tester,City_294,Consulting,"['Laboratory Technician', 'Zoho']",6,15366
+INT980,Tech Mahindra,Project Manager,City_278,Research,"['Vue', 'HACCP', 'SolidWorks', 'Marketing', 'Six Sigma']",6,24035
+INT981,ICICI Bank,Cybersecurity Analyst,City_133,Energy,"['Talent Acquisition', 'Leadership', 'Google Analytics', 'SIEM', 'Electronics Repair']",12,7536
+INT982,Tech Mahindra,Mobile App Developer,City_279,Panchayati Raj,"['Pharmacy Assistance', 'HTML', 'Automation Testing', 'Risk Assessment', 'ISO 27001', 'Postman']",12,7172
+INT983,ICICI Bank,Operations Associate,Allahabad,Water & Sanitation,"['Raspberry Pi', 'Vue', 'CATIA', 'SCADA', 'Social Media']",6,21709
+INT984,Bajaj,Technical Support,City_322,Metals,"['Warehouse Operations', 'AutoCAD', 'ISO 27001']",12,13636
+INT985,L&T,HR Assistant,City_227,Fisheries,"['Basic Computer Skills', 'TypeScript', 'CI/CD']",3,20695
+INT986,Reliance,Data Scientist,Udaipur,Non-Profit,"['Inventory Management', 'Packaging', 'Excel', 'Bash', 'Tableau', 'Masonry']",12,24746
+INT987,TCS,QA Engineer,City_171,Industry_009,"['AutoCAD', 'Data Entry']",3,10068
+INT988,Cognizant,Operations Associate,City_332,Panchayati Raj,"['Wind Turbine Basics', 'Supply Chain', 'Surveying', 'Power Automate', 'Social Work', 'Computer Vision']",12,9384
+INT989,Tech Mahindra,Customer Support,Indore,Cloud Services,"['Java', 'Inventory Management', 'Supply Chain', 'Cashier', 'Field Survey']",12,6200
+INT990,Tech Mahindra,ML Engineer,Rajkot,Smart Cities,"['MATLAB', 'Adobe XD', 'Communication', 'PowerApps', 'GCP', 'Electrical Wiring']",12,9717
+INT991,Reliance,Recruiter,City_311,Public Sector,"['Requirements Gathering', 'Telemedicine Support', 'Time Management']",12,19308
+INT992,Aditya Birla,Business Analyst,City_312,Smart Cities,"['Project Management', 'Retail Operations']",6,6449
+INT993,Reliance,Financial Analyst,City_168,Smart Cities,"['VLSI Basics', 'HR', 'Creativity', 'Power Automate', 'Store Management', 'Canva']",3,16086
+INT994,ICICI Bank,Cybersecurity Analyst,City_229,Finance,"['Quality Assurance', 'Accessibility', 'KYC', 'Computer Vision', 'NGO Program Support']",3,12144
+INT995,Infosys,Marketing Associate,City_169,Climate & Sustainability,"['Packaging', 'NGO Program Support']",6,19417
+INT996,Aditya Birla,Mobile App Developer,Visakhapatnam,Solar,"['Wind Turbine Basics', 'Deep Learning', 'Basic Computer Skills']",6,24775
+INT997,Aditya Birla,Mobile App Developer,City_114,Social Welfare,"['Laboratory Technician', 'Marketing', 'Documentation', 'CSS']",6,17046
+INT998,L&T,Recruiter,Palwal,Pharmaceuticals,"['Email Marketing', 'Flask']",6,20839
+INT999,TCS,QA Engineer,Aligarh,Industry_011,"['Graphic Design', 'GIS', 'Zoho']",6,6612
+INT1000,HCL,Content Writer,City_275,Textiles,"['Field Sales', 'Plumbing']",6,22492
+INT1001,Bajaj,Data Scientist,Ludhiana,Sports,"['Automation Testing', 'Welding', 'Manual Testing', 'MS PowerPoint', 'Angular']",3,12606
+INT1002,Aditya Birla,Business Analyst,City_322,EdTech,"['L&D', 'Adaptability', 'SEM', 'Documentation']",6,20500
+INT1003,Bajaj,Customer Support,City_151,Manufacturing,"['CSR Implementation', 'Payroll', 'Merchandising']",6,14770
+INT1004,Tech Mahindra,Software Developer,Allahabad,Handicrafts,"['Cloud', 'Embedded Systems', 'Sales']",6,12164
+INT1005,Maruti Suzuki,Financial Analyst,City_260,Beauty & Wellness,"['R', 'Accounting', 'Industrial Safety']",6,16994
+INT1006,Mahindra,Cybersecurity Analyst,Akola,Gaming,"['UAV Operation', 'Employee Engagement', 'Design Systems']",3,21680
+INT1007,Reliance,Growth Marketer,City_287,Industry_014,"['Laboratory Technician', 'NoSQL', 'Cloud']",12,7907
+INT1008,ICICI Bank,Recruiter,City_189,Industry_005,"['Wind Turbine Basics', 'Kubernetes', 'Graphic Design', 'GitHub']",6,7964
+INT1009,Reliance,Full Stack Developer,City_191,Telecommunications,"['Customer Relationship', 'Plumbing', 'KYC', 'Jira', 'MS PowerPoint', 'Agile']",12,19183
+INT1010,Maruti Suzuki,Content Writer,Nagpur,Urban Development,"['Copywriting', 'SEM', 'Zoho']",6,20431
+INT1011,Tata Steel,Project Manager,City_200,Logistics,"['Customer Relationship', 'AML']",12,23753
+INT1012,ICICI Bank,Recruiter,City_146,Cloud Services,"['Plumbing', 'Presentation']",6,24980
+INT1013,Infosys,Copywriter,Navi Mumbai,Textiles,"['Salesforce', 'C']",3,10425
+INT1014,Infosys,HR Assistant,City_341,Automotive,"['CAM', 'SolidWorks', 'Node.js', 'GIS', 'SEO']",3,12468
+INT1015,Maruti Suzuki,Technical Support,City_154,HealthTech,"['Operations', 'Medical Coding', 'Vue', 'Telemedicine Support', 'Electronics Repair']",6,23430
+INT1016,HCL,Cybersecurity Analyst,City_250,Leather,"['Go', 'Claims Processing', 'STATA', 'Electronics Repair']",12,9108
+INT1017,L&T,Content Writer,City_148,Event Management,"['SIEM', 'CSR Implementation', 'Rust']",3,18918
+INT1018,Tech Mahindra,QA Engineer,City_179,Industry_010,"['PLC', 'Merchandising']",12,24173
+INT1019,Reliance,Cybersecurity Analyst,Siliguri,Biotechnology,"['Networking', 'Recruitment', 'GST', 'Automation Testing', 'JMeter', 'SPSS']",12,17371
+INT1020,Reliance,Copywriter,City_223,Energy,"['AWS', 'Google Analytics']",12,17915
+INT1021,Cognizant,Product Manager,City_143,Logistics,"['Cloud', 'Zoho']",3,9379
+INT1022,Aditya Birla,Cybersecurity Analyst,Panvel,EdTech,"['Electrical Wiring', 'Data Entry', 'HTML', 'Node.js', 'ISO 27001', 'Merchandising']",6,18873
+INT1023,L&T,Product Manager,City_216,Metro Rail,"['Welding', 'KYC', 'JavaScript', 'NLP']",6,19822
+INT1024,Bajaj,Data Scientist,City_168,Real Estate,"['Requirements Gathering', 'Warehouse Operations', 'R', 'Content Writing']",3,10380
+INT1025,HCL,Product Manager,City_180,Telecommunications,"['Social Media', 'Procurement', 'Taxation', 'Labor Laws', 'Branding']",3,17350
+INT1026,Tech Mahindra,Data Analyst,Salem,MSME,"['Agile', 'Public Speaking', 'Microfinance', 'STATA', 'Bookkeeping']",3,7178
+INT1027,Bajaj,Operations Associate,City_183,Industry_009,"['Embedded Systems', 'Painting', 'CRM', 'Auditing', 'Industrial Safety']",3,10986
+INT1028,Mahindra,Automation Tester,City_225,Mining,"['Deep Learning', 'Copywriting', 'IoT', 'CSS']",3,12088
+INT1029,Cognizant,Full Stack Developer,City_281,Water & Sanitation,"['GitLab', 'AML']",6,16248
+INT1030,Infosys,Network Engineer,Kurukshetra,EdTech,"['Packaging', 'Jira', 'AutoCAD', 'Inventory Management']",6,9609
+INT1031,Wipro,Recruiter,City_275,Public Sector,"['Python', 'Copywriting', 'Lean', 'Rural Outreach', 'Product Management', 'Design Systems']",3,13280
+INT1032,Cognizant,Digital Marketer,City_142,Mining,"['Tally', 'Pharmacy Assistance']",6,14581
+INT1033,Bajaj,Content Strategist,Yamunanagar,Real Estate,"['Deep Learning', 'Tableau', 'Confluence', 'Medical Coding']",12,20007
+INT1034,L&T,HR Assistant,City_239,Entertainment,"['UI/UX', 'Flask', 'Cloud', 'Phlebotomy']",3,14486
+INT1035,TCS,Operations Associate,City_165,GovTech,"['Employee Engagement', 'Teamwork', 'Remote Sensing']",6,18923
+INT1036,Infosys,HR Assistant,Rohtak,Media,"['Tally', 'Problem Solving', 'Angular', 'Django', 'Computer Vision', 'Merchandising']",12,22560
+INT1037,Mahindra,Growth Marketer,City_125,Transportation,"['Vulnerability Assessment', 'Industrial Safety', 'Data Engineering', 'Field Sales']",3,7127
+INT1038,HDFC Bank,Product Manager,City_222,Railways,"['HR', 'Git', 'Masonry', 'Statistics', 'C', 'Presentation']",12,7543
+INT1039,L&T,Finance Intern,Moradabad,Education,"['HACCP', 'Warehouse Operations', 'Masonry', 'Basic Computer Skills', 'Sales', 'Payroll']",6,9222
+INT1040,ICICI Bank,Technical Support,City_233,Media,"['Wind Turbine Basics', 'AutoCAD', 'Remote Sensing', 'Python', 'Azure']",6,23946
+INT1041,Aditya Birla,UI/UX Designer,City_126,Industry_007,"['Tally', 'Documentation']",3,11428
+INT1042,TCS,Content Writer,Vadodara,Media,"['Cybersecurity', 'Angular', 'Powershell']",12,19147
+INT1043,Tech Mahindra,Marketing Associate,City_332,Industry_003,"['Medical Coding', 'JavaScript', 'FSSAI Compliance', 'Field Sales']",3,10511
+INT1044,HDFC Bank,Network Engineer,Bareilly,Automotive,"['SharePoint', 'CI/CD', 'Go', 'Warehouse Operations']",6,20741
+INT1045,TCS,ML Engineer,City_162,Energy,"['Sales', 'KYC', 'Electrical Wiring', 'CAM']",3,5625
+INT1046,Infosys,Full Stack Developer,City_206,Handloom,"['Vulnerability Assessment', 'KYC', 'Creativity']",3,9218
+INT1047,Wipro,Full Stack Developer,Jamnagar,HealthTech,"['SQL', 'Sales']",3,24238
+INT1048,Wipro,Cloud Engineer,City_341,Logistics,"['Tally', 'GST']",3,5902
+INT1049,Infosys,Growth Marketer,City_340,Industry_009,"['Rural Outreach', 'CSS', 'Express', 'Tableau', 'Field Survey', 'ISO 27001']",6,22504
+INT1050,HDFC Bank,UI/UX Designer,City_115,Food & Beverage,"['Cybersecurity', 'Graphic Design']",12,10711
+INT1051,ICICI Bank,Cloud Engineer,City_265,Mining,"['Zoho', 'UI/UX']",3,12971
+INT1052,Tata Steel,Supply Chain Analyst,City_131,Environmental Services,"['Food Processing', 'Digital Marketing', 'CRM', 'STATA', 'Figma']",6,11084
+INT1053,L&T,Content Writer,City_153,Industry_013,"['Embedded Systems', 'Quality Assurance', 'L&D', 'Zoho']",3,10677
+INT1054,HDFC Bank,Operations Associate,City_263,Handicrafts,"['Cybersecurity', 'Technical Writing', 'GitHub', 'AML', 'Angular']",12,24114
+INT1055,ICICI Bank,Product Manager,City_224,Industry_011,"['Painting', 'HACCP', '5S', 'Plumbing', 'Project Management']",6,23771
+INT1056,L&T,QA Engineer,City_321,Wind,"['Carpentry', 'Lean', 'Design Systems']",6,18263
+INT1057,Tech Mahindra,Technical Support,Hubli–Dharwad,Environmental Services,"['Operations', 'Warehouse Operations', 'Financial Modeling']",6,23439
+INT1058,Tech Mahindra,Data Scientist,City_137,Metro Rail,"['Docker', 'Financial Modeling', 'SharePoint', 'Agile', 'Solar Installation']",12,6985
+INT1059,Bajaj,Data Engineer,City_214,Horticulture,"['Statistics', 'Technical Writing', '5S', 'Power Automate']",6,12181
+INT1060,HCL,Content Writer,City_298,Industry_004,"['Docker', 'SEO', 'Quality Assurance', 'PowerApps']",6,17904
+INT1061,Reliance,Network Engineer,City_163,Event Management,"['Salesforce', 'ISO 27001', 'CAD']",12,18360
+INT1062,Wipro,Technical Support,City_325,Industry_013,"['SolidWorks', 'Salesforce', 'Risk Assessment', 'Agile', 'CI/CD', 'SEM']",3,17722
+INT1063,Mahindra,Data Engineer,City_304,Real Estate,"['Statistics', 'Salesforce', '5S', 'Data Analysis']",3,19996
+INT1064,Tech Mahindra,QA Engineer,City_215,Courier,"['Canva', 'Inside Sales', 'Business Analysis', 'UI/UX', 'Drones', 'SEO']",6,22974
+INT1065,ICICI Bank,HR Assistant,City_220,Banking,"['Go', 'HR', 'Power Automate', 'Computer Vision', 'Logistics', 'Insurance Underwriting']",12,9820
+INT1066,HDFC Bank,Operations Associate,City_241,Entertainment,"['VLSI Basics', 'IoT', 'Microfinance']",12,7528
+INT1067,Reliance,ML Engineer,City_182,Shared Services,"['Data Engineering', 'Computer Vision', 'Logistics', 'Power Automate', 'Adaptability', 'Surveying']",3,20135
+INT1068,Infosys,Software Developer,City_126,Healthcare,"['ISO 27001', '5S', 'MATLAB', 'Bookkeeping', 'Django']",6,10441
+INT1069,Maruti Suzuki,Content Strategist,Bengaluru,Automotive,"['MS PowerPoint', 'VLSI Basics', 'Payroll', 'Communication']",12,5625
+INT1070,L&T,Mobile App Developer,Mangalore,Metals,"['3D Printing', 'ISO 27001', 'R', 'MATLAB']",3,14354
+INT1071,Reliance,Customer Support,Sonipat,Entertainment,"['Power Automate', 'CSR Implementation', 'Quality Assurance', 'Procurement']",3,15594
+INT1072,Aditya Birla,Project Manager,Tirunelveli,Industry_010,"['Painting', 'Linux', 'Supply Chain', 'EHR Systems', 'Content Writing', 'Customer Relationship']",6,11721
+INT1073,Cognizant,Content Strategist,Panipat,Gaming,"['JMeter', 'AWS']",12,24171
+INT1074,Tech Mahindra,Customer Support,City_302,Research,"['C++', 'Figma', 'Procurement', '3D Printing']",6,21568
+INT1075,Tech Mahindra,Automation Tester,Jodhpur,Event Management,"['Bash', 'Wind Turbine Basics']",6,17558
+INT1076,Tata Steel,Business Analyst,City_291,Smart Cities,"['Welding', 'Cold Chain']",6,5838
+INT1077,Reliance,Automation Tester,City_282,Shared Services,"['Lead Generation', 'Adobe XD', 'Arduino']",3,6076
+INT1078,Infosys,Growth Marketer,City_200,Pharmaceuticals,"['Finance', 'SharePoint', 'CSR Implementation']",12,5902
+INT1079,Infosys,Content Writer,City_127,CSR,"['Business Analysis', 'Insurance Underwriting', 'Industrial Safety', 'SQL', 'Field Survey', 'Rural Outreach']",3,11379
+INT1080,HCL,Product Manager,City_140,EdTech,"['5S', 'Food Safety', 'Talent Acquisition']",6,11721
+INT1081,Aditya Birla,Project Manager,City_274,Automotive,"['CSS', 'CAM', 'Data Entry', 'Phlebotomy']",6,7903
+INT1082,Tata Steel,Data Analyst,Coimbatore,Handicrafts,"['Arduino', 'Figma', 'NoSQL', 'Node.js', 'Scrum']",12,7986
+INT1083,Infosys,Content Writer,Hyderabad,GovTech,"['Surveying', 'Laboratory Technician', 'Electronics Repair', 'UAV Operation', 'Drones', 'Data Engineering']",3,6558
+INT1084,Tech Mahindra,Business Analyst,City_336,Construction,"['DevOps', 'MS Word']",12,18671
+INT1085,Tech Mahindra,Copywriter,Bhiwandi,Poultry,"['SQL', 'Risk Assessment', 'Node.js', 'Welding', 'Raspberry Pi', 'HTML']",3,14567
+INT1086,Wipro,ML Engineer,Ambala,FinTech,"['AML', 'Lead Generation', 'Social Media', 'SolidWorks', 'Confluence', 'CI/CD']",3,11865
+INT1087,ICICI Bank,UI/UX Designer,Gwalior,Handloom,"['Medical Coding', 'ISO 9001']",12,8151
+INT1088,Mahindra,Content Strategist,City_303,Automotive,"['Data Entry', 'Bookkeeping', 'Django']",3,15614
+INT1089,Maruti Suzuki,Financial Analyst,Mysore,Industry_004,"['ServiceNow', 'Teamwork']",3,11661
+INT1090,Cognizant,DevOps Engineer,Mysore,Sports,"['JavaScript', 'Cloud', 'Social Media', 'Postman']",12,5141
+INT1091,Wipro,Data Engineer,City_267,Startups & Incubation,"['SEM', 'Deep Learning']",3,9342
+INT1092,Tech Mahindra,Recruiter,City_236,Research,"['Sales', 'Cloud', 'Presentation', 'Medical Coding']",3,24908
+INT1093,HCL,Copywriter,City_244,Public Health,"['Public Speaking', 'Bookkeeping', 'Content Writing', 'L&D']",3,24831
+INT1094,Infosys,Product Manager,City_284,Transportation,"['Solar Installation', 'Leadership']",6,8643
+INT1095,Aditya Birla,Content Writer,Guntur,Food & Beverage,"['Git', 'Agile', 'Wind Turbine Basics', 'DevOps']",3,16414
+INT1096,HDFC Bank,Mobile App Developer,Rajkot,Energy,"['Data Engineering', 'CRM', 'Figma']",6,6684
+INT1097,Reliance,Supply Chain Analyst,City_340,Handicrafts,"['Supply Chain', 'Spring', 'Cold Chain']",12,13299
+INT1098,Tech Mahindra,Digital Marketer,City_173,E-commerce,"['GitHub', 'Rural Outreach', 'Surveying', 'Leadership']",12,15219
+INT1099,Cognizant,Data Scientist,Delhi,Hospitality,"['Digital Marketing', 'Presentation', 'POS Systems', 'Flask']",12,20287
+INT1100,Bajaj,Recruiter,City_306,Industry_005,"['Requirements Gathering', 'Customer Service', 'Basic Computer Skills', 'Auditing', 'L&D', 'Supply Chain']",12,14251
+INT1101,L&T,Operations Associate,City_307,Shared Services,"['Rust', 'Financial Modeling']",3,24360
+INT1102,Aditya Birla,Cybersecurity Analyst,City_175,Handicrafts,"['Finance', 'UAV Operation', 'Inventory Management', 'ISO 27001', 'Investment Research']",6,21543
+INT1103,HDFC Bank,Mobile App Developer,Malegaon,Warehousing,"['Solar Installation', 'Merchandising', 'Machine Learning', 'Selenium', 'CI/CD']",6,18245
+INT1104,Wipro,Technical Support,City_335,Wind,"['Investment Research', 'Go', 'Confluence', 'Bookkeeping', 'C++']",6,5739
+INT1105,Aditya Birla,Data Analyst,Raipur,AgriTech,"['Power BI', 'Adobe XD', 'Java', 'GST']",12,18794
+INT1106,Tech Mahindra,Cloud Engineer,City_134,Education,"['Quality Assurance', 'PowerApps', 'Statistics', 'Java', 'Python', 'Solar Installation']",6,18407
+INT1107,L&T,Supply Chain Analyst,Dhanbad,Industry_001,"['Field Survey', 'Computer Vision', 'Presentation', 'Cloud']",12,9611
+INT1108,TCS,Financial Analyst,City_209,E-commerce,"['Problem Solving', 'POS Systems', 'Power BI']",3,16507
+INT1109,Tech Mahindra,Customer Support,City_338,Construction,"['Graphic Design', 'Azure', 'SolidWorks']",3,10930
+INT1110,Wipro,Recruiter,Tirupati,GovTech,"['MS PowerPoint', 'Marketing']",6,15706
+INT1111,Tech Mahindra,DevOps Engineer,City_270,Cold Chain,"['IoT', 'Electronics Repair', 'PCB Design', 'Copywriting']",3,5042
+INT1112,HDFC Bank,Data Scientist,Ludhiana,Industry_007,"['Technical Writing', 'Automation Testing', 'Raspberry Pi', 'Tableau', 'Graphic Design', 'Tally']",3,8783
+INT1113,Cognizant,Product Manager,City_178,Event Management,"['Community Mobilization', 'Google Analytics']",3,15442
+INT1114,Maruti Suzuki,Growth Marketer,City_227,Tourism,"['NGO Program Support', 'Wind Turbine Basics', 'MS Word']",12,9300
+INT1115,Cognizant,Content Strategist,Chennai,Handicrafts,"['R', 'Solar Installation', 'EHR Systems', 'Food Safety']",6,21035
+INT1116,L&T,Data Analyst,City_307,Industry_012,"['Basic Computer Skills', 'Product Management', 'Rust', 'STATA', 'Typing']",3,7385
+INT1117,TCS,Mobile App Developer,City_154,Pharmaceuticals,"['SEO', 'Retail Operations', 'Lead Generation', 'Project Management', 'Social Media', 'Express']",12,15909
+INT1118,Tech Mahindra,Technical Support,Bikaner,Industry_012,"['Field Survey', 'NLP', 'Surveying', 'Documentation', 'SEO', 'Lean']",12,18434
+INT1119,Maruti Suzuki,Finance Intern,City_148,Industry_008,"['AutoCAD', 'NoSQL', 'GitHub']",3,21709
+INT1120,Aditya Birla,Recruiter,City_313,Shared Services,"['Operations', 'Adobe XD']",6,21309
+INT1121,Cognizant,Recruiter,City_329,Industry_005,"['FSSAI Compliance', 'Graphic Design']",6,23294
+INT1122,Bajaj,Technical Support,Thiruvananthapuram,Event Management,"['NLP', 'Adobe XD', 'UAV Operation']",12,19569
+INT1123,HDFC Bank,Data Engineer,City_123,Industry_007,"['PCB Design', 'PLC', 'C', 'Sales', 'Lead Generation']",12,15589
+INT1124,ICICI Bank,Data Engineer,City_253,Oil & Gas,"['3D Printing', 'Branding', 'Medical Coding', 'NGO Program Support', 'TypeScript', 'Data Entry']",6,11113
+INT1125,Bajaj,Mobile App Developer,Mumbai,Horticulture,"['Compliance', 'CNC', 'Solar Installation', 'React', 'Phlebotomy', 'Copywriting']",6,10020
+INT1126,L&T,Supply Chain Analyst,City_279,Handloom,"['GST', 'Spring']",12,6588
+INT1127,Reliance,Marketing Associate,City_216,Smart Cities,"['Design Systems', 'Automation Testing', 'Rural Outreach']",6,17165
+INT1128,Mahindra,Mobile App Developer,Faridabad,Transportation,"['Sales', 'Azure', 'Quality Assurance', 'Recruitment', 'Deep Learning']",3,18705
+INT1129,Aditya Birla,Recruiter,Haora,Food Processing,"['SolidWorks', 'Vue', 'AWS', 'Auditing', 'Adobe XD', 'Painting']",3,21778
+INT1130,HDFC Bank,UI/UX Designer,City_246,Industry_007,"['VLSI Basics', 'Kubernetes', 'Solar Installation', 'Embedded Systems', 'Procurement']",6,13826
+INT1131,HDFC Bank,Finance Intern,City_256,Warehousing,"['C++', 'MS Excel', 'Digital Marketing', 'FSSAI Compliance']",3,12877
+INT1132,Tata Steel,DevOps Engineer,City_129,Logistics,"['Social Media', 'Adaptability', 'Java']",3,13975
+INT1133,Infosys,Finance Intern,Bikaner,CleanTech,"['POS Systems', 'Lead Generation']",6,13080
+INT1134,Tech Mahindra,Content Writer,City_308,Pharmaceuticals,"['MS Excel', 'Salesforce', 'Google Analytics', 'JMeter']",6,24167
+INT1135,Cognizant,Software Developer,City_197,Logistics,"['CAM', 'GST', 'C', 'Kubernetes', 'Marketing']",3,17088
+INT1136,Mahindra,Data Analyst,City_123,Industry_012,"['Adobe XD', 'Drones', 'Azure']",12,16073
+INT1137,Aditya Birla,Supply Chain Analyst,City_150,Solar,"['Adobe XD', 'Data Engineering', 'Inside Sales']",12,22623
+INT1138,Cognizant,Customer Support,Mangalore,Disaster Management,"['Canva', 'CSS', 'Marketing', 'TypeScript', 'AWS']",12,19256
+INT1139,Reliance,Cloud Engineer,City_317,Gaming,"['Quality Assurance', 'Docker']",3,20904
+INT1140,HDFC Bank,Growth Marketer,Davanagere,Gaming,"['MATLAB', 'Go', 'Social Media']",3,18345
+INT1141,Mahindra,Recruiter,Nadiad,Aerospace,"['Pharmacy Assistance', 'Product Management', 'Electronics Repair', 'GitLab']",6,17532
+INT1142,Bajaj,UI/UX Designer,City_244,Technology,"['Adobe XD', 'STATA', 'Accounting', 'Microfinance', 'SQL']",3,8968
+INT1143,Tech Mahindra,Product Manager,City_301,Construction,"['CSS', 'Social Media', 'MS Excel', 'PowerApps', 'Auditing', 'Java']",3,9955
+INT1144,TCS,Copywriter,Bareilly,Event Management,"['React', 'Excel', 'PLC', 'Product Management', 'Wind Turbine Basics', 'Project Management']",3,17244
+INT1145,Bajaj,Product Manager,City_251,Legal,"['Data Engineering', 'Raspberry Pi', 'Django', 'Python', 'Vue']",12,5710
+INT1146,Wipro,Cybersecurity Analyst,City_298,Cybersecurity,"['Compliance', 'Computer Vision', 'GST', 'GCP']",3,16157
+INT1147,Reliance,Cybersecurity Analyst,City_347,HealthTech,"['Flask', 'Adaptability', 'KYC', 'Financial Modeling', 'Accounting']",12,15128
+INT1148,TCS,Network Engineer,City_231,Sports,"['Azure', 'Graphic Design', 'Python', 'SEO', 'Zoho', 'PowerApps']",6,12117
+INT1149,Wipro,Network Engineer,City_120,Transportation,"['Remote Sensing', 'Plumbing', 'Six Sigma', 'Power Automate', 'MS Excel']",3,14334
+INT1150,ICICI Bank,Content Writer,City_149,Textiles,"['Project Management', 'Quality Assurance', 'C', 'Power Automate']",12,8875
+INT1151,Bajaj,Business Analyst,City_181,Courier,"['EHR Systems', 'Statistics', 'Data Analysis', 'HACCP', 'Automation Testing', 'Leadership']",6,18786
+INT1152,Tata Steel,Copywriter,City_175,Consulting,"['GitLab', 'Drones', 'Lean', 'GIS']",6,7192
+INT1153,Wipro,Software Developer,City_295,Construction,"['Machine Learning', 'EHR Systems', 'GIS', 'Inside Sales', 'ISO 9001', 'AutoCAD']",3,18329
+INT1154,Aditya Birla,Data Scientist,City_320,Consulting,"['MATLAB', 'Project Management', 'Spring']",12,8731
+INT1155,Reliance,Financial Analyst,City_321,MSME,"['Go', 'Operations', 'Masonry', 'ISO 9001', 'L&D']",3,15987
+INT1156,HCL,DevOps Engineer,Udaipur,Courier,"['SPSS', 'Typing', 'Auditing', 'Industrial Safety', 'CI/CD']",3,9523
+INT1157,Reliance,Content Strategist,City_326,Social Welfare,"['GIS', 'Adaptability', 'Financial Modeling', 'Recruitment']",3,21317
+INT1158,Infosys,Data Scientist,City_147,Real Estate,"['Email Marketing', 'Cybersecurity', 'TypeScript', 'HTML', 'Rust', 'Risk Assessment']",3,19862
+INT1159,Tech Mahindra,Marketing Associate,City_126,CSR,"['CAM', 'Medical Coding', 'DevOps', 'Project Management', 'EHR Systems', 'Node.js']",3,9692
+INT1160,HDFC Bank,Copywriter,City_177,Gaming,"['Bookkeeping', 'Embedded Systems', 'ISO 27001', 'STATA', 'ISO 9001', 'Rural Outreach']",12,13449
+INT1161,Infosys,Financial Analyst,City_338,MSME,"['Packaging', 'Leadership', 'HR']",6,23681
+INT1162,Infosys,Mobile App Developer,City_175,BPO/ITES,"['AWS', 'HTML', 'NLP', 'Computer Vision', 'PowerApps', 'Requirements Gathering']",12,5993
+INT1163,Tech Mahindra,Content Writer,City_181,Construction,"['Logistics', 'SEM', 'Powershell', 'Compliance', 'Quality Assurance']",3,17084
+INT1164,Infosys,Customer Support,Tirunelveli,Metro Rail,"['Marketing', 'Google Analytics', 'Customer Relationship']",3,13156
+INT1165,Mahindra,Growth Marketer,City_188,Industry_001,"['Google Analytics', 'Microfinance', 'Operations', 'VLSI Basics', 'Lean']",6,13525
+INT1166,L&T,Finance Intern,City_262,AgriTech,"['L&D', 'Docker', 'Linux', 'Marketing', 'PLC', 'SEO']",12,17045
+INT1167,Tech Mahindra,ML Engineer,Kanpur,CleanTech,"['Plumbing', 'AWS', 'Google Analytics', 'Java', 'HR']",12,9247
+INT1168,Bajaj,Copywriter,City_168,Metals,"['CRM', 'Power BI', 'Azure', 'FSSAI Compliance', 'Angular', 'Talent Acquisition']",3,19657
+INT1169,Cognizant,Copywriter,City_253,Logistics,"['Design Systems', 'KYC', 'Sales', 'EHR Systems', 'TypeScript', 'VLSI Basics']",6,24146
+INT1170,Maruti Suzuki,UI/UX Designer,City_132,Industry_002,"['AWS', 'Node.js', 'MATLAB', 'PLC']",3,14868
+INT1171,Reliance,Full Stack Developer,City_337,Oil & Gas,"['Powershell', 'GCP']",3,14591
+INT1172,Cognizant,Financial Analyst,City_237,MSME,"['SEO', 'Customer Relationship']",6,23587
+INT1173,Mahindra,Full Stack Developer,Belgaum,Oil & Gas,"['Customer Service', 'SEM']",12,6701
+INT1174,Mahindra,Software Developer,Karnal,Public Sector,"['MS Word', 'Cloud', 'Deep Learning', 'SEM', 'Automation Testing', 'CATIA']",12,9719
+INT1175,Maruti Suzuki,Product Manager,Bhiwani,Textiles,"['Nursing Assistance', 'Vue', 'CNC']",12,13838
+INT1176,ICICI Bank,Data Scientist,City_203,Metro Rail,"['NGO Program Support', 'Store Management', 'Quality Assurance', 'C', 'Procurement']",3,18336
+INT1177,Aditya Birla,Product Manager,City_344,Hospitality,"['L&D', 'SIEM', 'Java', 'Power BI', 'Spring', 'AWS']",3,5886
+INT1178,Tech Mahindra,Growth Marketer,Kalyan,Industry_007,"['SEM', 'Problem Solving', 'Technical Writing', 'STATA', 'Supply Chain', 'Scrum']",12,11669
+INT1179,HCL,Technical Support,Kaithal,Handloom,"['FSSAI Compliance', 'PLC', 'Bookkeeping', 'TypeScript', 'ServiceNow']",12,10452
+INT1180,Tata Steel,Recruiter,City_310,Poultry,"['Merchandising', 'KYC', 'Solar Installation', 'Data Engineering', 'Medical Coding']",3,17490
+INT1181,TCS,Full Stack Developer,City_172,Analytics,"['IoT', 'SEO', 'Labor Laws', 'Arduino']",3,5787
+INT1182,L&T,Digital Marketer,City_215,HealthTech,"['Cashier', 'Angular', 'Tableau', 'Networking', 'GCP', 'Confluence']",12,17110
+INT1183,Maruti Suzuki,Full Stack Developer,Hubli–Dharwad,CSR,"['Tally', 'React', 'Surveying']",3,7537
+INT1184,Infosys,Mobile App Developer,City_170,AgriTech,"['Power BI', '5S', 'Customer Relationship', 'SharePoint', 'MS Word']",12,6966
+INT1185,L&T,Mobile App Developer,Rajkot,KPO,"['Insurance Underwriting', 'Time Management', 'PLC', 'Solar Installation', 'Rural Outreach', 'Store Management']",12,6170
+INT1186,HDFC Bank,Project Manager,City_327,Telecommunications,"['Digital Marketing', 'Django']",6,12929
+INT1187,Infosys,Digital Marketer,City_208,Metals,"['HubSpot', 'Express', 'Pharmacy Assistance', 'UI/UX', 'Lead Generation', 'Networking']",12,8376
+INT1188,HDFC Bank,HR Assistant,City_331,KPO,"['Email Marketing', 'JMeter', 'Sales', 'Accounting', 'Critical Thinking']",3,11458
+INT1189,TCS,Supply Chain Analyst,City_328,Finance,"['Warehouse Operations', 'Creativity']",6,17498
+INT1190,HDFC Bank,Finance Intern,Salem,Metro Rail,"['AutoCAD', 'Documentation', 'NoSQL', 'Deep Learning', 'IoT']",3,10071
+INT1191,Cognizant,Finance Intern,City_337,Pharmaceuticals,"['IoT', 'Basic Computer Skills', 'Nursing Assistance', 'CAD', 'GIS']",12,11691
+INT1192,Mahindra,Cybersecurity Analyst,Aligarh,Handicrafts,"['Excel', 'Investment Research']",12,17755
+INT1193,Reliance,Customer Support,City_265,Handloom,"['Data Engineering', 'CNC']",12,20401
+INT1194,Tech Mahindra,Content Strategist,City_198,Textiles,"['SCADA', 'Claims Processing', 'Retail Operations', 'Customer Service']",3,11527
+INT1195,Wipro,Copywriter,Allahabad,Roads & Highways,"['POS Systems', 'Inside Sales']",3,15906
+INT1196,L&T,UI/UX Designer,City_192,Cold Chain,"['Auditing', 'Wind Turbine Basics', 'Typing', 'Spring']",12,16395
+INT1197,Reliance,Marketing Associate,City_226,Industry_005,"['Data Entry', 'Financial Modeling', 'Agile']",6,12845
+INT1198,HCL,Operations Associate,City_336,Entertainment,"['Kubernetes', 'Digital Marketing', 'Docker', 'Supply Chain', 'Inventory Management', 'Drones']",3,8088
+INT1199,Mahindra,Mobile App Developer,City_247,Environmental Services,"['CSS', 'Spring', 'Packaging', 'Lead Generation', 'Typing', 'Technical Writing']",6,19016
+INT1200,L&T,Financial Analyst,City_310,BPO/ITES,"['Community Mobilization', 'SIEM']",3,9968
+INT1201,Maruti Suzuki,HR Assistant,City_175,BPO/ITES,"['Postman', 'GitLab', 'ISO 9001']",6,19090
+INT1202,Bajaj,Recruiter,City_332,Shared Services,"['Sales', 'Spring', 'Solar Installation', 'Financial Modeling']",12,7006
+INT1203,Wipro,Marketing Associate,Bikaner,Social Welfare,"['Copywriting', 'L&D', 'Excel', 'Product Management']",3,22837
+INT1204,Mahindra,Content Strategist,Panipat,Technology,"['CAM', 'Lean', 'STATA', 'POS Systems', 'C++', 'Solar Installation']",6,12332
+INT1205,L&T,Full Stack Developer,Bellary,Railways,"['Lean', 'Selenium', 'Risk Assessment', 'Rural Outreach', 'Tableau']",3,21425
+INT1206,HDFC Bank,DevOps Engineer,City_164,Defense,"['Surveying', 'Critical Thinking', 'Supply Chain', 'Penetration Testing', 'Python']",12,7014
+INT1207,TCS,Finance Intern,Raipur,Tourism,"['React', 'Azure']",12,14131
+INT1208,Wipro,UI/UX Designer,City_152,Industry_001,"['Public Speaking', 'Figma', 'Food Processing', 'Angular']",6,20840
+INT1209,Tech Mahindra,Content Strategist,City_340,Leather,"['NLP', 'Rural Outreach', 'Welding', 'Power Automate', 'Retail Operations']",6,8942
+INT1210,Aditya Birla,Operations Associate,City_299,Research,"['Excel', 'GST', 'Investment Research', 'Laboratory Technician', 'Embedded Systems']",6,16464
+INT1211,Maruti Suzuki,Content Writer,City_207,Industry_013,"['Cold Chain', 'Content Writing', 'HTML', 'IoT', 'Embedded Systems']",12,17374
+INT1212,L&T,Full Stack Developer,City_121,Cold Chain,"['PowerApps', 'Technical Writing', 'JavaScript', 'VLSI Basics']",12,17014
+INT1213,Wipro,Cloud Engineer,City_145,Hospitality,"['Packaging', 'Retail Operations', 'Investment Research', 'Penetration Testing', 'PowerApps']",6,11563
+INT1214,Tata Steel,Cloud Engineer,Noida,Agriculture,"['Express', 'Field Survey', 'Confluence', 'Project Management', 'Carpentry', 'Telemedicine Support']",3,20029
+INT1215,TCS,Digital Marketer,City_146,Railways,"['Talent Acquisition', 'React', 'Social Work']",3,15963
+INT1216,Mahindra,Customer Support,City_328,Entertainment,"['Data Engineering', 'Lead Generation']",3,8151
+INT1217,TCS,Data Scientist,City_204,Industry_005,"['Talent Acquisition', 'C++', 'Rust']",12,6071
+INT1218,Wipro,Content Writer,City_179,Startups & Incubation,"['Cashier', 'ISO 27001', 'HACCP', 'Confluence', 'Six Sigma', 'Salesforce']",12,19932
+INT1219,Tech Mahindra,Recruiter,Karnal,Shared Services,"['SEO', 'Critical Thinking', 'Problem Solving', 'Retail Operations']",3,16736
+INT1220,Mahindra,Mobile App Developer,Chandigarh,Gaming,"['Excel', 'Digital Marketing', '3D Printing']",6,20466
+INT1221,Bajaj,Data Scientist,City_130,Metals,"['Laboratory Technician', 'Critical Thinking', 'HR']",12,17692
+INT1222,Tech Mahindra,Business Analyst,City_348,Non-Profit,"['TypeScript', 'ISO 27001', 'Deep Learning']",6,9545
+INT1223,Tech Mahindra,Automation Tester,City_209,Handloom,"['GCP', 'PowerApps', 'Creativity', 'Azure']",6,17872
+INT1224,L&T,Marketing Associate,City_136,Entertainment,"['POS Systems', 'Leadership', 'HACCP']",3,14505
+INT1225,TCS,Data Analyst,Vadodara,Industry_003,"['TypeScript', 'Data Entry', 'Logistics']",12,6626
+INT1226,Infosys,Business Analyst,City_342,Industry_010,"['ServiceNow', 'JavaScript', 'Sales', 'Machine Learning', 'Electrical Wiring']",3,23332
+INT1227,Maruti Suzuki,Marketing Associate,City_144,BPO/ITES,"['Teamwork', 'Tableau', 'Inventory Management']",12,11649
+INT1228,Tata Steel,Data Analyst,City_331,Industry_004,"['Accessibility', 'Sales', 'Talent Acquisition']",12,12112
+INT1229,Reliance,Supply Chain Analyst,Ambala,Finance,"['Vue', 'POS Systems']",3,24311
+INT1230,TCS,HR Assistant,City_305,Entertainment,"['Flask', 'SolidWorks', 'Quality Assurance']",12,8734
+INT1231,Tata Steel,Software Developer,City_159,Rural Development,"['GitHub', 'Basic Computer Skills']",12,12557
+INT1232,ICICI Bank,Cybersecurity Analyst,City_143,Telecommunications,"['Data Entry', 'Arduino', 'Rural Outreach', 'Bash']",12,6657
+INT1233,Bajaj,Network Engineer,City_118,Media,"['Telemedicine Support', 'Adobe XD', 'Painting', 'Quality Assurance']",6,18916
+INT1234,Infosys,Product Manager,City_214,Dairy,"['MS Excel', 'Wind Turbine Basics', 'Go']",12,7698
+INT1235,Wipro,DevOps Engineer,City_346,Analytics,"['Customer Service', 'Spring', 'Finance', 'Field Survey', '3D Printing']",6,20036
+INT1236,Cognizant,Cybersecurity Analyst,City_132,Industry_013,"['Python', 'Customer Relationship', 'Cashier', 'Adobe XD', 'Node.js']",3,6190
+INT1237,ICICI Bank,Automation Tester,City_281,KPO,"['C++', 'Embedded Systems', 'Compliance']",6,11645
+INT1238,Bajaj,Finance Intern,City_317,Aviation,"['AWS', 'NLP', 'CATIA', 'Industrial Safety']",3,15106
+INT1239,Wipro,Automation Tester,City_217,Legal,"['5S', 'Cold Chain', 'Insurance Underwriting']",6,5943
+INT1240,Maruti Suzuki,Network Engineer,Jalandhar,Poultry,"['L&D', 'ISO 9001', 'Phlebotomy', 'Computer Vision', 'Time Management']",6,20686
+INT1241,Reliance,Full Stack Developer,Bikaner,Beauty & Wellness,"['Typing', 'Figma', 'Cold Chain', 'Accessibility', 'Compliance', 'Data Entry']",12,16715
+INT1242,TCS,Data Scientist,City_336,Dairy,"['JMeter', 'Inventory Management', 'GitHub']",12,10207
+INT1243,Wipro,Copywriter,City_222,Handicrafts,"['Adaptability', 'Phlebotomy', 'C++', 'CNC', 'EHR Systems']",12,11380
+INT1244,Mahindra,QA Engineer,City_204,Transportation,"['Field Sales', 'Git', 'Powershell', 'AutoCAD', 'Wind Turbine Basics']",12,22621
+INT1245,Bajaj,Software Developer,City_238,AgriTech,"['Industrial Safety', 'Product Management', 'Sales', 'CAM', 'MS PowerPoint', 'Excel']",3,15599
+INT1246,ICICI Bank,Supply Chain Analyst,City_245,Railways,"['DevOps', 'Labor Laws', 'Inside Sales', 'Raspberry Pi', 'Teamwork']",6,14711
+INT1247,TCS,Recruiter,Durgapur,Startups & Incubation,"['KYC', 'MS Excel', 'Go', 'Sales']",3,7373
+INT1248,Cognizant,Cybersecurity Analyst,City_149,Aerospace,"['Excel', 'PowerApps', 'Supply Chain', 'Lead Generation', 'Communication']",12,24094
+INT1249,HCL,Operations Associate,Haora,Hospitality,"['Accounting', 'Procurement', 'Finance', 'Deep Learning', 'MS Excel', 'Employee Engagement']",3,8740
+INT1250,Tech Mahindra,Business Analyst,City_270,Handloom,"['Vue', 'Remote Sensing']",6,6428
+INT1251,TCS,Cybersecurity Analyst,City_309,Warehousing,"['Business Analysis', 'PCB Design', 'Telemedicine Support', 'Solar Installation']",3,22132
+INT1252,Mahindra,Recruiter,City_252,Renewable Energy,"['React', 'Plumbing', 'Design Systems', 'Wind Turbine Basics', 'JavaScript']",3,24321
+INT1253,HCL,Software Developer,Amravati,Pharmaceuticals,"['HubSpot', 'Painting', 'C']",3,21619
+INT1254,Reliance,Content Strategist,City_321,Retail,"['Requirements Gathering', 'Git', '3D Printing', 'Rural Outreach', 'TypeScript']",6,24684
+INT1255,ICICI Bank,DevOps Engineer,Rajahmundry,Construction,"['Networking', 'Cold Chain', 'Raspberry Pi']",3,8901
+INT1256,Aditya Birla,Recruiter,Jaipur,Metals,"['HTML', 'C', 'Power Automate']",6,11408
+INT1257,TCS,Growth Marketer,Jamnagar,FinTech,"['Operations', 'Remote Sensing', 'Laboratory Technician']",6,9551
+INT1258,HDFC Bank,Cybersecurity Analyst,City_294,Leather,"['Product Management', 'Lean', 'ServiceNow', 'Claims Processing']",12,14446
+INT1259,TCS,Cybersecurity Analyst,City_168,Ports & Shipping,"['Wind Turbine Basics', 'Social Work']",6,14996
+INT1260,Reliance,Growth Marketer,City_340,Gaming,"['Cold Chain', 'Food Processing', 'Community Mobilization', 'Teamwork']",6,6628
+INT1261,Tata Steel,Content Writer,City_278,Ports & Shipping,"['Taxation', 'GIS', 'Social Media']",6,17211
+INT1262,HCL,Project Manager,City_170,Industry_007,"['Marketing', 'Bookkeeping']",12,19061
+INT1263,Cognizant,Recruiter,City_275,Beauty & Wellness,"['Accounting', 'Adaptability', 'Penetration Testing', 'Food Safety', 'Risk Assessment']",6,21602
+INT1264,HCL,Customer Support,City_152,Startups & Incubation,"['UAV Operation', 'Accounting', 'Surveying']",12,19056
+INT1265,Aditya Birla,Cloud Engineer,City_214,Ports & Shipping,"['Labor Laws', 'Logistics', 'Copywriting']",12,15262
+INT1266,HCL,DevOps Engineer,Bhopal,Beauty & Wellness,"['5S', 'Investment Research', 'Basic Computer Skills', 'Lean', 'Java']",12,24954
+INT1267,HDFC Bank,Product Manager,Kozhikode,Industry_013,"['CSR Implementation', 'Embedded Systems', 'CAD', 'Figma', 'Drones']",12,13251
+INT1268,HDFC Bank,Product Manager,City_221,Gaming,"['MS PowerPoint', 'SQL', 'Auditing', 'Go']",12,15013
+INT1269,ICICI Bank,Customer Support,Dhanbad,Wind,"['PCB Design', 'GitHub']",12,13819
+INT1270,Reliance,Finance Intern,Bokaro,Industry_008,"['Angular', 'JMeter']",3,14186
+INT1271,Wipro,Data Engineer,City_309,Industry_012,"['CNC', 'CSS', 'Medical Coding']",6,19641
+INT1272,HCL,Data Engineer,City_251,Tourism,"['Google Analytics', 'Business Analysis', 'Painting', 'SharePoint', 'Customer Relationship', 'Food Safety']",12,5156
+INT1273,HCL,Recruiter,Thane,Telecommunications,"['AWS', 'CRM', 'CAD', 'Finance', 'Power BI']",6,6259
+INT1274,Aditya Birla,DevOps Engineer,City_326,Technology,"['HubSpot', 'TypeScript', 'Drones', 'Powershell']",12,8087
+INT1275,HDFC Bank,UI/UX Designer,City_176,Public Sector,"['AWS', 'Postman']",12,13677
+INT1276,Maruti Suzuki,Automation Tester,City_345,Industry_002,"['Canva', 'Microfinance', 'Public Speaking']",12,15833
+INT1277,HCL,Data Scientist,Gurgaon,Biotechnology,"['Product Management', 'Drones', 'Accounting']",12,5956
+INT1278,HDFC Bank,Full Stack Developer,Bellary,Poultry,"['Powershell', 'JMeter', 'Documentation', 'DevOps']",12,19225
+INT1279,Tech Mahindra,Automation Tester,City_195,Warehousing,"['Power BI', 'Nursing Assistance', 'Angular', 'Basic Computer Skills']",6,21249
+INT1280,HCL,HR Assistant,Bhiwani,MSME,"['Finance', 'SEM', 'HubSpot', 'Data Analysis']",6,19135
+INT1281,TCS,Customer Support,City_310,Research,"['Industrial Safety', 'Design Systems']",6,8072
+INT1282,Infosys,Financial Analyst,City_341,Food Processing,"['Auditing', 'Google Analytics', 'Rural Outreach', 'Pharmacy Assistance']",3,19868
+INT1283,Tata Steel,Data Analyst,City_214,Hospitality,"['Powershell', 'Data Entry', 'Excel', 'Recruitment', 'Selenium']",3,13108
+INT1284,Mahindra,Project Manager,City_198,Automotive,"['Machine Learning', 'Food Safety', 'Sales']",6,17273
+INT1285,Reliance,Network Engineer,Bellary,Industry_012,"['Jira', 'Computer Vision', 'GitHub', 'Microfinance', 'Payroll']",3,21832
+INT1286,HDFC Bank,HR Assistant,Bhiwandi,Public Health,"['Logistics', 'Docker', 'C', 'Electrical Wiring', 'Carpentry']",3,18890
+INT1287,Bajaj,Product Manager,Raipur,Legal,"['Product Management', 'TypeScript', 'ServiceNow', 'Accessibility', 'Welding']",12,16010
+INT1288,Infosys,Copywriter,City_253,Consulting,"['CRM', 'SQL', 'Retail Operations', 'Lead Generation']",12,24338
+INT1289,L&T,DevOps Engineer,Bikaner,Industry_001,"['Employee Engagement', 'Graphic Design', 'Food Processing', 'Computer Vision', 'GitHub']",3,14188
+INT1290,Maruti Suzuki,Product Manager,City_272,Startups & Incubation,"['NoSQL', 'Branding', 'Problem Solving', 'Customer Relationship', 'Deep Learning', 'Drones']",6,9989
+INT1291,TCS,DevOps Engineer,City_190,Legal,"['Inventory Management', 'Copywriting', 'Investment Research']",3,9743
+INT1292,L&T,Cloud Engineer,City_122,Pharmaceuticals,"['Jira', 'MATLAB', 'Lean']",6,17159
+INT1293,Mahindra,Content Writer,City_239,Warehousing,"['Embedded Systems', 'Flask', 'Power BI', 'Cashier', 'Lead Generation', 'SEM']",12,5795
+INT1294,Tata Steel,Business Analyst,City_322,FinTech,"['Data Engineering', 'Customer Service', 'Laboratory Technician']",3,14802
+INT1295,HCL,Copywriter,City_315,Oil & Gas,"['Zoho', 'Data Engineering', 'NoSQL']",12,10137
+INT1296,Aditya Birla,Operations Associate,City_248,Railways,"['Food Processing', 'Wind Turbine Basics']",3,15508
+INT1297,TCS,Copywriter,Gaya,Industry_002,"['Tableau', 'FSSAI Compliance', 'Six Sigma', 'Raspberry Pi', 'STATA', 'Supply Chain']",6,7104
+INT1298,Cognizant,Finance Intern,Sirsa,Construction,"['Power BI', 'L&D', 'Azure', 'Pharmacy Assistance', 'VLSI Basics', 'Data Engineering']",12,6755
+INT1299,Tata Steel,HR Assistant,City_251,Public Sector,"['CI/CD', 'Docker', 'Computer Vision', 'Electronics Repair', 'AutoCAD', 'Agile']",6,23586
+INT1300,Cognizant,Data Scientist,City_165,Textiles,"['Food Processing', 'JMeter', 'Labor Laws']",6,8732
+INT1301,Maruti Suzuki,Software Developer,City_184,Hospitality,"['Adaptability', 'Packaging', 'Automation Testing', 'Presentation', 'Python', 'Quality Assurance']",12,14568
+INT1302,ICICI Bank,Full Stack Developer,City_305,Industry_009,"['Store Management', 'Data Analysis', 'Tally', 'Penetration Testing', 'Vue', 'Jira']",6,15413
+INT1303,TCS,Software Developer,Nadiad,Technology,"['Community Mobilization', 'GIS', 'GST']",12,22063
+INT1304,HCL,Recruiter,City_254,Startups & Incubation,"['SQL', 'UI/UX', 'AML', 'Email Marketing', 'Solar Installation', 'Customer Relationship']",3,10573
+INT1305,Bajaj,Marketing Associate,City_258,Poultry,"['Field Survey', 'Procurement', 'React', 'Accessibility', 'Remote Sensing']",3,13919
+INT1306,TCS,Supply Chain Analyst,Rewari,EdTech,"['Pharmacy Assistance', 'Phlebotomy', 'JMeter', 'Food Processing', 'Finance']",6,7254
+INT1307,L&T,Cybersecurity Analyst,Malegaon,Non-Profit,"['Typing', 'Critical Thinking', 'NLP', 'CSS', 'Express']",3,23004
+INT1308,Aditya Birla,DevOps Engineer,City_229,Logistics,"['React', 'Microfinance']",6,8281
+INT1309,HCL,Product Manager,City_144,Mining,"['Computer Vision', 'Data Entry']",6,10232
+INT1310,Wipro,Software Developer,Mysore,Non-Profit,"['Drones', 'AutoCAD', 'Git', 'Taxation', 'Zoho', 'Accessibility']",3,6033
+INT1311,Maruti Suzuki,Recruiter,Sonipat,Industry_002,"['Microfinance', 'FSSAI Compliance']",6,22136
+INT1312,Infosys,Network Engineer,City_327,Fisheries,"['Recruitment', 'C++', 'Accessibility']",12,23525
+INT1313,Aditya Birla,Automation Tester,City_349,Agriculture,"['Project Management', 'Claims Processing', 'Bookkeeping', 'Arduino', 'C']",6,21720
+INT1314,Bajaj,Cybersecurity Analyst,City_157,Cybersecurity,"['L&D', 'Communication', 'Powershell', 'CSS', 'HTML']",3,16586
+INT1315,Wipro,Data Scientist,City_132,Industry_004,"['PowerApps', 'React']",6,5289
+INT1316,Mahindra,ML Engineer,City_223,Non-Profit,"['CAD', 'Investment Research', 'Zoho', 'Rust']",12,22469
+INT1317,Tech Mahindra,Supply Chain Analyst,City_165,Pharmaceuticals,"['Figma', 'JMeter', 'Java']",12,17167
+INT1318,Infosys,Technical Support,Salem,Industry_014,"['Microfinance', 'Data Analysis', 'Carpentry', 'Documentation', 'Wind Turbine Basics', 'Social Media']",6,13504
+INT1319,Cognizant,Digital Marketer,City_216,Legal,"['Azure', 'VLSI Basics', 'Procurement', 'Customer Relationship', 'Salesforce']",6,8764
+INT1320,Bajaj,Cloud Engineer,City_233,Handloom,"['Data Analysis', 'Accessibility', 'Employee Engagement', 'Manual Testing', 'Insurance Underwriting']",12,8811
+INT1321,Tata Steel,Technical Support,City_346,Aviation,"['Recruitment', 'Microfinance', 'Azure', 'Payroll', 'Product Management', 'Industrial Safety']",6,18133
+INT1322,Infosys,DevOps Engineer,City_206,Industry_012,"['Community Mobilization', 'Employee Engagement', 'Data Entry', 'Adobe XD', 'Go']",6,16909
+INT1323,Mahindra,UI/UX Designer,City_235,Automotive,"['Data Entry', 'Basic Computer Skills', 'ISO 9001']",12,14387
+INT1324,Tech Mahindra,Data Analyst,Bokaro,Industry_008,"['Figma', 'Pharmacy Assistance', 'Surveying']",12,14459
+INT1325,Aditya Birla,Content Writer,Haora,Food Processing,"['SharePoint', 'Logistics', 'Bookkeeping', 'GitLab']",6,18902
+INT1326,HCL,Network Engineer,Jhajjar,Technology,"['Packaging', 'Power BI', 'Node.js', 'JMeter']",6,8170
+INT1327,Aditya Birla,Business Analyst,Sambalpur,Research,"['Tally', 'Powershell']",6,21756
+INT1328,HCL,ML Engineer,City_308,Dairy,"['Claims Processing', 'Talent Acquisition', 'ISO 27001', 'Recruitment', 'Documentation', 'ISO 9001']",3,13200
+INT1329,Reliance,Marketing Associate,City_194,Rural Development,"['Supply Chain', 'Electronics Repair', 'Time Management', 'Communication', 'TypeScript', 'Figma']",6,23061
+INT1330,L&T,Technical Support,City_119,Technology,"['Marketing', 'Typing']",3,20939
+INT1331,Aditya Birla,Supply Chain Analyst,City_329,Public Sector,"['Store Management', 'Graphic Design', 'Phlebotomy', 'Data Analysis', 'Social Work']",6,23895
+INT1332,Wipro,Network Engineer,Malegaon,Industry_014,"['Tableau', 'UAV Operation', 'Wind Turbine Basics', 'Linux', 'Communication', 'Vue']",6,15807
+INT1333,Bajaj,Product Manager,City_144,Telecommunications,"['Documentation', 'React']",6,9756
+INT1334,Bajaj,ML Engineer,Madurai,Panchayati Raj,"['Git', 'STATA', 'Adaptability', 'Docker', 'Marketing']",6,9065
+INT1335,L&T,UI/UX Designer,Lucknow,Agriculture,"['Tableau', 'Manual Testing', 'Medical Coding', 'Industrial Safety', 'CSR Implementation', 'Inventory Management']",12,6750
+INT1336,Tech Mahindra,Content Strategist,City_246,Environmental Services,"['Basic Computer Skills', 'Embedded Systems', 'Store Management', 'ServiceNow', 'Customer Service']",12,13258
+INT1337,Tech Mahindra,Operations Associate,City_245,GovTech,"['VLSI Basics', 'Manual Testing', 'Carpentry', 'Arduino', 'Vue', 'Google Analytics']",3,9417
+INT1338,Infosys,Financial Analyst,Amravati,Biotechnology,"['Data Entry', 'Cold Chain', 'ServiceNow', 'CRM']",6,16663
+INT1339,L&T,Network Engineer,Bareilly,MSME,"['MS Excel', 'UAV Operation', 'Statistics', 'C++', 'Compliance', 'Express']",6,11922
+INT1340,Aditya Birla,Customer Support,City_161,Fisheries,"['NLP', 'Cold Chain', 'SIEM']",3,10510
+INT1341,Bajaj,Finance Intern,City_188,Solar,"['GitLab', 'AML', 'Microfinance', 'Recruitment', 'Statistics']",6,24552
+INT1342,HDFC Bank,Supply Chain Analyst,City_211,KPO,"['CAD', 'Critical Thinking', 'Node.js', 'Machine Learning', '3D Printing']",3,22221
+INT1343,Tech Mahindra,Cybersecurity Analyst,City_303,Cybersecurity,"['Industrial Safety', 'Angular', 'Logistics', 'MS Word', 'Linux', 'Medical Coding']",3,8729
+INT1344,Maruti Suzuki,UI/UX Designer,City_330,Finance,"['Express', 'L&D', 'Teamwork', 'Finance', 'Networking']",12,10627
+INT1345,Infosys,Content Writer,City_114,Industry_003,"['Talent Acquisition', 'R', 'Product Management']",3,20407
+INT1346,Bajaj,Full Stack Developer,City_270,Environmental Services,"['SCADA', 'NoSQL', 'Rural Outreach', 'CSS']",6,24728
+INT1347,Tech Mahindra,Data Analyst,City_125,Roads & Highways,"['Arduino', 'Auditing', 'Risk Assessment']",6,17175
+INT1348,L&T,Technical Support,City_171,Aviation,"['HubSpot', 'Nursing Assistance', 'Talent Acquisition']",3,24585
+INT1349,Cognizant,Operations Associate,City_281,Industry_012,"['CI/CD', 'Communication']",6,12137
+INT1350,Bajaj,QA Engineer,Maheshtala,Tourism,"['Community Mobilization', 'HubSpot', 'Excel', 'Employee Engagement']",6,7285
+INT1351,Tech Mahindra,Supply Chain Analyst,Mysuru,Water & Sanitation,"['Spring', 'Masonry', 'KYC', 'Jira', 'Teamwork', 'Talent Acquisition']",3,8483
+INT1352,Tech Mahindra,Cybersecurity Analyst,Shimoga,Industry_005,"['Warehouse Operations', 'NoSQL', 'SPSS']",12,22760
+INT1353,Reliance,Product Manager,City_293,Gaming,"['Auditing', 'Confluence', 'Computer Vision', 'ISO 27001']",12,23181
+INT1354,HDFC Bank,Marketing Associate,City_120,Automotive,"['Supply Chain', 'Figma', 'Community Mobilization', 'Angular']",12,12941
+INT1355,TCS,Mobile App Developer,City_241,Gaming,"['Customer Service', 'UAV Operation', 'Claims Processing', 'Salesforce', 'Community Mobilization']",12,6511
+INT1356,Aditya Birla,Operations Associate,City_220,Industry_004,"['Taxation', 'SharePoint', 'SCADA', 'MS PowerPoint']",6,9443
+INT1357,Aditya Birla,Project Manager,Visakhapatnam,Startups & Incubation,"['Raspberry Pi', 'GitLab', 'EHR Systems', 'Excel', 'JMeter', 'Communication']",12,11166
+INT1358,ICICI Bank,QA Engineer,Hubli–Dharwad,Horticulture,"['Time Management', 'Flask', 'Spring', 'Vulnerability Assessment', 'Figma']",12,20416
+INT1359,HCL,Data Engineer,City_220,Leather,"['ISO 9001', 'Nursing Assistance']",3,8965
+INT1360,Mahindra,Automation Tester,City_116,Industry_005,"['C++', 'Telemedicine Support', 'Bash', 'Branding']",3,10624
+INT1361,Aditya Birla,Cloud Engineer,City_139,Automotive,"['Basic Computer Skills', 'ServiceNow', 'POS Systems', 'Graphic Design', 'Django', 'HR']",12,13048
+INT1362,Wipro,Network Engineer,City_121,Handicrafts,"['Branding', 'C', 'NLP', 'Data Entry']",3,15158
+INT1363,HDFC Bank,Project Manager,Patiala,AgriTech,"['Business Analysis', 'CI/CD', 'HACCP', 'Rust', 'Docker', 'Nursing Assistance']",6,13016
+INT1364,Maruti Suzuki,Content Strategist,City_189,Technology,"['Branding', 'Employee Engagement', 'HR', 'Finance', 'EHR Systems', 'Deep Learning']",3,21867
+INT1365,Reliance,Automation Tester,Allahabad,Climate & Sustainability,"['Requirements Gathering', 'C++', 'Embedded Systems', 'PLC', 'Digital Marketing']",3,15122
+INT1366,Mahindra,Digital Marketer,Bhiwani,Marketing Services,"['Welding', 'Telemedicine Support', 'Flask', 'Cybersecurity', 'Six Sigma', 'NoSQL']",6,15192
+INT1367,Tech Mahindra,QA Engineer,Nellore,Food Processing,"['Deep Learning', 'Pharmacy Assistance', 'Painting', 'Carpentry']",3,21664
+INT1368,Cognizant,Content Strategist,Kakinada,Metals,"['Food Safety', 'PowerApps']",3,5890
+INT1369,Aditya Birla,UI/UX Designer,City_163,Metals,"['VLSI Basics', 'Technical Writing', 'Bash', 'Risk Assessment']",12,24452
+INT1370,Wipro,Data Analyst,City_325,Logistics,"['ISO 9001', 'Bookkeeping', 'Retail Operations']",6,19181
+INT1371,Bajaj,Automation Tester,City_217,Gaming,"['Community Mobilization', 'Linux', 'CNC']",6,12658
+INT1372,HCL,Recruiter,City_197,Agriculture,"['Scrum', 'Deep Learning', 'Flask', 'Plumbing', 'Typing', 'Power Automate']",3,24950
+INT1373,Aditya Birla,Software Developer,City_319,Public Sector,"['STATA', 'Marketing', 'Surveying', 'Masonry']",3,14635
+INT1374,TCS,Content Writer,City_218,Industry_001,"['Adaptability', 'AML', 'Networking']",6,18438
+INT1375,HCL,UI/UX Designer,City_154,Industry_001,"['MS PowerPoint', 'Raspberry Pi', 'Graphic Design', 'Accessibility', 'Jira', 'ISO 27001']",6,17154
+INT1376,Infosys,Growth Marketer,City_270,Mining,"['Embedded Systems', 'Jira', 'Insurance Underwriting', 'NoSQL', 'Critical Thinking']",6,16861
+INT1377,Maruti Suzuki,Business Analyst,Sambalpur,GovTech,"['Store Management', 'CAD', 'GitLab']",6,9376
+INT1378,L&T,Marketing Associate,City_176,Healthcare,"['Technical Writing', 'Vulnerability Assessment', 'HubSpot', 'TypeScript', 'PLC']",6,10344
+INT1379,Maruti Suzuki,Full Stack Developer,City_287,Analytics,"['Carpentry', 'Tally', 'IoT', 'Business Analysis', 'ISO 9001', 'Masonry']",3,13150
+INT1380,Bajaj,Copywriter,City_310,Handloom,"['Field Sales', 'ISO 27001', 'Inside Sales', 'Arduino']",3,20411
+INT1381,Reliance,Marketing Associate,Faridabad,FinTech,"['SPSS', 'AutoCAD', 'Customer Service', 'SIEM', 'Java']",3,24395
+INT1382,Maruti Suzuki,Operations Associate,City_175,HealthTech,"['AutoCAD', 'Time Management', 'Selenium']",3,14003
+INT1383,HDFC Bank,Network Engineer,City_313,Cybersecurity,"['Food Safety', 'GST', 'Creativity', 'Labor Laws', 'Compliance']",6,24301
+INT1384,L&T,Supply Chain Analyst,City_297,FinTech,"['JavaScript', 'Cold Chain', 'EHR Systems', 'Excel', 'JMeter']",12,5729
+INT1385,Tech Mahindra,Full Stack Developer,City_222,Sports,"['Data Engineering', 'Confluence']",12,19428
+INT1386,Cognizant,Data Scientist,Madurai,Manufacturing,"['Basic Computer Skills', 'Confluence', 'Zoho']",12,19681
+INT1387,Infosys,Marketing Associate,City_201,Railways,"['Talent Acquisition', 'Compliance', 'Store Management', 'Field Sales']",3,16098
+INT1388,Infosys,Recruiter,City_259,Handloom,"['Pharmacy Assistance', 'NLP']",6,21102
+INT1389,Aditya Birla,Business Analyst,City_134,CSR,"['Vulnerability Assessment', 'Digital Marketing', 'Nursing Assistance']",3,17056
+INT1390,Bajaj,Mobile App Developer,City_328,Handicrafts,"['Creativity', 'Field Sales', 'JavaScript', 'Marketing', 'Inside Sales', 'Field Survey']",3,15981
+INT1391,Maruti Suzuki,Copywriter,City_210,Industry_005,"['ServiceNow', 'Graphic Design', 'Presentation', 'HubSpot', 'Email Marketing', 'CSS']",3,13660
+INT1392,Cognizant,Cloud Engineer,City_288,Handicrafts,"['Lean', 'EHR Systems']",12,24261
+INT1393,Wipro,Mobile App Developer,City_170,Leather,"['Copywriting', 'SQL']",3,15827
+INT1394,TCS,Full Stack Developer,City_350,Non-Profit,"['Inside Sales', 'Telemedicine Support', 'Public Speaking', 'L&D', 'AML', 'GitHub']",6,14858
+INT1395,L&T,Customer Support,Coimbatore,Research,"['Field Survey', 'Rural Outreach', 'Agile', 'Creativity', 'GIS']",6,23775
+INT1396,HCL,Technical Support,City_209,Startups & Incubation,"['HACCP', 'Operations']",3,15586
+INT1397,L&T,Digital Marketer,City_114,Healthcare,"['TypeScript', 'CSR Implementation']",3,9630
+INT1398,Mahindra,Recruiter,City_296,Mining,"['CRM', 'Data Engineering', 'Embedded Systems', 'Remote Sensing', 'ISO 27001', 'Python']",6,21505
+INT1399,Tech Mahindra,Digital Marketer,Gaya,Industry_005,"['JMeter', 'Finance', 'Basic Computer Skills', 'GST', 'Field Survey']",6,6598
+INT1400,Cognizant,UI/UX Designer,City_199,Water & Sanitation,"['GCP', 'Angular', 'Cybersecurity', 'Risk Assessment', 'Payroll']",3,13314
+INT1401,HDFC Bank,Automation Tester,City_145,KPO,"['Confluence', 'Warehouse Operations', 'Time Management', 'PowerApps', 'Arduino', 'GST']",12,13015
+INT1402,HCL,ML Engineer,City_276,Energy,"['Penetration Testing', 'Adobe XD', 'Financial Modeling']",6,18817
+INT1403,Infosys,Financial Analyst,Rajkot,Leather,"['SPSS', 'Manual Testing', 'Social Media']",6,16708
+INT1404,Mahindra,Finance Intern,City_220,Logistics,"['Cloud', 'Supply Chain', 'Project Management', 'Logistics', 'Quality Assurance']",12,15261
+INT1405,Tata Steel,Data Analyst,City_261,Advertising,"['Raspberry Pi', 'Public Speaking', 'Teamwork', 'Documentation', 'Power Automate', 'CSR Implementation']",6,13933
+INT1406,Aditya Birla,Business Analyst,City_333,Non-Profit,"['Problem Solving', 'Retail Operations', 'CRM', 'AWS']",12,16604
+INT1407,Tech Mahindra,UI/UX Designer,City_229,Industry_010,"['SharePoint', 'Scrum', 'Rust', 'Microfinance', 'Power Automate']",3,20604
+INT1408,Reliance,Finance Intern,City_215,Startups & Incubation,"['Digital Marketing', 'Go', 'Documentation', 'DevOps', 'TypeScript']",6,18803
+INT1409,Mahindra,Digital Marketer,Madurai,CleanTech,"['Quality Assurance', 'Finance', 'SIEM', 'Copywriting', 'Machine Learning', 'Express']",6,20439
+INT1410,Maruti Suzuki,UI/UX Designer,City_334,Industry_014,"['Django', 'Carpentry', 'Electrical Wiring']",3,6059
+INT1411,Aditya Birla,Cybersecurity Analyst,Meerut,Food & Beverage,"['KYC', 'SQL', 'Zoho', 'Cold Chain']",6,18055
+INT1412,ICICI Bank,Network Engineer,City_260,Real Estate,"['AML', 'SEM', 'POS Systems']",6,16252
+INT1413,HCL,HR Assistant,City_171,Cloud Services,"['Investment Research', 'Project Management', 'HubSpot', 'Bash', 'SIEM']",12,9264
+INT1414,Reliance,Copywriter,Visakhapatnam,Research,"['NoSQL', 'Confluence']",6,5947
+INT1415,Tech Mahindra,Operations Associate,Jodhpur,Telecommunications,"['Claims Processing', 'Project Management']",6,24166
+INT1416,Maruti Suzuki,Automation Tester,City_186,Horticulture,"['Data Analysis', 'Arduino']",12,24590
+INT1417,L&T,Operations Associate,City_303,Industry_009,"['Google Analytics', 'Data Analysis', 'Machine Learning', 'AutoCAD', 'Statistics']",12,15429
+INT1418,L&T,UI/UX Designer,City_230,HealthTech,"['L&D', 'Express', 'Email Marketing', 'Store Management', 'Branding']",6,19702
+INT1419,Reliance,Data Engineer,Hubli–Dharwad,Public Health,"['Time Management', 'Presentation', 'HACCP', 'Python', 'Marketing']",12,20124
+INT1420,Tata Steel,Operations Associate,City_211,Poultry,"['AutoCAD', 'GCP', 'Laboratory Technician', 'VLSI Basics', 'JavaScript']",12,17218
+INT1421,Tata Steel,DevOps Engineer,City_189,Poultry,"['Arduino', 'Electrical Wiring', 'Tally', 'JavaScript']",12,7221
+INT1422,HDFC Bank,Cybersecurity Analyst,Bokaro,Industry_004,"['Nursing Assistance', 'Design Systems', 'Python']",12,10913
+INT1423,Bajaj,Cybersecurity Analyst,Siliguri,Ports & Shipping,"['SEO', 'JavaScript', 'Google Analytics', 'Marketing', 'Communication']",12,12928
+INT1424,Bajaj,Recruiter,City_217,Logistics,"['Spring', 'Scrum', 'Vue']",6,7203
+INT1425,HCL,Mobile App Developer,Chandigarh,Rural Development,"['GST', 'SQL', 'Branding', 'Presentation', 'Automation Testing']",3,11986
+INT1426,L&T,Operations Associate,Solapur,Insurance,"['Insurance Underwriting', 'KYC', 'Problem Solving', 'Salesforce', 'Linux']",6,19916
+INT1427,HDFC Bank,Full Stack Developer,City_155,Defense,"['Networking', 'Field Sales']",12,13600
+INT1428,HDFC Bank,ML Engineer,Jaipur,Industry_010,"['POS Systems', 'Canva', 'Power Automate']",12,20756
+INT1429,Aditya Birla,Product Manager,City_183,Transportation,"['Risk Assessment', 'Packaging', 'EHR Systems', 'Rural Outreach', 'Cold Chain', 'HR']",6,21282
+INT1430,Mahindra,Business Analyst,Bareilly,BPO/ITES,"['Vulnerability Assessment', 'Investment Research']",3,21563
+INT1431,Aditya Birla,UI/UX Designer,Kolkata,Tourism,"['Adaptability', 'Tally', 'Penetration Testing', 'Technical Writing']",6,15429
+INT1432,L&T,Content Strategist,Jodhpur,Renewable Energy,"['Carpentry', 'Basic Computer Skills', 'Community Mobilization']",12,16949
+INT1433,Aditya Birla,Cloud Engineer,Bhiwandi,Metro Rail,"['Raspberry Pi', 'Field Sales', 'HubSpot', 'Carpentry', 'Welding', 'Vue']",12,22121
+INT1434,HDFC Bank,Cybersecurity Analyst,City_347,Energy,"['SolidWorks', 'GST', 'Lead Generation']",6,22000
+INT1435,Tech Mahindra,Mobile App Developer,Salem,Mining,"['Customer Relationship', 'Field Survey', 'Welding', 'GitLab', 'Figma']",12,11734
+INT1436,Tech Mahindra,ML Engineer,City_301,Shared Services,"['MS Excel', 'Social Work', '3D Printing', 'Deep Learning']",12,6345
+INT1437,Tata Steel,Data Analyst,Sonipat,Rural Development,"['Confluence', 'Operations']",3,13490
+INT1438,Wipro,Cybersecurity Analyst,City_311,Logistics,"['Docker', 'Statistics', 'Phlebotomy', 'IoT']",6,23816
+INT1439,Mahindra,Network Engineer,City_124,Industry_012,"['Electrical Wiring', 'Claims Processing']",3,10681
+INT1440,Infosys,HR Assistant,City_161,Real Estate,"['Cybersecurity', 'Content Writing', 'Deep Learning', 'Machine Learning', 'Merchandising']",6,7887
+INT1441,HCL,Product Manager,Raipur,Environmental Services,"['Taxation', 'Penetration Testing', 'Angular', 'Flask']",6,12322
+INT1442,TCS,UI/UX Designer,Dhanbad,CleanTech,"['C++', 'Automation Testing', 'Employee Engagement', 'MS Excel']",3,8270
+INT1443,Cognizant,Data Analyst,City_316,Industry_009,"['Taxation', 'VLSI Basics', 'AutoCAD', 'Social Media', 'UAV Operation']",6,15478
+INT1444,Mahindra,Copywriter,City_222,Non-Profit,"['Field Sales', 'Social Media', 'R', 'Power Automate']",12,11021
+INT1445,Bajaj,Operations Associate,Mysore,Tourism,"['VLSI Basics', 'Arduino', 'Technical Writing', 'HubSpot', 'CI/CD']",3,18663
+INT1446,HDFC Bank,Automation Tester,Raipur,Marketing Services,"['TypeScript', 'Talent Acquisition']",3,17531
+INT1447,Aditya Birla,Content Writer,City_316,Agriculture,"['Django', 'Microfinance']",12,22250
+INT1448,Aditya Birla,DevOps Engineer,Kozhikode,Event Management,"['Cloud', 'KYC', 'SPSS', 'Warehouse Operations']",12,9633
+INT1449,Reliance,Content Strategist,City_258,Defense,"['Pharmacy Assistance', 'Data Engineering', 'Painting']",6,16660
+INT1450,Cognizant,QA Engineer,City_206,E-commerce,"['Welding', 'CNC', 'PowerApps', 'Bookkeeping', 'GCP']",3,22336
+INT1451,HCL,QA Engineer,City_139,Ports & Shipping,"['Laboratory Technician', 'Machine Learning', 'AML', 'Python', 'C++', 'Customer Relationship']",12,12549
+INT1452,Wipro,Automation Tester,City_325,Analytics,"['Teamwork', 'MATLAB', 'Field Survey', 'SolidWorks']",12,19937
+INT1453,TCS,Cybersecurity Analyst,Hisar,Construction,"['Rust', 'CSS', 'GIS']",12,20181
+INT1454,Cognizant,Full Stack Developer,City_137,Startups & Incubation,"['VLSI Basics', 'Teamwork', 'Claims Processing', 'STATA']",6,11270
+INT1455,L&T,Finance Intern,Guntur,Tourism,"['Finance', 'Machine Learning', 'Content Writing', 'CRM', 'Powershell', 'Cashier']",3,15852
+INT1456,Aditya Birla,HR Assistant,City_329,Healthcare,"['Masonry', 'Creativity', 'Inventory Management']",3,17455
+INT1457,TCS,Business Analyst,City_283,Manufacturing,"['ServiceNow', 'Bash', 'Documentation']",3,18713
+INT1458,Maruti Suzuki,Digital Marketer,City_154,Railways,"['Automation Testing', 'Inventory Management', 'Nursing Assistance', 'IoT']",6,6365
+INT1459,Tata Steel,Operations Associate,Kanpur,Insurance,"['Painting', 'Problem Solving']",12,24150
+INT1460,L&T,Marketing Associate,City_224,Dairy,"['Vulnerability Assessment', 'NoSQL', 'NLP', 'Supply Chain']",6,16613
+INT1461,Reliance,Customer Support,Nellore,Shared Services,"['CAD', 'Public Speaking', 'MS Word', 'Time Management', 'Quality Assurance', 'Store Management']",6,16389
+INT1462,Reliance,Cybersecurity Analyst,City_315,Marketing Services,"['Node.js', 'Vulnerability Assessment', 'Supply Chain']",12,6719
+INT1463,Reliance,QA Engineer,Noida,Hospitality,"['TypeScript', 'Machine Learning', 'Computer Vision', 'Store Management', 'Cybersecurity', 'CATIA']",6,5298
+INT1464,Cognizant,Project Manager,City_247,Entertainment,"['Food Safety', 'Microfinance', 'Manual Testing', 'Data Analysis']",12,5505
+INT1465,HCL,HR Assistant,Jaipur,BPO/ITES,"['SPSS', 'Field Survey', 'POS Systems', 'Store Management']",6,22073
+INT1466,Bajaj,Customer Support,City_166,Industry_008,"['CAD', 'Git', 'Cashier']",12,14497
+INT1467,HDFC Bank,Data Scientist,City_302,Industry_006,"['Confluence', 'JMeter']",12,6565
+INT1468,ICICI Bank,Product Manager,City_158,Textiles,"['CAD', 'Product Management', 'Electrical Wiring']",6,8046
+INT1469,Tata Steel,Copywriter,City_243,KPO,"['CAM', 'Lead Generation']",12,12243
+INT1470,Wipro,Automation Tester,City_202,Ports & Shipping,"['CATIA', 'Jira']",12,21943
+INT1471,Reliance,Content Strategist,City_321,Disaster Management,"['Lead Generation', 'Bookkeeping', 'Phlebotomy', 'UAV Operation', 'DevOps']",12,10465
+INT1472,ICICI Bank,Technical Support,City_340,Beauty & Wellness,"['UAV Operation', 'Powershell', 'Docker', 'Basic Computer Skills', 'Linux', 'Cashier']",12,5052
+INT1473,Maruti Suzuki,Technical Support,Salem,Disaster Management,"['CI/CD', 'Project Management', 'Tally']",3,6367
+INT1474,Reliance,Mobile App Developer,City_262,Public Health,"['L&D', 'MS PowerPoint', 'Store Management', 'Copywriting']",12,18841
+INT1475,Mahindra,Data Engineer,City_210,Analytics,"['Problem Solving', 'JavaScript', 'Embedded Systems', 'Inventory Management', 'Marketing']",6,23076
+INT1476,HCL,Financial Analyst,City_138,Industry_008,"['PLC', 'Field Sales', '5S', 'CRM']",3,7600
+INT1477,HCL,Digital Marketer,City_326,Courier,"['ISO 9001', 'Inside Sales']",6,15805
+INT1478,Bajaj,QA Engineer,Kozhikode,Aviation,"['Public Speaking', 'Requirements Gathering', 'MS PowerPoint', 'Laboratory Technician', 'JMeter', 'Machine Learning']",12,7109
+INT1479,Tata Steel,QA Engineer,City_150,Disaster Management,"['Pharmacy Assistance', 'Docker', 'L&D', 'Quality Assurance', 'Inside Sales']",3,8860
+INT1480,Maruti Suzuki,Supply Chain Analyst,City_317,Ports & Shipping,"['Jira', 'CRM', 'Canva', 'Technical Writing', 'Embedded Systems']",6,16652
+INT1481,Maruti Suzuki,Marketing Associate,Coimbatore,Industry_013,"['PowerApps', 'Wind Turbine Basics', 'Labor Laws', 'Email Marketing']",3,18215
+INT1482,Mahindra,HR Assistant,City_307,Handloom,"['POS Systems', 'C++', 'React']",12,11768
+INT1483,ICICI Bank,Network Engineer,City_259,Warehousing,"['Power BI', 'Procurement']",3,6233
+INT1484,Infosys,Technical Support,City_168,Food & Beverage,"['Remote Sensing', 'Solar Installation', 'CI/CD', 'GitHub', 'Marketing']",3,9137
+INT1485,L&T,Project Manager,City_278,Industry_010,"['Branding', 'CSR Implementation', 'UAV Operation']",12,10485
+INT1486,Mahindra,Content Writer,City_211,MSME,"['CNC', 'Plumbing']",12,13324
+INT1487,Reliance,QA Engineer,Kalyan,Transportation,"['SQL', 'Requirements Gathering', 'C++', 'Zoho', 'Vulnerability Assessment', 'Penetration Testing']",6,23138
+INT1488,TCS,Data Scientist,City_171,Shared Services,"['Risk Assessment', 'Product Management', 'Tally', 'Zoho', 'Basic Computer Skills']",6,18115
+INT1489,Tata Steel,Financial Analyst,Jalandhar,Renewable Energy,"['Confluence', 'Business Analysis', 'Recruitment', 'JavaScript']",6,13029
+INT1490,Bajaj,DevOps Engineer,City_202,Education,"['Labor Laws', 'Presentation', 'Technical Writing', 'Risk Assessment', 'Warehouse Operations', 'Painting']",12,9514
+INT1491,Mahindra,DevOps Engineer,Rajkot,Research,"['Risk Assessment', 'Vulnerability Assessment', 'Procurement', 'Medical Coding']",6,23788
+INT1492,Infosys,ML Engineer,City_307,Industry_003,"['Laboratory Technician', 'MS Word', 'Finance']",6,19563
+INT1493,Tata Steel,QA Engineer,City_350,Real Estate,"['Investment Research', 'Claims Processing', 'HTML', 'Git', 'Data Engineering', 'Auditing']",6,12127
+INT1494,L&T,Product Manager,Lucknow,Industry_001,"['Selenium', 'HubSpot', 'Sales', 'AutoCAD', 'AWS']",3,10200
+INT1495,Reliance,Cloud Engineer,City_214,FinTech,"['IoT', 'Financial Modeling', 'Procurement']",6,21777
+INT1496,HDFC Bank,Business Analyst,City_203,Technology,"['CAD', 'Embedded Systems', 'Community Mobilization', 'TypeScript', 'Communication']",6,7693
+INT1497,Aditya Birla,Customer Support,City_289,Industry_004,"['Computer Vision', 'IoT', 'Critical Thinking', 'Flask', 'Selenium', 'Communication']",6,17134
+INT1498,Infosys,DevOps Engineer,City_294,Industry_001,"['Copywriting', 'NLP', 'Zoho', 'Branding']",12,10413
+INT1499,ICICI Bank,UI/UX Designer,City_345,Automotive,"['Requirements Gathering', 'Welding', 'Typing', 'GitLab', 'Customer Service']",12,13012
